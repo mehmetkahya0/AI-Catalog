@@ -2,6 +2,26 @@
 
 A curated list of AI tools, platforms, and resources across various domains.
 
+
+
+
+
+[![mehmetkahya0 - AI-Catalog](https://img.shields.io/static/v1?label=mehmetkahya0&message=AI-Catalog&color=blue&logo=github)](https://github.com/mehmetkahya0/AI-Catalog "Go to GitHub repo")
+[![stars - AI-Catalog](https://img.shields.io/github/stars/mehmetkahya0/AI-Catalog?style=social)](https://github.com/mehmetkahya0/AI-Catalog)
+[![forks - AI-Catalog](https://img.shields.io/github/forks/mehmetkahya0/AI-Catalog?style=social)](https://github.com/mehmetkahya0/AI-Catalog)
+
+
+[![Twitter Badge](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/Mehmet1122334)
+[![Reddit Badge](https://badgen.net/badge/icon/reddit?icon=reddit&label)](https://reddit.com/mehmettkahya)
+
+
+![GitHub issues](https://img.shields.io/github/issues/mehmetkahya0/AI-Catalog)
+[![GitHub tag](https://img.shields.io/github/tag/mehmetkahya0/AI-Catalog?include_prereleases=&sort=semver&color=blue)](https://github.com/mehmetkahya0/AI-Catalog/releases/)
+[![License](https://img.shields.io/badge/License-_GNU_GENERAL_PUBLIC_LICENSE-blue)](#license)
+
+
+Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https://github.com/mehmetkahya0).
+
 ## Text To Image AI's
 - [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)
 - [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)
