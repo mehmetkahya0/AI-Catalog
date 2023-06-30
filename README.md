@@ -62,10 +62,10 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 ## Prompt Generator
 
 - PromptDrive.ai
--PromptInterface.ai
--Prompt Refine
--MakerBox
--Promptchan
+- PromptInterface.ai
+- Prompt Refine
+- MakerBox
+- Promptchan
 - Geniea
 - CreativAI
 - MidJourney prompt helper
