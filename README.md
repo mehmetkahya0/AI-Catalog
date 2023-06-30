@@ -22,6 +22,10 @@ A curated list of AI tools, platforms, and resources across various domains.
 
 Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https://github.com/mehmetkahya0).
 
+
+
+
+
 ## Text To Image AI's
 - [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)
 - [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)
