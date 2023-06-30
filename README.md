@@ -42,6 +42,8 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 - [DeepAI](https://deepai.org/machine-learning-model/text2img)
 - [Big Sleep](https://github.com/lucidrains/big-sleep)
 - [Skybox lab](https://skybox.blockadelabs.com)
+- [Stable diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- 
 
 
 ## Summarizer
@@ -104,6 +106,9 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 - AI Essay Writer
 - Editeur
 - Asterix Writer
+- [KoboldAI](https://github.com/henk717/KoboldAI)
+- [llama](https://github.com/ggerganov/llama.cpp)
+- [Text Generation Web UI](https://github.com/oobabooga/text-generation-webui)
 
 ## Copywriting
 
