@@ -2,7 +2,7 @@
 
 A curated list of AI tools, platforms, and resources across various domains.
 
-
+ [![HitCount](https://hits.dwyl.com/mehmetkahya0/AI-Catalog.svg?style=flat-square)](http://hits.dwyl.com/mehmetkahya0/AI-Catalog)
 
 
 
