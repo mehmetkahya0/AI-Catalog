@@ -348,6 +348,51 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 - Presentations.AI
 - MagicSlides
 - ChatBA
-- 
+
+## Website Builder
+- Wix
+- Jimdo
+- Unbounce
+- CodeWP
+- Framer
+
+## ChatGPT Plugins
+- Expedia
+- FiscalNote
+- Instacart
+- KAYAK
+- Klarna
+- Milo
+- OpenTable
+- Slack
+- Shopify
+- Zapier
+- Speak
+
+## Education Assistants
+- Chatbase
+- Paperclips copilot
+- WolframAlpha
+- Orygo AI
+- Poe
+- Wisdolia
+- Soofy
+- PaperBrain
+- TutorAI
+- QuestionMaker Pro
+- Quino
+- TeacherTools GPT
+- EssayGrader
+- KindleGPT
+- Emma
+- Inspiro
+- Polyspeak
+- OpExams
+- MindPal
+- Praxy
+- BookAI
+
+
+
 
 
