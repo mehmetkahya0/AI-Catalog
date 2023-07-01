@@ -158,6 +158,8 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 - Codex
 
 ## Developer Tools
+- ChatGPT
+- Github Copilot
 - Embedditor
 - AssemblyAI
 - Avian ChatGPT Plugin
