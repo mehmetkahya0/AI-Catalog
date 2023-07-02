@@ -47,6 +47,7 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 - [Big Sleep](https://github.com/lucidrains/big-sleep)
 - [Skybox lab](https://skybox.blockadelabs.com)
 - [Stable diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [Leanardo.ai](https://leonardo.ai)
  
 ## Summarizer
 - [Loopin AI](https://www.loopinhq.com/?utm_source=futurepedia_nl)
