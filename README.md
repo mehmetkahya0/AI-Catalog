@@ -21,7 +21,7 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 
 
 -----------------------------------
-*Last Update: 02.07.2023* *DD/MM/YYYY*
+*Last Update: 02.07.2023*   (*DD/MM/YYYY*)
 
 
 
