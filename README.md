@@ -21,7 +21,7 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 
 
 -----------------------------------
-*Last Update: 30.06.2023*
+*Last Update: 02.07.2023* *DD/MM/YYYY*
 
 
 
@@ -348,6 +348,7 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 - Presentations.AI
 - MagicSlides
 - ChatBA
+- Gamma.app
 
 ## Website Builder
 - Wix
