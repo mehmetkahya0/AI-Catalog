@@ -51,6 +51,7 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 - [Skybox lab](https://skybox.blockadelabs.com)
 - [Stable diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 - [Leanardo.ai](https://leonardo.ai)
+- [Steable Diffusion XL (NEW!)](https://stability.ai/stablediffusion)
  
 ## Summarizer
 - [Loopin AI](https://www.loopinhq.com/?utm_source=futurepedia_nl)
@@ -401,4 +402,6 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT)
 
 
-
+## Photo Editing
+- [Clipdrop](https://clipdrop.co)
+- 
