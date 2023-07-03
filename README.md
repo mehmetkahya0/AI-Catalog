@@ -24,6 +24,9 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 *Last Update: 02.07.2023*   (*DD/MM/YYYY*)
 
 
+**Note:** I accept pull requests. You can add the AI models you want to add.
+
+-----------------------------------------
 
 
 ## Text To Image AI's
