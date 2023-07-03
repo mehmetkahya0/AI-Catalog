@@ -268,6 +268,7 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 - Bing
 - PromptBase
 - ChatGPT chrome extension
+- [Character ai](https://beta.character.ai/)
 
 ## E-Mail Assistant
 - Superflows
