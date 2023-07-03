@@ -394,7 +394,8 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 - Praxy
 - BookAI
 
-
+## Autonomous AI Agents
+- [DemoGPT](https://github.com/melih-unsal/DemoGPT)
 
 
 
