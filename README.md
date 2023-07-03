@@ -65,7 +65,9 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 - [Quino](https://quino.ai)
 - [Brave Search Summarizer](https://www.brave.com)
 - [Shortify](https://shortify.pro)
-
+- [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf/related)
+- [ChatGPT for YouTube](https://chrome.google.com/webstore/detail/chatgpt-for-youtube/ocbklpkcikpidkleacbohkobinlilgbd)
+- 
 ## Prompt Generator
 
 - PromptDrive.ai
@@ -404,4 +406,10 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 
 ## Photo Editing
 - [Clipdrop](https://clipdrop.co)
-- 
+
+## Chrome AI Extensions
+- [ReaderGPT](https://chrome.google.com/webstore/detail/readergpt-chatgpt-based-w/ohgodjgnfedgikkgcjdkomkadbfedcjd)
+- [WebChatGPT](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn/related)
+- [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf/related)
+- [ChatGPT for YouTube](https://chrome.google.com/webstore/detail/chatgpt-for-youtube/ocbklpkcikpidkleacbohkobinlilgbd)
+- [Engage AI](https://chrome.google.com/webstore/detail/engage-ai-openai-gpt-for/nelhhkchoapcbpcgpmmiahfkcdhgecaf/related)
