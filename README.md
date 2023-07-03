@@ -24,8 +24,7 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 *Last Update: 02.07.2023*   (*DD/MM/YYYY*)
 
 
-## Autonomous AI Agents
-- [DemoGPT](https://github.com/melih-unsal/DemoGPT)
+
 
 ## Text To Image AI's
 - [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)
@@ -395,6 +394,8 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 - Praxy
 - BookAI
 
+## Autonomous AI Agents
+- [DemoGPT](https://github.com/melih-unsal/DemoGPT)
 
 
 
