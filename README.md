@@ -10,7 +10,6 @@
 [![forks - AI-Catalog](https://img.shields.io/github/forks/mehmetkahya0/AI-Catalog?style=social)](https://github.com/mehmetkahya0/AI-Catalog)
 
 
-[![Twitter Badge](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/Mehmet1122334)
 [![Reddit Badge](https://badgen.net/badge/icon/reddit?icon=reddit&label)](https://reddit.com/mehmettkahya)
 
 
