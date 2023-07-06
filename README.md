@@ -19,7 +19,7 @@
 Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https://github.com/mehmetkahya0).
 
 
------------------------------------
+--------------------------------------
 *Last Update: 03.07.2023*   (*DD/MM/YYYY*)
 
 
