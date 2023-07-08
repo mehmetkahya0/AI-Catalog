@@ -254,6 +254,7 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 - Wonder Studio
 - Adobe Firefly
 - [Spline 3D](https://spline.design)
+- [LeiaPix](https://convert.leiapix.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia)
   
 ## Search Engines & Chatbot's
 - Andi
