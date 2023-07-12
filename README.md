@@ -421,3 +421,7 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 
 ## Deep Face & Deep Fake
 - [insightface.ai](https://insightface.ai)
+
+## Builder
+- [Ai chatbot builder](http://Wizy.chat)
+- [Ai resume builder](http://Kickresume.com)
