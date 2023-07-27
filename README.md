@@ -427,3 +427,6 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 ## Builder
 - [Ai chatbot builder](http://Wizy.chat)
 - [Ai resume builder](http://Kickresume.com)
+
+## Landing Page Generator
+- [aipage.dev](https://www.aipage.dev)
