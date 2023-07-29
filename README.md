@@ -433,4 +433,4 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 
 
 ## Deep Voice
-- [FskeYou](https://fakeyou.com)
+- [FakeYou](https://fakeyou.com)
