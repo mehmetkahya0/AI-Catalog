@@ -432,5 +432,5 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 - [aipage.dev](https://www.aipage.dev)
 
 
-## Deep Voice
+## Deep Voice (Text to Speech & Speech to Speech)
 - [FakeYou](https://fakeyou.com)
