@@ -28,7 +28,9 @@ Next star goal = ⭐️100⭐️
 
 -----------------------------------------
 **[Notion Page](https://mehmet-kahya.notion.site/mehmet-kahya/b9e7d764eb0b4cff81a0d456e219bed1?v=5e7e6b5668ad4283973ea4cb9b523d25)**
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=mehmetkahya0/AI-Catalog&type=Date)](https://star-history.com/#mehmetkahya0/AI-Catalog&Date)
 -----------------------------------------
 
 ## Text To Image AI's
