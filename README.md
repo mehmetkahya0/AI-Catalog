@@ -20,9 +20,9 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 
 
 --------------------------------------
-*Last Update: 15.08.2023*   (*DD/MM/YYYY*)
+*Last Update: 16.08.2023*   (*DD/MM/YYYY*)
 
-Next star goal = ⭐️100⭐️
+Next star goal = ⭐️110⭐️
 
 **Note:** I accept pull requests. You can add the AI models you want to add.
 
