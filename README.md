@@ -72,7 +72,8 @@ Next star goal = ⭐️130⭐️
 - [Shortify](https://shortify.pro)
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf/related)
 - [ChatGPT for YouTube](https://chrome.google.com/webstore/detail/chatgpt-for-youtube/ocbklpkcikpidkleacbohkobinlilgbd)
-  
+- SciSummary
+
 ## Prompt Generator
 
 - PromptDrive.ai
