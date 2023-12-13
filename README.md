@@ -231,6 +231,10 @@ Next star goal = ⭐️210⭐️
 - Hify
 - Record Once
 - Klap
+- DupDub
+- Virbo
+- Chromox
+- 
 
 ## 3D
 - Meshy
@@ -258,7 +262,8 @@ Next star goal = ⭐️210⭐️
 - Adobe Firefly
 - [Spline 3D](https://spline.design)
 - [LeiaPix](https://convert.leiapix.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia)
-  
+- Alpha3D
+- 
 ## Search Engines & Chatbot's
 - Andi
 - GPTGO
@@ -274,6 +279,18 @@ Next star goal = ⭐️210⭐️
 - PromptBase
 - ChatGPT chrome extension
 - [Character ai](https://beta.character.ai/)
+- Julius
+- Peasy Sales
+- Elephant
+- Drift
+- Mintor
+- Fini
+- Ribbo
+- ChatABC
+- Proseable
+- Signals
+- LivePerson
+- Whismer
 
 ## E-Mail Assistant
 - Superflows
@@ -425,6 +442,7 @@ Next star goal = ⭐️210⭐️
 ## Deep Face & Deep Fake
 - [insightface.ai](https://insightface.ai)
 
+
 ## Builder
 - [Ai chatbot builder](http://Wizy.chat)
 - [Ai resume builder](http://Kickresume.com)
@@ -432,6 +450,99 @@ Next star goal = ⭐️210⭐️
 ## Landing Page Generator
 - [aipage.dev](https://www.aipage.dev)
 
+## AI Detection
+- Afforai
+- Deepbrain AI
+- Chat Data
+- CheckForAI
+- Validor AI
+- Detect GPT
+- One More AI
+- Zero GPT
+- Vicuna
+- Rhombus
+- Verkada
+- Spot
+- 
 
 ## Deep Voice (Text to Speech & Speech to Speech)
 - [FakeYou](https://fakeyou.com)
+- [RVC GUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
+
+## Start-up Tools
+- Mixo.io
+- Zapt.AI
+- ideabuddy
+- Flowpoint
+- Durable
+- Gamma
+- Eesel AI
+- Bizway
+- Olympia
+- Sidekick
+- Namelix
+- Tome
+- Osum
+- Vellum
+- Amazon Sage Maker
+- Brightbid
+
+## AI's for SQL
+- Airops
+- Coginiti
+- DataDistillr
+- MindsDB
+- OSS Insight
+- Lookup
+- Ai2sql
+- Channel
+- SAP HANA Cloud
+- Op
+- Equals
+- Vanna
+- QueryCraft
+- Ana by TextQL
+- SupaSQL
+- OtterTune
+- FlexBerry
+- Mason
+- SQL Genius
+
+
+## Education Tools
+- Humata AI
+- GAJIX
+- Chatbase
+- Courses AI
+- Grammerly
+- Pgrammer
+- WorkbookPDF
+- CourseBox
+- Orygo AI
+- ConceptMap
+- Paperclips
+- Poe
+- ES.AI
+- Wisdolia
+- Soofy
+- PaperBrain
+- TutorAI
+- fast.ai
+- Jagoda
+- linnk
+
+## Text to Video
+- Synthesia
+- Vidnoz
+- Wondershare Presentory
+- Vimeo AI
+- Spikes Studio
+- Shortmake
+- Video Candy
+- Deepshot AI
+- Deepfake Gen
+- Gen-2 by Runway
+- Sread
+- YTClass
+- Krizmi
+- Mentor.AI
