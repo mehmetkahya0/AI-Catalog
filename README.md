@@ -20,18 +20,15 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 
 
 --------------------------------------
-*Last Update: 9.12.2023*   (*DD/MM/YYYY*)
+*Last Update: 12.12.2023*   (*DD/MM/YYYY*)
 
-Next star goal = ⭐️160⭐️
+Next star goal = ⭐️200⭐️
 
 **Note:** I accept pull requests. You can add the AI models you want to add.
 
 -----------------------------------------
 **[Notion Page](https://mehmet-kahya.notion.site/mehmet-kahya/b9e7d764eb0b4cff81a0d456e219bed1?v=5e7e6b5668ad4283973ea4cb9b523d25)**
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=mehmetkahya0/AI-Catalog&type=Date)](https://star-history.com/#mehmetkahya0/AI-Catalog&Date)
------------------------------------------
+--------------------------------
 
 ## Text To Image AI's
 - [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)
