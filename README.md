@@ -67,6 +67,7 @@ Next star goal = ⭐️270⭐️
 - [Quino](https://quino.ai)
 - [Brave Search Summarizer](https://www.brave.com)
 - [Shortify](https://shortify.pro)
+- [Documind: chat with pdf](https://documind.chat)
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf/related)
 - [ChatGPT for YouTube](https://chrome.google.com/webstore/detail/chatgpt-for-youtube/ocbklpkcikpidkleacbohkobinlilgbd)
 - SciSummary
