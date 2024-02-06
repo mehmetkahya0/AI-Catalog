@@ -54,6 +54,7 @@ Next star goal = ⭐️270⭐️
 - [Leanardo.ai](https://leonardo.ai)
 - [Steable Diffusion XL (NEW!)](https://stability.ai/stablediffusion)
 - [recraft ai](app.recraft.ai)
+- [kazimir.ai](The catalog of 2 million AI-generated images)
  
 ## Summarizer
 - [Loopin AI](https://www.loopinhq.com/?utm_source=futurepedia_nl)
