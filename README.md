@@ -31,6 +31,7 @@ Next star goal = ⭐️270⭐️
 --------------------------------
 
 ## Text To Image AI's
+- [kazimir.ai (The catalog of 2 million AI-generated images)](kazimir.ai)
 - [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)
 - [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)
 - [Dall-e](https://openai.com/dall-e-2)
@@ -54,10 +55,10 @@ Next star goal = ⭐️270⭐️
 - [Leanardo.ai](https://leonardo.ai)
 - [Steable Diffusion XL (NEW!)](https://stability.ai/stablediffusion)
 - [recraft ai](app.recraft.ai)
-- [kazimir.ai](The catalog of 2 million AI-generated images)
 - [YouML](https://youml.com)
  
 ## Summarizer
+- [AI Summarizer by copilot.us](https://copilot.us/apps/summarizer)
 - [Loopin AI](https://www.loopinhq.com/?utm_source=futurepedia_nl)
 - [Eightify](https://eightify.app)
 - [Upword](https://www.upword.ai/)
