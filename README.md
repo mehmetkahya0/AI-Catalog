@@ -22,7 +22,7 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 --------------------------------------
 *Last Update: 4.01.2024*   (*DD/MM/YYYY*)
 
-Next star goal = ⭐️270⭐️
+Next star goal = ⭐️280⭐️
 
 **Note:** I accept pull requests. You can add the AI models you want to add.
 
