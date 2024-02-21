@@ -550,3 +550,4 @@ Next star goal = ⭐️280⭐️
 - YTClass
 - Krizmi
 - Mentor.AI
+- [OpenAI's SORA](https://openai.com/sora)
