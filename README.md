@@ -39,6 +39,7 @@ Next star goal = ⭐️280⭐️
 - [Adobe Firefly](https://www.adobe.com/tr/sensei/generative-ai/firefly.html)
 - [Craiyon](https://www.craiyon.com)
 - [Photosonic](https://writesonic.com/photosonic-ai-art-generator)
+- [getmerlin.in Bonkers ](https://www.getmerlin.in/bonkers)
 - [Jasper.ai Art](https://www.jasper.ai)
 - [Nightcafe](https://nightcafe.studio)
 - [Canva](https://canva.com)
@@ -58,6 +59,7 @@ Next star goal = ⭐️280⭐️
 - [YouML](https://youml.com)
  
 ## Summarizer
+- [Youtube Summarizer by Merlin AI ](https://www.getmerlin.in/feature/youtube-summary-with-chatgpt)
 - [AI Summarizer by copilot.us](https://copilot.us/apps/summarizer)
 - [Loopin AI](https://www.loopinhq.com/?utm_source=futurepedia_nl)
 - [Eightify](https://eightify.app)
@@ -98,6 +100,7 @@ Next star goal = ⭐️280⭐️
 - Optimist
 
 ## Writing 
+- Merlin AI
 - Monica
 - Neural Newsletters
 - GPT3 Playground
@@ -128,6 +131,7 @@ Next star goal = ⭐️280⭐️
 
 ## Copywriting
 
+- Merlin AI
 - MarketingBlocks AI
 - Cohesive
 - Contents
@@ -150,6 +154,7 @@ Next star goal = ⭐️280⭐️
 - CopyMonkey
 
 ## Code Assistant
+- Codex by Merlin AI
 - Codeium
 - Replit
 - Taiga
@@ -273,6 +278,7 @@ Next star goal = ⭐️280⭐️
 - GPTGO
 - ChatGPT
 - Playground AI
+- Merlin AI
 - OperaOne Browser
 - DapperGPT
 - Brave
@@ -297,6 +303,7 @@ Next star goal = ⭐️280⭐️
 - Whismer
 
 ## E-Mail Assistant
+- SuperGmail by Merlin AI
 - Superflows
 - Voxwave AI
 - HoppyCopy
@@ -403,9 +410,11 @@ Next star goal = ⭐️280⭐️
 - Shopify
 - Zapier
 - Speak
+- Merlin AI
 
 ## Education Assistants
 - Chatbase
+- Merlin AI
 - Paperclips copilot
 - WolframAlpha
 - Orygo AI
