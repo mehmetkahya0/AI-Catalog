@@ -59,6 +59,7 @@ Next star goal = ⭐️280⭐️
 - [YouML](https://youml.com)
  
 ## Summarizer
+- [Recall - Summarize Anything, Forget Nothing](https://www.getrecall.ai/)
 - [Youtube Summarizer by Merlin AI ](https://www.getmerlin.in/feature/youtube-summary-with-chatgpt)
 - [AI Summarizer by copilot.us](https://copilot.us/apps/summarizer)
 - [Loopin AI](https://www.loopinhq.com/?utm_source=futurepedia_nl)
