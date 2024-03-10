@@ -22,7 +22,7 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 --------------------------------------
 *Last Update: 14.02.2024*   (*DD/MM/YYYY*)
 
-Next star goal = ⭐️280⭐️
+Next star goal = ⭐️290⭐️
 
 **Note:** I accept pull requests. You can add the AI models you want to add.
 
@@ -57,6 +57,7 @@ Next star goal = ⭐️280⭐️
 - [Steable Diffusion XL (NEW!)](https://stability.ai/stablediffusion)
 - [recraft ai](app.recraft.ai)
 - [YouML](https://youml.com)
+- [Fooocus](https://github.com/lllyasviel/Fooocus)
  
 ## Summarizer
 - [Youtube Summarizer by Merlin AI ](https://www.getmerlin.in/feature/youtube-summary-with-chatgpt)
