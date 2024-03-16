@@ -20,7 +20,7 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 
 
 --------------------------------------
-*Last Update: 14.02.2024*   (*DD/MM/YYYY*)
+*Last Update: 17.03.2024*   (*DD/MM/YYYY*)
 
 Next star goal = ⭐️300⭐️
 
