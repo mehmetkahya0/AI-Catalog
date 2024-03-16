@@ -26,10 +26,6 @@ Next star goal = ⭐️300⭐️
 
 **Note:** I accept pull requests. You can add the AI models you want to add.
 
------------------------------------------
-**[Notion Page](https://mehmet-kahya.notion.site/mehmet-kahya/b9e7d764eb0b4cff81a0d456e219bed1?v=5e7e6b5668ad4283973ea4cb9b523d25)**
---------------------------------
-
 ## Text To Image AI's
 - [kazimir.ai (The catalog of 2 million AI-generated images)](kazimir.ai)
 - [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)
