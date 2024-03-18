@@ -207,6 +207,7 @@ Next star goal = ⭐️300⭐️
 - Felvin
 - M! Chat
 - DeepOpinion
+- Floom
 
 ## Audio Editing
 - Fliki
