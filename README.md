@@ -54,7 +54,11 @@ Next star goal = ⭐️300⭐️
 - [recraft ai](app.recraft.ai)
 - [YouML](https://youml.com)
 - [Fooocus](https://github.com/lllyasviel/Fooocus)
- 
+
+## Multi-modal
+
+- [AI Runner](https://github.com/Capsize-Games/airunner) 
+
 ## Summarizer
 - [Recall - Summarize Anything, Forget Nothing](https://www.getrecall.ai/)
 - [Youtube Summarizer by Merlin AI ](https://www.getmerlin.in/feature/youtube-summary-with-chatgpt)
