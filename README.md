@@ -20,7 +20,7 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 
 
 --------------------------------------
-*Last Update: 10.04.2024*   (*DD/MM/YYYY*)
+*Last Update: 17.05.2024*   (*DD/MM/YYYY*)
 
 Next star goal = ⭐️350⭐️
 
@@ -246,7 +246,6 @@ Next star goal = ⭐️350⭐️
 - DupDub
 - Virbo
 - Chromox
-- 
 
 ## 3D
 - Meshy
@@ -275,7 +274,7 @@ Next star goal = ⭐️350⭐️
 - [Spline 3D](https://spline.design)
 - [LeiaPix](https://convert.leiapix.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia)
 - Alpha3D
-- 
+
 ## Search Engines & Chatbot's
 - Andi
 - GPTGO
@@ -479,7 +478,6 @@ Next star goal = ⭐️350⭐️
 - Rhombus
 - Verkada
 - Spot
-- 
 
 ## Deep Voice (Text to Speech & Speech to Speech)
 - [FakeYou](https://fakeyou.com)
@@ -563,3 +561,5 @@ Next star goal = ⭐️350⭐️
 - Krizmi
 - Mentor.AI
 - [OpenAI's SORA](https://openai.com/sora)
+- [Google's Veo](https://deepmind.google/technologies/veo/)
+- [Vidu](https://mp.weixin.qq.com/s/xAEYGIoJ0EzhszfmXno3UA)
