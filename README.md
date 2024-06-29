@@ -54,7 +54,7 @@ Next star goal = ⭐️380⭐️
 - [recraft ai](app.recraft.ai)
 - [YouML](https://youml.com)
 - [Fooocus](https://github.com/lllyasviel/Fooocus)
-
+- [Luma.ai](https://lumalabs.ai/)
 ## Multi-modal
 
 - [AI Runner](https://github.com/Capsize-Games/airunner) 
@@ -246,7 +246,7 @@ Next star goal = ⭐️380⭐️
 - DupDub
 - Virbo
 - Chromox
-
+- [Lumalabs.ai](https://lumalabs.ai/dream-machine)
 ## 3D
 - Meshy
 - StudioGPT
@@ -563,3 +563,7 @@ Next star goal = ⭐️380⭐️
 - [OpenAI's SORA](https://openai.com/sora)
 - [Google's Veo](https://deepmind.google/technologies/veo/)
 - [Vidu](https://mp.weixin.qq.com/s/xAEYGIoJ0EzhszfmXno3UA)
+- [Lumalabs.ai](https://lumalabs.ai/dream-machine)
+
+# Image to Video
+- [Lumalabs.ai DreamMachine](https://lumalabs.ai/dream-machine)
