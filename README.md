@@ -20,7 +20,7 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 
 
 --------------------------------------
-*Last Update: 29.06.2024*   (*DD/MM/YYYY*)
+*Last Update: 14.08.2024*   (*DD/MM/YYYY*)
 
 Next star goal = ⭐️380⭐️
 
@@ -55,9 +55,12 @@ Next star goal = ⭐️380⭐️
 - [YouML](https://youml.com)
 - [Fooocus](https://github.com/lllyasviel/Fooocus)
 - [Luma.ai](https://lumalabs.ai/)
+- Flux AI
+
 ## Multi-modal
 
-- [AI Runner](https://github.com/Capsize-Games/airunner) 
+- [AI Runner](https://github.com/Capsize-Games/airunner)
+- ChatGPT 4o
 
 ## Summarizer
 - [Recall - Summarize Anything, Forget Nothing](https://www.getrecall.ai/)
@@ -303,6 +306,7 @@ Next star goal = ⭐️380⭐️
 - Signals
 - LivePerson
 - Whismer
+- ChatGPT 4o
 
 ## E-Mail Assistant
 - SuperGmail by Merlin AI
