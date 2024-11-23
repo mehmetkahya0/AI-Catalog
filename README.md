@@ -20,9 +20,9 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 
 
 --------------------------------------
-*Last Update: 14.08.2024*   (*DD/MM/YYYY*)
+*Last Update: 23.11.2024*   (*DD/MM/YYYY*)
 
-Next star goal = ⭐️400⭐️
+Next star goal = ⭐️410⭐️
 
 **Note:** I accept pull requests. You can add the AI models you want to add.
 
@@ -61,6 +61,8 @@ Next star goal = ⭐️400⭐️
 
 - [AI Runner](https://github.com/Capsize-Games/airunner)
 - ChatGPT 4o
+- ChatGPT o1
+- Claude
 
 ## Summarizer
 - [Recall - Summarize Anything, Forget Nothing](https://www.getrecall.ai/)
