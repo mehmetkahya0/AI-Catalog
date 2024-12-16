@@ -56,6 +56,7 @@ Next star goal = ⭐️410⭐️
 - [Fooocus](https://github.com/lllyasviel/Fooocus)
 - [Luma.ai](https://lumalabs.ai/)
 - Flux AI
+- [AI Image Generator](https://www.aiimagegenerator.org)
 
 ## Multi-modal
 
