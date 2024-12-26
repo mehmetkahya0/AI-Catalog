@@ -20,9 +20,9 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 
 
 --------------------------------------
-*Last Update: 23.11.2024*   (*DD/MM/YYYY*)
+*Last Update: 26.12.2024*   (*DD/MM/YYYY*)
 
-Next star goal = ⭐️410⭐️
+Next star goal = ⭐️420⭐️
 
 **Note:** I accept pull requests. You can add the AI models you want to add.
 
@@ -63,6 +63,8 @@ Next star goal = ⭐️410⭐️
 - [AI Runner](https://github.com/Capsize-Games/airunner)
 - ChatGPT 4o
 - ChatGPT o1
+- ChatGPT o1-mini
+- ChatGPT o3
 - Claude
 
 ## Summarizer
