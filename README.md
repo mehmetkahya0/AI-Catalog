@@ -446,6 +446,7 @@ Next star goal = ⭐️420⭐️
 - MindPal
 - Praxy
 - BookAI
+- bugfree.ai
 
 ## Autonomous AI Agents
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT)
