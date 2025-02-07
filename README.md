@@ -22,7 +22,10 @@ Released under [ GNU GENERAL PUBLIC LICENSE](/LICENSE) by [@mehmetkahya0](https:
 --------------------------------------
 *Last Update: 26.12.2024*   (*DD/MM/YYYY*)
 
-Next star goal = ⭐️420⭐️
+Next star goal = ⭐️430⭐️
+
+TODO:
+[] Add LLM's
 
 **Note:** I accept pull requests. You can add the AI models you want to add.
 
