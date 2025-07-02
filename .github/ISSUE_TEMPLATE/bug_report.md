@@ -1,38 +1,38 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+name: 🐛 Bug Report
+about: Report broken links, incorrect information, or formatting issues
+title: '[BUG] '
+labels: 'bug'
 assignees: ''
-
 ---
 
-**Describe the bug**
+## 🐛 Bug Description
 A clear and concise description of what the bug is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## 📍 Location
+- **Section:** [e.g., Text to Image AI's, Writing Tools]
+- **Tool Name:** [if applicable]
+- **Line Number:** [if known]
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## 🔍 Issue Type
+- [ ] Broken link
+- [ ] Incorrect information
+- [ ] Formatting issue
+- [ ] Tool no longer exists
+- [ ] Wrong category
+- [ ] Other: ___________
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## 🔗 Affected Link(s)
+If reporting broken links, list them here:
+- 
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## ✅ Expected Behavior
+What should happen or what should the correct information be?
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+## 📱 Additional Context
+- Browser: [e.g., Chrome, Safari, Firefox]
+- Device: [e.g., Desktop, Mobile]
+- Any other relevant information
 
-**Additional context**
-Add any other context about the problem here.
+## 🔧 Suggested Fix
+If you know how to fix this issue, please describe it here.

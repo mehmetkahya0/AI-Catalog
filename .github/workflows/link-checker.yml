@@ -1,0 +1,64 @@
+name: Link Checker
+
+on:
+  schedule:
+    # Run every Monday at 9 AM UTC
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - 'README.md'
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check links in README
+        uses: lycheeverse/lychee-action@v1.8.0
+        with:
+          args: --verbose --no-progress --exclude-all-private --exclude="reddit.com" --exclude="fakeyou.com" --exclude="beta.character.ai" README.md
+          fail: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create issue if broken links found
+        if: env.lychee_exit_code != 0
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const title = '🔗 Broken Links Detected';
+            const body = `
+            ## Broken Links Report
+            
+            The automated link checker found some broken or inaccessible links in the README.md file.
+            
+            Please check the workflow logs for details: ${context.payload.repository.html_url}/actions/runs/${context.runId}
+            
+            ### Next Steps:
+            - Review the broken links in the workflow logs
+            - Update or remove broken links
+            - Verify the fixes work correctly
+            
+            This issue was automatically created by the Link Checker workflow.
+            `;
+            
+            // Check if issue already exists
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: ['broken-links']
+            });
+            
+            if (issues.data.length === 0) {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: title,
+                body: body,
+                labels: ['broken-links', 'maintenance']
+              });
+            }

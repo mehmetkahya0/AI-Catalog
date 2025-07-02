@@ -1,0 +1,70 @@
+name: PR Validation
+
+on:
+  pull_request:
+    paths:
+      - 'README.md'
+
+jobs:
+  validate-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check for duplicates
+        run: |
+          echo "Checking for duplicate entries..."
+          
+          # Extract tool names and URLs from README
+          grep -E '^\s*-\s*\*\*\[.*\]\(.*\)\*\*' README.md | sort | uniq -d > duplicates.txt
+          
+          if [ -s duplicates.txt ]; then
+            echo "❌ Duplicate entries found:"
+            cat duplicates.txt
+            echo "Please remove duplicate entries."
+            exit 1
+          else
+            echo "✅ No duplicates found"
+          fi
+
+      - name: Validate markdown formatting
+        run: |
+          echo "Validating markdown formatting..."
+          
+          # Check for proper tool formatting
+          if grep -qE '^\s*-\s*[^*].*\(' README.md; then
+            echo "❌ Found tools not using proper bold formatting:"
+            grep -E '^\s*-\s*[^*].*\(' README.md | head -5
+            echo "Please use: - **[Tool Name](url)** 💰/🔄/🆓 - Description"
+            exit 1
+          fi
+          
+          echo "✅ Markdown formatting looks good"
+
+      - name: Check required elements
+        run: |
+          echo "Checking for required elements in tool entries..."
+          
+          # Check if new tools have pricing indicators
+          git diff origin/main...HEAD README.md | grep '^+.*\*\*\[.*\]' | while read line; do
+            if ! echo "$line" | grep -qE '(💰|🔄|🆓|🆕|🔥)'; then
+              echo "❌ Missing pricing indicator in: $line"
+              echo "Please add 💰 (Paid), 🔄 (Freemium), or 🆓 (Free)"
+              exit 1
+            fi
+          done
+          
+          echo "✅ All new entries have pricing indicators"
+
+      - name: Comment on PR
+        if: success()
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '✅ **PR Validation Passed!**\n\nYour submission looks good and follows our guidelines. Thank you for contributing to AI-Catalog! 🚀'
+            });

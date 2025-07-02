@@ -1,20 +1,39 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+name: 💡 Feature Request
+about: Suggest improvements for the AI-Catalog
+title: '[FEATURE] '
+labels: 'enhancement'
 assignees: ''
-
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## 💡 Feature Description
+A clear and concise description of the feature you'd like to see.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## 🎯 Feature Type
+- [ ] New category suggestion
+- [ ] Organizational improvement
+- [ ] Documentation enhancement
+- [ ] Repository automation
+- [ ] User experience improvement
+- [ ] Other: ___________
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## 🔍 Problem Statement
+What problem does this feature solve? What's currently missing or could be improved?
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## 💭 Proposed Solution
+Describe your ideal solution in detail.
+
+## 🔄 Alternative Solutions
+Any alternative approaches you've considered?
+
+## 📋 Additional Context
+- Any examples from other repositories
+- Screenshots or mockups
+- Related issues or discussions
+- Implementation ideas
+
+## ✅ Acceptance Criteria
+What would need to be done for this feature to be considered complete?
+- [ ] 
+- [ ] 
+- [ ]

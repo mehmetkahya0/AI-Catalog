@@ -1,0 +1,76 @@
+name: Update Stats
+
+on:
+  schedule:
+    # Run every Sunday at midnight UTC
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'README.md'
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate statistics
+        run: |
+          # Create stats file
+          echo "# 📊 AI-Catalog Statistics" > STATS.md
+          echo "" >> STATS.md
+          echo "*Last updated: $(date)*" >> STATS.md
+          echo "" >> STATS.md
+          
+          # Count total tools
+          total_tools=$(grep -c "^\s*-\s*\*\*\[" README.md)
+          echo "## 📈 Overview" >> STATS.md
+          echo "- **Total Tools:** $total_tools" >> STATS.md
+          
+          # Count categories
+          total_categories=$(grep -c "^## " README.md)
+          echo "- **Total Categories:** $total_categories" >> STATS.md
+          
+          # Count subcategories
+          total_subcategories=$(grep -c "^### " README.md)
+          echo "- **Total Subcategories:** $total_subcategories" >> STATS.md
+          echo "" >> STATS.md
+          
+          # Pricing breakdown
+          echo "## 💰 Pricing Breakdown" >> STATS.md
+          free_tools=$(grep -c "🆓" README.md)
+          echo "- **Free Tools:** $free_tools" >> STATS.md
+          
+          paid_tools=$(grep -c "💰" README.md)
+          echo "- **Paid Tools:** $paid_tools" >> STATS.md
+          
+          freemium_tools=$(grep -c "🔄" README.md)
+          echo "- **Freemium Tools:** $freemium_tools" >> STATS.md
+          
+          new_tools=$(grep -c "🆕" README.md)
+          echo "- **New Tools:** $new_tools" >> STATS.md
+          
+          popular_tools=$(grep -c "🔥" README.md)
+          echo "- **Popular Tools:** $popular_tools" >> STATS.md
+          echo "" >> STATS.md
+          
+          # Category breakdown
+          echo "## 📂 Top Categories" >> STATS.md
+          echo "\`\`\`" >> STATS.md
+          grep "^## " README.md | head -10 | sed 's/^## //' >> STATS.md
+          echo "\`\`\`" >> STATS.md
+
+      - name: Update README with stats badge
+        run: |
+          total_tools=$(grep -c "^\s*-\s*\*\*\[" README.md)
+          sed -i "s/500+/$total_tools+/" README.md || true
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'AI-Catalog Bot'
+          git config --global user.email 'bot@ai-catalog.com'
+          git add STATS.md README.md
+          git diff --staged --quiet || git commit -m "📊 Auto-update statistics [skip ci]"
+          git push || true
