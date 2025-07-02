@@ -4,7 +4,7 @@
 
 *Your one-stop destination for discovering the best AI tools across all domains - from creative AI to developer tools, from chatbots to specialized applications.*
 
-*It's one of the first AI-list repo on Github!*
+*It's one of the first AI-list repo on Github! The first commit was on Jun 30, 2023!*
 
 *Note: I list the AIs I see while browsing the internet myself, so it can take a while to update the list!*
 
