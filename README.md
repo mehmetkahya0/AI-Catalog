@@ -126,6 +126,8 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[DALL-E 3](https://openai.com/dall-e-2)** 💰 - OpenAI's powerful text-to-image model
 - **[Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)** 🔄 - Adobe's commercial-safe AI image generator
 - **[Leonardo.ai](https://leonardo.ai)** 🔄 - Fine-tuned models for different art styles
+- **[Serplux](https://serplux.com/premium/agent/blog-image-generator)** 🔄 - Generate images using URL or Content . It also has free trial
+- 
 
 #### 🆓 Free & Open Source
 - **[Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)** 🆓 - Open-source foundation model
