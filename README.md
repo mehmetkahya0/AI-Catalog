@@ -402,6 +402,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Udio](https://udio.com)** 🆕 - AI music creation platform
 - **[Riffusion](https://riffusion.com)** 🆓 - AI music generation from text
 - **[AIVA](https://aiva.ai)** 🔄 - AI music composition
+- **[MuseGen](https://musegen.org)** 🆕 - AI music creation platform and audio edit tools
 
 #### 🔧 Audio Enhancement
 - **[Adobe Podcast](https://podcast.adobe.com)** 🆓 - AI audio enhancement
