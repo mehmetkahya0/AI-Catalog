@@ -132,6 +132,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** 🆓 - Popular local interface
 - **[Fooocus](https://github.com/lllyasviel/Fooocus)** 🆓 - Simplified Stable Diffusion experience
 - **[Craiyon](https://www.craiyon.com)** 🆓 - Free and easy-to-use generator
+- **[Gempix2 (Nano Banana 2)](https://gempix2.site)** 🆓 - Free AI image generation with text-to-image, editing, and video support
 
 #### 🔄 Freemium Options
 - **[DreamStudio](https://dreamstudio.ai)** 🔄 - Stability AI's official interface
