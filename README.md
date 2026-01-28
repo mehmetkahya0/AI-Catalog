@@ -1,6 +1,6 @@
-# 🤖 Huge AI Catalog V2.0 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🤖 Huge AI Catalog V3.0 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> **A comprehensive, curated collection of 500+ AI tools, platforms, and resources across 30+ categories**
+> **A comprehensive, curated collection of 300+ AI tools, platforms, and resources across 45+ categories**
 
 *Your one-stop destination for discovering the best AI tools across all domains - from creative AI to developer tools, from chatbots to specialized applications.*
 
@@ -40,7 +40,7 @@
 <div align="center">
   <strong>⭐ If you find this catalog helpful, please consider giving it a star! ⭐</strong>
   <br><br>
-  <i>Last updated: July 6, 2025 | Next goal: 470 stars 🎯</i>
+  <i>Last updated: January 28, 2026 | Next goal: 500 stars 🎯</i>
   <br><br>
   <i>🤖 Thanks to Claude Sonnet 4 for write .sh files! </i>
 </div>
@@ -96,11 +96,11 @@
 Welcome to the most comprehensive AI tools catalog! This repository contains **500+ carefully curated AI tools** across **30+ categories**. Each tool is tested and verified to ensure quality and relevance.
 
 ### 📊 Quick Stats
-- **Total Tools**: 220+
-- **Categories**: 40+
-- **Last Updated**: July 3, 2025
+- **Total Tools**: 300+
+- **Categories**: 45+
+- **Last Updated**: January 28, 2026
 - **Contributors**: Open for PRs!
-- **Next Goal**: ⭐️ 430 stars
+- **Next Goal**: ⭐️ 500 stars
 
 ### 🏷️ Legend
 - 🆓 **Free** - Completely free to use
@@ -122,46 +122,43 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 > Transform your ideas into stunning visuals with AI-powered image generation
 
 #### 🔥 Premium/Professional
-- **[Midjourney](https://www.midjourney.com/home/)** 💰 - Industry-leading AI art generator with exceptional quality
-- **[DALL-E 3](https://openai.com/dall-e-2)** 💰 - OpenAI's powerful text-to-image model
-- **[Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)** 🔄 - Adobe's commercial-safe AI image generator
+- **[Midjourney v7](https://www.midjourney.com/home/)** 🆕💰 - Latest version with text-to-video support (April 2025)
+- **[FLUX 1.1 Pro](https://blackforestlabs.ai)** 🆕💰 - Black Forest Labs' flagship model
+- **[FLUX 1.1 Ultra](https://blackforestlabs.ai)** 🆕💰 - High-resolution generation mode
+- **[FLUX Kontext](https://blackforestlabs.ai)** 🆕🔄 - In-context image editing
+- **[DALL-E 3](https://openai.com/dall-e-3)** 💰 - OpenAI's powerful text-to-image model
+- **[Google Imagen 4](https://deepmind.google/technologies/imagen-4/)** 🆕💰 - Google's latest image model
+- **[Adobe Firefly 3](https://www.adobe.com/sensei/generative-ai/firefly.html)** 🔄 - Adobe's commercial-safe AI generator
 - **[Leonardo.ai](https://leonardo.ai)** 🔄 - Fine-tuned models for different art styles
 
 #### 🆓 Free & Open Source
-- **[Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)** 🆓 - Open-source foundation model
-- **[Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** 🆓 - Popular local interface
+- **[Stable Diffusion 3.5](https://stability.ai)** 🆕🆓 - Latest open-source foundation model
+- **[Stable Diffusion XL](https://stability.ai)** 🆓 - High-resolution generation
+- **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** 🆕🆓 - Node-based workflow interface
+- **[Forge UI](https://github.com/lllyasviel/stable-diffusion-webui-forge)** 🆕🆓 - Optimized web UI fork
 - **[Fooocus](https://github.com/lllyasviel/Fooocus)** 🆓 - Simplified Stable Diffusion experience
 - **[Craiyon](https://www.craiyon.com)** 🆓 - Free and easy-to-use generator
-- **[Gempix2 (Nano Banana 2)](https://gempix2.site)** 🆓 - Free AI image generation with text-to-image, editing, and video support
 
 #### 🔄 Freemium Options
+- **[Ideogram 3.0](https://ideogram.ai)** 🆕🔄 - Best text rendering in images (March 2025)
+- **[Reve Image](https://reve.ai)** 🆕🔄 - Strong prompt adherence (March 2025)
 - **[DreamStudio](https://dreamstudio.ai)** 🔄 - Stability AI's official interface
 - **[NightCafe](https://nightcafe.studio)** 🔄 - Community-focused platform
-- **[StarryAI](https://starryai.com)** 🔄 - Mobile-friendly generator
-- **[Dream by WOMBO](https://www.wombo.art/create)** 🔄 - Simple mobile app
-- **[Artbreeder](https://www.artbreeder.com/)** 🔄 - Collaborative image breeding
-- **[DeepAI](https://deepai.org/machine-learning-model/text2img)** 🔄 - Simple API-based generator
+- **[Playground AI](https://playgroundai.com)** 🔄 - Creative AI with fine-tuning
+- **[Tensor Art](https://tensor.art)** 🔄 - Community-driven AI art platform
 
 #### 🆕 Specialized Tools
-- **[Recraft AI](https://app.recraft.ai)** 🆕 - Vector and brand-focused generation
-- **[Flux AI](https://flux.ai)** 🆕 - High-quality image synthesis
-- **[Ideogram](https://ideogram.ai)** 🆕 - AI image generator with text rendering capabilities
-- **[Pika Labs](https://pika.art)** 🆕 - AI video and image generation platform
-- **[Playground AI](https://playgroundai.com)** 🔄 - Creative AI image generation with fine-tuning
+- **[Recraft AI](https://app.recraft.ai)** 🔄 - Vector and brand-focused generation
+- **[Krea AI](https://krea.ai)** 🆕🔄 - Real-time image generation
+- **[Magnific AI](https://magnific.ai)** 🆕💰 - AI image upscaling and enhancement
+- **[Pika Labs](https://pika.art)** 🔄 - AI video and image generation
 - **[Skybox Lab](https://skybox.blockadelabs.com)** 🔄 - 360° skybox generation
-- **[YouML](https://youml.com)** 🔄 - Custom model training platform
-- **[Tensor Art](https://tensor.art)** 🆕 - Community-driven AI art platform
 
 #### 📱 Browser/Extension Tools
-- **[Photosonic](https://writesonic.com/photosonic-ai-art-generator)** 🔄 - Part of Writesonic suite
-- **[Canva AI](https://canva.com)** 🔄 - Integrated design platform
-- **[Adobe Photoshop Beta](https://community.adobe.com/t5/photoshop-beta/ct-p/ct-photoshop-beta)** 💰 - AI features in Photoshop
+- **[Canva AI](https://canva.com)** 🔄 - Integrated design platform with Dream Lab
+- **[Adobe Photoshop Generative Fill](https://adobe.com)** 💰 - AI features in Photoshop
+- **[Microsoft Designer](https://designer.microsoft.com)** 🔄 - AI-powered design tool
 - **[Fotor AI](https://www.fotor.com/features/ai-image-generator/)** 🔄 - Online photo editor with AI
-
-#### 🔬 Research & Experimental
-- **[Big Sleep](https://github.com/lucidrains/big-sleep)** 🆓 - CLIP + BigGAN implementation
-- **[Robo-diffusion](https://huggingface.co/nousr/robo-diffusion)** 🆓 - Robot-themed model
-- **[Kazimir.ai](https://kazimir.ai)** 🔄 - Catalog of AI-generated images
 
 ---
 
@@ -171,48 +168,58 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 > Advanced AI systems that can process text, images, audio, and video
 
 #### 🔥 Leading Models
+- **[GPT-5](https://openai.com)** 🆕💰 - OpenAI's most advanced model (August 2025)
 - **[ChatGPT 4o](https://chat.openai.com)** 🔄 - OpenAI's flagship multimodal model
-- **[ChatGPT o1](https://chat.openai.com)** 💰 - Advanced reasoning model
-- **[ChatGPT o1-mini](https://chat.openai.com)** 🔄 - Faster reasoning model
-- **[ChatGPT o3](https://chat.openai.com)** 🆕💰 - Latest generation model
-- **[Claude 3.5 Sonnet](https://claude.ai)** 🔄 - Anthropic's advanced AI assistant
-- **[Gemini Advanced](https://gemini.google.com)** 🔄 - Google's most capable AI model
+- **[ChatGPT o3](https://chat.openai.com)** 💰 - Advanced reasoning model
+- **[ChatGPT o1](https://chat.openai.com)** 🔄 - Reasoning-focused model
+- **[Claude Opus 4](https://claude.ai)** 🆕💰 - Anthropic's most capable coding & reasoning model
+- **[Claude Sonnet 4](https://claude.ai)** 🆕🔄 - Balanced performance and speed
+- **[Gemini 2.0 Flash](https://gemini.google.com)** 🆕🔄 - Google's fast multimodal model
+- **[Gemini 2.5 Pro](https://gemini.google.com)** 🔄 - Enhanced coding capabilities
+- **[Gemini 3 Pro](https://gemini.google.com)** 🆕💰 - Google's latest flagship (December 2025)
 - **[Perplexity Pro](https://pro.perplexity.ai)** 🔄 - AI-powered research and search assistant
 - **[Microsoft Copilot](https://copilot.microsoft.com)** 🔄 - Microsoft's AI assistant across products
 
 #### 🛠️ Self-Hosted Options
 - **[AI Runner](https://github.com/Capsize-Games/airunner)** 🆓 - Local AI model runner with GUI
+- **[Jan](https://jan.ai)** 🆓 - Open-source ChatGPT alternative
 
 ---
 
 ## 🧠 Large Language Models (LLMs)
 
 ### 🔥 Commercial LLMs
-- **[GPT-4 Turbo](https://openai.com/gpt-4)** 💰 - OpenAI's most capable model
-- **[Claude 3.5 Sonnet](https://claude.ai)** 🔄 - Anthropic's advanced reasoning model  
-- **[Gemini Ultra](https://gemini.google.com)** 🔄 - Google's multimodal AI model
-- **[PaLM 2](https://ai.google/discover/palm2)** 💰 - Google's language model powering Bard
+- **[GPT-5](https://openai.com)** 🆕💰 - OpenAI's most advanced model (August 2025)
+- **[GPT-4 Turbo](https://openai.com/gpt-4)** 💰 - High-performance GPT-4 variant
+- **[Claude Opus 4](https://claude.ai)** 🆕💰 - Anthropic's flagship for complex tasks
+- **[Claude Sonnet 4](https://claude.ai)** 🆕🔄 - Fast and capable reasoning model
+- **[Gemini 2.5 Pro](https://gemini.google.com)** 🆕🔄 - Google's enhanced coding model
+- **[Gemini Ultra](https://gemini.google.com)** 💰 - Google's most capable model
 
 ### 🆓 Open Source LLMs  
-- **[Llama 2](https://llama.meta.com)** 🆓 - Meta's open-source language model
-- **[Llama 3](https://llama.meta.com)** 🆕 - Meta's latest open-source model with improved capabilities
-- **[Mistral 7B](https://mistral.ai)** 🆓 - Efficient open-source model
-- **[Mixtral 8x7B](https://mistral.ai/news/mixtral-of-experts/)** 🆕 - Mistral's mixture of experts model
+- **[Llama 4 Scout](https://llama.meta.com)** 🆕🆓 - Meta's 17B MoE model (16 experts)
+- **[Llama 4 Maverick](https://llama.meta.com)** 🆕🆓 - Meta's 17B MoE model (128 experts)
+- **[Llama 3.1](https://llama.meta.com)** 🆓 - Meta's widely-used open model
+- **[DeepSeek v3](https://deepseek.com)** 🆕🆓 - High-performance Chinese open model
+- **[Qwen 2.5](https://qwenlm.github.io)** 🆕🆓 - Alibaba's multilingual model
+- **[Mistral Large 2](https://mistral.ai)** 🆕🔄 - Mistral's flagship model
+- **[Mixtral 8x22B](https://mistral.ai)** 🆕🆓 - Large mixture of experts
 - **[Code Llama](https://github.com/facebookresearch/codellama)** 🆓 - Specialized for code generation
-- **[Alpaca](https://github.com/tatsu-lab/stanford_alpaca)** 🆓 - Stanford's instruction-following model
-- **[Phi-3](https://azure.microsoft.com/en-us/blog/introducing-phi-3/)** 🆕 - Microsoft's small language model family
+- **[Phi-4](https://azure.microsoft.com/en-us/blog/introducing-phi-4/)** 🆕🆓 - Microsoft's efficient small model
 
 ### 🛠️ Self-Hosted Solutions
 - **[Ollama](https://ollama.ai)** 🆓 - Run LLMs locally with ease
 - **[LM Studio](https://lmstudio.ai)** 🆓 - Desktop app for local LLMs
+- **[Open WebUI](https://openwebui.com)** 🆕🆓 - Self-hosted ChatGPT-like interface
 - **[Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** 🆓 - Web interface for local models
 - **[llama.cpp](https://github.com/ggerganov/llama.cpp)** 🆓 - C++ implementation for efficient inference
+- **[vLLM](https://github.com/vllm-project/vllm)** 🆕🆓 - High-throughput LLM serving
 
 ### 🔬 Research & Experimental
-- **[Falcon](https://huggingface.co/tiiuae/falcon-7b)** 🆓 - UAE's open-source model
-- **[MPT](https://www.mosaicml.com/blog/mpt-7b)** 🆓 - MosaicML's transformer model
+- **[Falcon 2](https://huggingface.co/tiiuae)** 🆓 - UAE's latest open-source model
+- **[Yi-1.5](https://huggingface.co/01-ai)** 🆕🆓 - 01.AI's bilingual model
 - **[Vicuna](https://vicuna.lmsys.org)** 🆓 - UC Berkeley's ChatGPT alternative
-- **[WizardLM](https://github.com/nlpxucan/WizardLM)** 🆓 - Instruction-following model
+- **[WizardLM 2](https://github.com/nlpxucan/WizardLM)** 🆕🆓 - Improved instruction-following
 
 ---
 
@@ -334,23 +341,29 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 ## Code Assistant
 > AI-powered coding assistants and development tools
 
-#### 🔥 Professional Code Assistants
+#### 🔥 AI-Native Code Editors
+- **[Cursor](https://cursor.sh)** 🆕💰 - AI-first VS Code fork with deep automation
+- **[Windsurf](https://codeium.com/windsurf)** 🆕🔄 - Cascade AI assistant with one-click deploy
+- **[Zed](https://zed.dev)** 🆕🔄 - High-performance editor with AI features
+
+#### 🤖 Autonomous Coding Agents
+- **[Devin AI](https://devin.ai)** 🆕💰 - Autonomous software engineer
+- **[Claude Code](https://anthropic.com/claude-code)** 🆕🔄 - Agentic CLI tool for developers
+- **[OpenAI Codex](https://openai.com/codex)** 💰 - Code generation API
+- **[Aider](https://aider.chat)** 🆕🆓 - Terminal-based pair programming
+
+#### 💻 Code Assistants
 - **[GitHub Copilot](https://github.com/features/copilot)** 💰 - AI pair programmer from GitHub
 - **[Codeium](https://codeium.com)** 🔄 - Free AI code completion and chat
+- **[Supermaven](https://supermaven.com)** 🆕🔄 - Fast autocomplete with 300k context
 - **[Tabnine](https://tabnine.com)** 🔄 - AI assistant for software developers
-- **[Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)** 🔄 - ML-powered coding companion
+- **[Amazon Q Developer](https://aws.amazon.com/q/developer/)** 🆕🔄 - AWS coding companion
 
-#### 🆕 Emerging Tools
-- **[Cursor](https://cursor.sh)** 🆕 - AI-first code editor
-- **[Replit](https://replit.com)** 🔄 - Collaborative coding with AI
+#### � Open Source Tools
+- **[Continue](https://continue.dev)** 🆕🆓 - Open-source VS Code/JetBrains assistant
+- **[Replit Ghostwriter](https://replit.com)** 🔄 - Collaborative coding with AI
 - **[Phind](https://phind.com)** 🆓 - AI search engine for developers
-- **[Safurai](https://safurai.com)** 🔄 - AI code assistant for IDEs
-
-#### 🛠️ Specialized Tools
 - **[AutoRegex](https://autoregex.xyz)** 🆓 - AI-powered regex generator
-- **[Spellbox](https://spellbox.app)** 🔄 - AI programming assistant
-- **[AI CLI](https://github.com/abhagsain/ai-cli)** 🆓 - GPT3 powered CLI
-- **[GitFluence](https://gitfluence.com)** 🆓 - AI Git command generator
 
 ## Developer Tools
 - ChatGPT
@@ -415,22 +428,28 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 > AI-powered video creation and editing tools
 
 #### 🔥 Professional Video Tools
-- **[Synthesia](https://synthesia.io)** 💰 - AI avatar video generation
-- **[Runway Gen-2](https://runwayml.com)** 🔄 - Text-to-video generation
-- **[Pika Labs](https://pika.art)** 🆕 - AI video generation platform
-- **[Luma AI](https://lumalabs.ai/dream-machine)** 🆕 - High-quality video generation
+- **[Sora 2](https://openai.com/sora)** 🆕💰 - OpenAI's advanced video model (September 2025)
+- **[Runway Gen-4](https://runwayml.com)** 🆕💰 - Motion Brush & advanced camera control
+- **[Kling AI 2.1](https://klingai.com)** 🆕🔄 - 1080P, up to 3 minutes video
+- **[Google Veo 3.1](https://deepmind.google/technologies/veo/)** 🆕💰 - 4K output with native audio
+- **[Minimax AI](https://hailuoai.video)** 🆕🔄 - Text/image to video with free tier
+- **[Luma Dream Machine](https://lumalabs.ai/dream-machine)** 🔄 - High-quality video generation
 
 #### 🎬 Content Creation
+- **[Synthesia](https://synthesia.io)** 💰 - AI avatar video generation
+- **[HeyGen](https://heygen.com)** 🔄 - AI avatar videos with lip sync
 - **[Fliki](https://fliki.ai)** 🔄 - Text-to-video with AI voices
-- **[Klap](https://klap.app)** 🔄 - Turn videos into viral clips
 - **[Descript](https://descript.com)** 🔄 - AI-powered video editing
-- **[HeyGen](https://heygen.com)** 🔄 - AI avatar videos
+- **[Klap](https://klap.app)** 🔄 - Turn videos into viral clips
+- **[OpusClip](https://opus.pro)** 🆕🔄 - Auto short clips from long videos
 
 #### 🆕 Emerging Platforms
-- **[Shuffll](https://shuffll.com)** 🔄 - Business video creation
+- **[Haiper AI](https://haiper.ai)** 🆕🔄 - Fast video generation
+- **[Pixverse](https://pixverse.ai)** 🆕🔄 - Character consistency
+- **[Genmo (Mochi)](https://genmo.ai)** 🆕🔄 - Open video model
+- **[Pika 2.0](https://pika.art)** 🆕🔄 - Scene manipulation features
 - **[Vidnoz](https://vidnoz.com)** 🔄 - AI video generator
 - **[Deepshot AI](https://deepshot.ai)** 🔄 - Video reshooting tool
-- **[Chromox](https://chromox.alkaidvision.com)** 🆕 - Video style transfer
 ## 3D
 - Meshy
 - StudioGPT
@@ -537,25 +556,25 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - InfiniteDrum
   
 ## Music
-- Riffusion
-- Brain.fm
-- Boomy
-- Harmonai
-- Endel
-- HookSounds
-- Deepbeat
-- Samplette
-- Weet
-- JukeGPT
-- DeepCuts
-- TuneFlow
-- Moodplaylist.ocm
-- Mix Check Studio
-- EpicMusicQuiz
-- WavTool
-- AI Drake
-- AI Kanye West
-- PlaylistName AI
+> AI-powered music creation and generation tools
+
+#### 🔥 AI Music Creation
+- **[Suno v5](https://suno.ai)** 🆕🔄 - Full song generation with vocals
+- **[Udio](https://udio.com)** 🔄 - Professional-quality instrumentals
+- **[Stable Audio 2.0](https://stableaudio.com)** 🆕🆓 - Detailed audio control
+- **[MusicGen](https://huggingface.co/facebook/musicgen)** 🆓 - Meta's open-source model
+- **[Riffusion](https://riffusion.com)** 🆓 - AI music generation from text
+- **[AIVA](https://aiva.ai)** 🔄 - AI music composition
+
+#### 🎧 Focus & Ambient
+- **[Brain.fm](https://brain.fm)** 🔄 - Focus-enhancing music
+- **[Endel](https://endel.io)** 🔄 - Personalized soundscapes
+- **[Mubert](https://mubert.com)** 🆕🔄 - Royalty-free AI music
+
+#### 🛠️ Other Music Tools
+- **[Boomy](https://boomy.com)** 🔄 - Create and release songs
+- **[WavTool](https://wavtool.com)** 🔄 - AI-powered DAW
+- **[TuneFlow](https://tuneflow.com)** 🔄 - AI music production
 
 
 ## Presentation
@@ -615,8 +634,25 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Turnitin](https://turnitin.com)** 💰 - AI plagiarism detection
 - **[Notion AI](https://notion.so/ai)** 💰 - AI note-taking and organization
 
-## Autonomous AI Agents
-- [DemoGPT](https://github.com/melih-unsal/DemoGPT)
+## 🤖 Autonomous AI Agents
+> AI systems that can independently perform tasks and workflows
+
+#### 🔥 Commercial AI Agents
+- **[OpenAI Operator](https://openai.com/operator)** 🆕💰 - Web-based autonomous task agent
+- **[Anthropic Computer Use](https://anthropic.com)** 🆕💰 - GUI-based computer control
+- **[Manus AI](https://manus.ai)** 🆕🔄 - Cloud-based autonomous system
+
+#### 🆓 Open Source Agents
+- **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** 🆓 - GPT-4 powered autonomous agent
+- **[BabyAGI](https://github.com/yoheinakajima/babyagi)** 🆓 - Minimalist AI agent framework
+- **[CrewAI](https://github.com/joaomdmoura/crewAI)** 🆕🆓 - Multi-agent orchestration
+- **[LangChain Agents](https://langchain.com)** 🆓 - LLM agent development framework
+- **[AgentGPT](https://agentgpt.reworkd.ai)** 🆓 - Browser-based autonomous agent
+
+#### 🛠️ Agent Frameworks
+- **[LangGraph](https://langchain.com)** 🆕🆓 - Stateful agent workflows
+- **[AutoGen](https://microsoft.github.io/autogen/)** 🆕🆓 - Microsoft's multi-agent framework
+- **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** 🆓 - AI orchestration SDK
 
 
 ## Photo Editing
