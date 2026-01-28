@@ -130,6 +130,8 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Google Imagen 4](https://deepmind.google/technologies/imagen-4/)** 🆕💰 - Google's latest image model
 - **[Adobe Firefly 3](https://www.adobe.com/sensei/generative-ai/firefly.html)** 🔄 - Adobe's commercial-safe AI generator
 - **[Leonardo.ai](https://leonardo.ai)** 🔄 - Fine-tuned models for different art styles
+- **[Serplux](https://serplux.com/premium/agent/blog-image-generator)** 🔄 - Generate images using URL or Content . It also has free trial
+- 
 
 #### 🆓 Free & Open Source
 - **[Stable Diffusion 3.5](https://stability.ai)** 🆕🆓 - Latest open-source foundation model
