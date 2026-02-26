@@ -266,6 +266,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[PromptInterface.ai](https://promptinterface.ai)** 🔄 - Interactive prompt builder
 
 #### 🎨 Image Generation Prompts
+- **[AI Image Lab](https://aiimagelab.art)** 🆓 - Free AI image generator with curated prompt library across 8 categories. 4K output
 - **[Midjourney Prompt Helper](https://prompt.noonshot.com)** 🆓 - Specialized for Midjourney
 - **[Midjourney Prompt Generator](https://huggingface.co/spaces/doevent/prompt-generator)** 🆓 - AI-powered prompt creation
 - **[Catbird.ai](https://catbird.ai)** 🔄 - Multi-model prompt testing
