@@ -451,6 +451,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Pixverse](https://pixverse.ai)** 🆕🔄 - Character consistency
 - **[Genmo (Mochi)](https://genmo.ai)** 🆕🔄 - Open video model
 - **[Pika 2.0](https://pika.art)** 🆕🔄 - Scene manipulation features
+- **[PopcornAI](https://popcornai.art)** 🆕🔄 - AI video and image generator for short branded clips, launch visuals, and product creative
 - **[Vidnoz](https://vidnoz.com)** 🔄 - AI video generator
 - **[Deepshot AI](https://deepshot.ai)** 🔄 - Video reshooting tool
 ## 3D
