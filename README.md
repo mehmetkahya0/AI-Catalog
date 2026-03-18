@@ -130,6 +130,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Google Imagen 4](https://deepmind.google/technologies/imagen-4/)** 🆕💰 - Google's latest image model
 - **[Adobe Firefly 3](https://www.adobe.com/sensei/generative-ai/firefly.html)** 🔄 - Adobe's commercial-safe AI generator
 - **[Leonardo.ai](https://leonardo.ai)** 🔄 - Fine-tuned models for different art styles
+- **[RenderFlow AI](https://renderflowai.com)** 🆕🔄 - Multi-model platform with GPT-Image-1, Imagen 4, Flux Pro Ultra, Midjourney, Kling & Veo3
 
 #### 🆓 Free & Open Source
 - **[Stable Diffusion 3.5](https://stability.ai)** 🆕🆓 - Latest open-source foundation model
@@ -435,6 +436,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Google Veo 3.1](https://deepmind.google/technologies/veo/)** 🆕💰 - 4K output with native audio
 - **[Minimax AI](https://hailuoai.video)** 🆕🔄 - Text/image to video with free tier
 - **[Luma Dream Machine](https://lumalabs.ai/dream-machine)** 🔄 - High-quality video generation
+- **[RenderFlow AI](https://renderflowai.com)** 🆕🔄 - Multi-model platform with Kling, Veo3, Midjourney & more for AI video generation
 
 #### 🎬 Content Creation
 - **[Synthesia](https://synthesia.io)** 💰 - AI avatar video generation
