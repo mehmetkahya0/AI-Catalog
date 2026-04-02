@@ -445,6 +445,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Descript](https://descript.com)** 🔄 - AI-powered video editing
 - **[Klap](https://klap.app)** 🔄 - Turn videos into viral clips
 - **[OpusClip](https://opus.pro)** 🆕🔄 - Auto short clips from long videos
+- **[ClipSpeedAI](https://clipspeed.ai)** 🆕🔄 - AI-powered video clipping that auto-detects highlight moments from long-form videos
 
 #### 🆕 Emerging Platforms
 - **[Haiper AI](https://haiper.ai)** 🆕🔄 - Fast video generation
