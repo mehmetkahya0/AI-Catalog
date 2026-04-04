@@ -351,6 +351,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 #### 🤖 Autonomous Coding Agents
 - **[Devin AI](https://devin.ai)** 🆕💰 - Autonomous software engineer
 - **[Claude Code](https://anthropic.com/claude-code)** 🆕🔄 - Agentic CLI tool for developers
+- **[Claude Code Launchpad](https://github.com/noambrand/kivun-terminal)** 🆕🆓 - 2-minute Windows & macOS installer for Claude Code — status bar, folder picker, auto-setup
 - **[OpenAI Codex](https://openai.com/codex)** 💰 - Code generation API
 - **[Aider](https://aider.chat)** 🆕🆓 - Terminal-based pair programming
 
