@@ -20,6 +20,7 @@
 
 ---
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for multi-agent orchestration. MIT licensed.
 ## 🌟 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=mehmetkahya0/AI-Catalog&type=Date)](https://star-history.com/#mehmetkahya0/AI-Catalog&Date)
