@@ -520,6 +520,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 ## Fun Tools
 - Piggy Magic
+- [Lumi Tarot](https://createdbyaicreator.cloud/creations/tarot) - Free AI tarot readings with Lumi the cat guide. 78-card deck, 15+ languages, no signup
 - Dream Interpreter
 - Ambiance
 - ImageColorizer
