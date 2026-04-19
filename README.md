@@ -656,6 +656,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[LangGraph](https://langchain.com)** 🆕🆓 - Stateful agent workflows
 - **[AutoGen](https://microsoft.github.io/autogen/)** 🆕🆓 - Microsoft's multi-agent framework
 - **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** 🆓 - AI orchestration SDK
+- **[grugbot420](https://github.com/grug-group420/grugbot420)** 🆓 - Neuromorphic cognitive engine in Julia for multi-model AI orchestration
 
 
 ## Photo Editing
