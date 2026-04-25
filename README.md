@@ -310,6 +310,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Detect GPT](https://detectgpt.ericmitchell.ai)** 🆓 - AI content detection
 - **[Glasp](https://glasp.co)** 🆓 - Social highlighting and note-taking
 - **[Penelope AI](https://penelopeai.com)** 🔄 - Writing improvement suggestions
+- **[unslop](https://github.com/MohamedAbdallah-14/unslop)** 🆓 - Removes named AI writing patterns: tricolons, em-dash overuse, hedging stacks, sycophancy openers, and overused vocabulary. CLI and MCP server.
 
 ## Copywriting
 > AI-powered tools for marketing copy, advertisements, and persuasive content
