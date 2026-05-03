@@ -152,6 +152,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Recraft AI](https://app.recraft.ai)** 🔄 - Vector and brand-focused generation
 - **[Krea AI](https://krea.ai)** 🆕🔄 - Real-time image generation
 - **[Magnific AI](https://magnific.ai)** 🆕💰 - AI image upscaling and enhancement
+- **[igly.ai](https://igly.ai)** 🆕🔄 - AI image editing platform (background removal, inpainting, upscaling, generative fill) — [Demo](https://www.youtube.com/watch?v=HB2E1WZ12is)
 - **[Pika Labs](https://pika.art)** 🔄 - AI video and image generation
 - **[Skybox Lab](https://skybox.blockadelabs.com)** 🔄 - 360° skybox generation
 
