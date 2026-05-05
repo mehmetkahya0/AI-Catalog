@@ -631,6 +631,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Speak](https://speak.com)** 🔄 - AI conversation practice
 - **[Langotalk](https://langotalk.org)** 🔄 - AI language exchange
 - **[TutorAI](https://tutorai.me)** 🆓 - Learn anything with AI
+- **[Slate](https://slateup.ai)** 🔄 - AI-powered interactive classroom that generates full courses with slides, narration, and AI classmates for any topic
 
 #### 📝 Academic Tools
 - **[Grammarly](https://grammarly.com)** 🔄 - AI writing enhancement
