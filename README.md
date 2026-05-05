@@ -494,6 +494,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[ChatGPT](https://chat.openai.com)** 🔄 - OpenAI's conversational AI
 - **[Claude](https://claude.ai)** 🔄 - Anthropic's AI assistant
 - **[Character AI](https://beta.character.ai/)** 🔄 - AI character conversations
+- **[Kissable](https://kissable.app)** 💰 - AI companion with persistent memory, photo/video generation, and community scenarios
 - **[Poe](https://poe.com)** 🔄 - Multiple AI models in one platform
 
 #### 🌐 Browser Integration
