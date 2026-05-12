@@ -661,6 +661,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 ## Photo Editing
 - [Clipdrop](https://clipdrop.co)
 - [insightface.ai](https://insightface.ai)
+- **[BulkPicTools](https://bulkpictools.com)** 🆓 - Free browser-based bulk image processor. Compress, resize, convert and watermark 1,000+ images — no upload needed.
 
   
 ## Chrome AI Extensions
