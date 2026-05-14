@@ -619,6 +619,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Socratic by Google](https://socratic.org)** 🆓 - AI homework helper
 - **[Quizlet](https://quizlet.com)** 🔄 - AI-powered study tools
 - **[Coursera Coach](https://coursera.org)** 🔄 - AI learning assistant
+- **[KidsFunLearnClub](https://kidsfunlearnclub.co)** 🆓 - Free AI education platform for kids 9–14, taught by an 11-year-old certified AI educator
 
 #### 📚 Research & Writing
 - **[Elicit](https://elicit.org)** 🔄 - AI research assistant
