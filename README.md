@@ -151,6 +151,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 #### 🆕 Specialized Tools
 - **[Recraft AI](https://app.recraft.ai)** 🔄 - Vector and brand-focused generation
 - **[Krea AI](https://krea.ai)** 🆕🔄 - Real-time image generation
+- **[LandscapioAI](https://www.landscapioai.com/)** 🔄 - AI landscape design generator that turns yard photos into realistic redesign concepts and cost estimates
 - **[Magnific AI](https://magnific.ai)** 🆕💰 - AI image upscaling and enhancement
 - **[Pika Labs](https://pika.art)** 🔄 - AI video and image generation
 - **[Skybox Lab](https://skybox.blockadelabs.com)** 🔄 - 360° skybox generation
