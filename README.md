@@ -152,6 +152,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Recraft AI](https://app.recraft.ai)** 🔄 - Vector and brand-focused generation
 - **[Krea AI](https://krea.ai)** 🆕🔄 - Real-time image generation
 - **[Magnific AI](https://magnific.ai)** 🆕💰 - AI image upscaling and enhancement
+- **[igly.ai](https://igly.ai)** 🔄 - AI image editor for background removal, inpainting, upscaling, and generative fill
 - **[Pika Labs](https://pika.art)** 🔄 - AI video and image generation
 - **[Skybox Lab](https://skybox.blockadelabs.com)** 🔄 - 360° skybox generation
 
@@ -852,4 +853,3 @@ Thanks to all our amazing contributors who help make this catalog better every d
 Released under [GNU General Public License v3.0](LICENSE) by [@mehmetkahya0](https://github.com/mehmetkahya0).
 
 ---
-
