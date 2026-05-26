@@ -489,6 +489,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[You.com](https://you.com)** 🔄 - AI search with sources
 - **[Phind](https://phind.com)** 🆓 - Developer-focused AI search
 - **[Andi](https://andisearch.com)** 🆓 - Conversational search engine
+- **[BestAIFor.com](https://bestaifor.com)** 🆓 - Curated directory of the best AI tools, organized by use case.
 
 #### 💬 AI Chatbots
 - **[ChatGPT](https://chat.openai.com)** 🔄 - OpenAI's conversational AI
