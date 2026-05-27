@@ -659,6 +659,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 
 ## Photo Editing
+- **[PhotoRestore.ai](https://photorestore.ai)** 🔄 - AI-powered old photo restoration, scratch repair & colorization
 - [Clipdrop](https://clipdrop.co)
 - [insightface.ai](https://insightface.ai)
 
