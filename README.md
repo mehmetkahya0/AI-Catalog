@@ -729,6 +729,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Zapier](https://zapier.com)** 🔄 - AI automation platform
 - **[Monday.com](https://monday.com)** 🔄 - Work management with AI
 - **[ClickUp](https://clickup.com)** 🔄 - Productivity platform with AI
+- **[CreateMyNDA](https://createmynda.com/generate)** 🆓 - AI generator for non-disclosure agreements
 
 #### 📈 Marketing & Growth
 - **[Jasper](https://jasper.ai)** 💰 - AI content marketing platform
