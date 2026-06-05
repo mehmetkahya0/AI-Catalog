@@ -160,6 +160,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Adobe Photoshop Generative Fill](https://adobe.com)** 💰 - AI features in Photoshop
 - **[Microsoft Designer](https://designer.microsoft.com)** 🔄 - AI-powered design tool
 - **[Fotor AI](https://www.fotor.com/features/ai-image-generator/)** 🔄 - Online photo editor with AI
+- **[igly.ai](https://igly.ai)** 🔄 - Browser-based AI image editor for background removal, inpainting, upscaling, and generative fill
 
 ---
 
@@ -852,4 +853,3 @@ Thanks to all our amazing contributors who help make this catalog better every d
 Released under [GNU General Public License v3.0](LICENSE) by [@mehmetkahya0](https://github.com/mehmetkahya0).
 
 ---
-
