@@ -436,6 +436,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Google Veo 3.1](https://deepmind.google/technologies/veo/)** 🆕💰 - 4K output with native audio
 - **[Minimax AI](https://hailuoai.video)** 🆕🔄 - Text/image to video with free tier
 - **[Luma Dream Machine](https://lumalabs.ai/dream-machine)** 🔄 - High-quality video generation
+- **[cv.cm/v](https://cv.cm/v)** 🔄 - Queue-free Seedance 2.0 text & image to video generation
 - **[RenderFlow AI](https://renderflowai.com)** 🆕🔄 - Multi-model platform with Kling, Veo3, Midjourney & more for AI video generation
 
 #### 🎬 Content Creation
