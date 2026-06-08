@@ -656,6 +656,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[LangGraph](https://langchain.com)** 🆕🆓 - Stateful agent workflows
 - **[AutoGen](https://microsoft.github.io/autogen/)** 🆕🆓 - Microsoft's multi-agent framework
 - **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** 🆓 - AI orchestration SDK
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** 🆕💰 - Trust scoring for AI agent wallets on Solana. Verify agent identity before x402 micropayments. Free MCP tools included.
 
 
 ## Photo Editing
