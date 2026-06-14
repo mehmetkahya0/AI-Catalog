@@ -298,6 +298,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Asterix Writer](https://asterixwriter.com)** 🔄 - Fiction and story writing
 
 #### 📝 Content Creation
+- **[CreatorSkills](https://creatorskills.co)** 💰 - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 - **[Frase](https://frase.io)** 🔄 - SEO-optimized content writing
 - **[WritingMate](https://writingmate.ai)** 🔄 - AI writing companion
 - **[Neural Newsletters](https://neuralnewsletters.com)** 🔄 - Newsletter generation
