@@ -147,6 +147,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[NightCafe](https://nightcafe.studio)** 🔄 - Community-focused platform
 - **[Playground AI](https://playgroundai.com)** 🔄 - Creative AI with fine-tuning
 - **[Tensor Art](https://tensor.art)** 🔄 - Community-driven AI art platform
+- **[Seedream AI Studio](https://seedream4.video)** 🆕🔄 - AI image generation using Seedream 5.0/4.5/4.0 models with one-click video animation via Kling 2.1. Free tier available.
 
 #### 🆕 Specialized Tools
 - **[Recraft AI](https://app.recraft.ai)** 🔄 - Vector and brand-focused generation
@@ -448,6 +449,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 #### 🆕 Emerging Platforms
 - **[Haiper AI](https://haiper.ai)** 🆕🔄 - Fast video generation
+- **[Seedream AI Studio](https://seedream4.video)** 🆕🔄 - Image-to-video animation platform: generate images with Seedream 5.0 then animate with Kling 2.1. Free tier available.
 - **[Pixverse](https://pixverse.ai)** 🆕🔄 - Character consistency
 - **[Genmo (Mochi)](https://genmo.ai)** 🆕🔄 - Open video model
 - **[Pika 2.0](https://pika.art)** 🆕🔄 - Scene manipulation features
