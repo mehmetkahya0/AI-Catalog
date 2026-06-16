@@ -147,6 +147,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[NightCafe](https://nightcafe.studio)** 🔄 - Community-focused platform
 - **[Playground AI](https://playgroundai.com)** 🔄 - Creative AI with fine-tuning
 - **[Tensor Art](https://tensor.art)** 🔄 - Community-driven AI art platform
+- **[Seedream AI Studio](https://seedream4.video/)** 🆕🔄 - Multi-model platform by ByteDance (Seedream 5.0/4.5/4.0), ranked #1 in AI Image Arena, up to 10 reference images, free tier available
 
 #### 🆕 Specialized Tools
 - **[Recraft AI](https://app.recraft.ai)** 🔄 - Vector and brand-focused generation
