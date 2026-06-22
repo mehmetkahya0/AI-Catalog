@@ -660,6 +660,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 ## Photo Editing
 - [Clipdrop](https://clipdrop.co)
+- [igly.ai](https://igly.ai) - AI image editing platform for background removal, inpainting, upscaling, and generative fill. Demo: https://www.youtube.com/watch?v=HB2E1WZ12is
 - [insightface.ai](https://insightface.ai)
 
   
@@ -852,4 +853,3 @@ Thanks to all our amazing contributors who help make this catalog better every d
 Released under [GNU General Public License v3.0](LICENSE) by [@mehmetkahya0](https://github.com/mehmetkahya0).
 
 ---
-
