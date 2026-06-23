@@ -494,6 +494,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[ChatGPT](https://chat.openai.com)** 🔄 - OpenAI's conversational AI
 - **[Claude](https://claude.ai)** 🔄 - Anthropic's AI assistant
 - **[Character AI](https://beta.character.ai/)** 🔄 - AI character conversations
+- **[Auferet](https://auferet.com/)** - AI game master for text adventures and tabletop RPGs that remembers your story and reads your uploaded lore
 - **[Poe](https://poe.com)** 🔄 - Multiple AI models in one platform
 
 #### 🌐 Browser Integration
