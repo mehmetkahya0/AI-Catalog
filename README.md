@@ -636,6 +636,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Grammarly](https://grammarly.com)** 🔄 - AI writing enhancement
 - **[Turnitin](https://turnitin.com)** 💰 - AI plagiarism detection
 - **[Notion AI](https://notion.so/ai)** 💰 - AI note-taking and organization
+- **[NoteRich](https://noterich.com)** 🔄 - AI-powered notes with built-in RAG search. Import documents, natural language query, 41 languages. Free tier.
 
 ## 🤖 Autonomous AI Agents
 > AI systems that can independently perform tasks and workflows
