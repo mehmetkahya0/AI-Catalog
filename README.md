@@ -165,6 +165,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 ## 🧠 AI Assistants & Chat
 
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates (wiki, mental-models, voice, protocols) + 5 Claude Code skills. Solves context amnesia — every session starts context-full. MIT, one-command install.
 ### Multi-modal
 > Advanced AI systems that can process text, images, audio, and video
 
