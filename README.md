@@ -852,4 +852,4 @@ Thanks to all our amazing contributors who help make this catalog better every d
 Released under [GNU General Public License v3.0](LICENSE) by [@mehmetkahya0](https://github.com/mehmetkahya0).
 
 ---
-
+- [FreeAIStack](https://aifreeaistack.com) - FreeAIStack - 14 free AI tools including resume optimizer, email assistant, content and image generators
