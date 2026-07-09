@@ -149,6 +149,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Tensor Art](https://tensor.art)** 🔄 - Community-driven AI art platform
 
 #### 🆕 Specialized Tools
+- **[ArtImageHub](https://artimagehub.com/old-photo-restoration)** 🔄 - AI old photo restoration — fixes scratches, fading, and water damage on family photos. $4.99 one-time, no subscription.
 - **[Recraft AI](https://app.recraft.ai)** 🔄 - Vector and brand-focused generation
 - **[Krea AI](https://krea.ai)** 🆕🔄 - Real-time image generation
 - **[Magnific AI](https://magnific.ai)** 🆕💰 - AI image upscaling and enhancement
