@@ -153,6 +153,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Krea AI](https://krea.ai)** 🆕🔄 - Real-time image generation
 - **[Magnific AI](https://magnific.ai)** 🆕💰 - AI image upscaling and enhancement
 - **[Pika Labs](https://pika.art)** 🔄 - AI video and image generation
+- **[PixBulk](https://pixbulk.com)** 🔄 - Specialized bulk product images for ecommerce catalogs and campaigns
 - **[Skybox Lab](https://skybox.blockadelabs.com)** 🔄 - 360° skybox generation
 
 #### 📱 Browser/Extension Tools
@@ -852,4 +853,3 @@ Thanks to all our amazing contributors who help make this catalog better every d
 Released under [GNU General Public License v3.0](LICENSE) by [@mehmetkahya0](https://github.com/mehmetkahya0).
 
 ---
-
