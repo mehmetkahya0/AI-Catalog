@@ -146,6 +146,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[DreamStudio](https://dreamstudio.ai)** 🔄 - Stability AI's official interface
 - **[NightCafe](https://nightcafe.studio)** 🔄 - Community-focused platform
 - **[Playground AI](https://playgroundai.com)** 🔄 - Creative AI with fine-tuning
+- **[PixBulk](https://pixbulk.com)** 🔄 - Bulk AI product image generator for ecommerce and marketing teams
 - **[Tensor Art](https://tensor.art)** 🔄 - Community-driven AI art platform
 
 #### 🆕 Specialized Tools
@@ -852,4 +853,3 @@ Thanks to all our amazing contributors who help make this catalog better every d
 Released under [GNU General Public License v3.0](LICENSE) by [@mehmetkahya0](https://github.com/mehmetkahya0).
 
 ---
-
