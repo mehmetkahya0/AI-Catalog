@@ -146,7 +146,6 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[DreamStudio](https://dreamstudio.ai)** 🔄 - Stability AI's official interface
 - **[NightCafe](https://nightcafe.studio)** 🔄 - Community-focused platform
 - **[Playground AI](https://playgroundai.com)** 🔄 - Creative AI with fine-tuning
-- **[PixBulk](https://pixbulk.com)** 🔄 - Bulk AI product image generator for ecommerce and marketing teams
 - **[Tensor Art](https://tensor.art)** 🔄 - Community-driven AI art platform
 
 #### 🆕 Specialized Tools
@@ -154,6 +153,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Krea AI](https://krea.ai)** 🆕🔄 - Real-time image generation
 - **[Magnific AI](https://magnific.ai)** 🆕💰 - AI image upscaling and enhancement
 - **[Pika Labs](https://pika.art)** 🔄 - AI video and image generation
+- **[PixBulk](https://pixbulk.com)** 🔄 - Specialized bulk product images for ecommerce catalogs and campaigns
 - **[Skybox Lab](https://skybox.blockadelabs.com)** 🔄 - 360° skybox generation
 
 #### 📱 Browser/Extension Tools
