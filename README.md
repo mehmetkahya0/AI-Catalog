@@ -146,6 +146,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[DreamStudio](https://dreamstudio.ai)** 🔄 - Stability AI's official interface
 - **[NightCafe](https://nightcafe.studio)** 🔄 - Community-focused platform
 - **[Playground AI](https://playgroundai.com)** 🔄 - Creative AI with fine-tuning
+- **[GPT Image 2](https://gptimage2.asia)** 🔄 - AI image generation/editing for marketing, ecommerce and branded content
 - **[Tensor Art](https://tensor.art)** 🔄 - Community-driven AI art platform
 
 #### 🆕 Specialized Tools
