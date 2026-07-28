@@ -180,6 +180,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Gemini 3 Pro](https://gemini.google.com)** 🆕💰 - Google's latest flagship (December 2025)
 - **[Perplexity Pro](https://pro.perplexity.ai)** 🔄 - AI-powered research and search assistant
 - **[Microsoft Copilot](https://copilot.microsoft.com)** 🔄 - Microsoft's AI assistant across products
+- **[GPTGeminiGrok.AI](https://trygrokai.asia)** 🔄 - Multi-model browser workspace for GPT, Claude, Grok, Gemini, and AI image generation.
 
 #### 🛠️ Self-Hosted Options
 - **[AI Runner](https://github.com/Capsize-Games/airunner)** 🆓 - Local AI model runner with GUI
