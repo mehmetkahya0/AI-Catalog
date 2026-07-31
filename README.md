@@ -288,6 +288,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 #### ✨ General Writing Assistants
 - **[ChatGPT](https://chat.openai.com)** 🔄 - Versatile AI writing assistant
+- **[Humanize-Text](https://github.com/lynote-ai/humanize-text)** 🆓 - Open-source multi-stage text rewriting toolkit
 - **[Notion AI](https://notion.so/ai)** 💰 - Integrated writing tools in Notion
 - **[Grammarly](https://grammarly.com)** 🔄 - Grammar, style, and tone suggestions
 - **[Merlin AI](https://merlin.foyer.work)** 🔄 - Browser extension for AI writing
@@ -852,4 +853,4 @@ Thanks to all our amazing contributors who help make this catalog better every d
 Released under [GNU General Public License v3.0](LICENSE) by [@mehmetkahya0](https://github.com/mehmetkahya0).
 
 ---
-
+---
