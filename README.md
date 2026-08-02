@@ -527,6 +527,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - Booom.ai
 - Magic Type AI
 - WatchNow AI
+- [Pixel Pet](https://letmethink.cc/app/pixel-pet/) - Turn a personality description into a deterministic ASCII pixel companion in the browser.
   
 ## Gaming
 - CAPTURELAB
