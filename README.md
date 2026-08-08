@@ -437,6 +437,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Minimax AI](https://hailuoai.video)** 🆕🔄 - Text/image to video with free tier
 - **[Luma Dream Machine](https://lumalabs.ai/dream-machine)** 🔄 - High-quality video generation
 - **[RenderFlow AI](https://renderflowai.com)** 🆕🔄 - Multi-model platform with Kling, Veo3, Midjourney & more for AI video generation
+- **[Vivideo](https://vivideo.ai)** 🆕🔄 - Multi-model text-to-video & image-to-video with synced audio
 
 #### 🎬 Content Creation
 - **[Synthesia](https://synthesia.io)** 💰 - AI avatar video generation
@@ -820,9 +821,11 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Google's Veo](https://deepmind.google/technologies/veo/)
 - [Vidu](https://mp.weixin.qq.com/s/xAEYGIoJ0EzhszfmXno3UA)
 - [Lumalabs.ai](https://lumalabs.ai/dream-machine)
+- [Vivideo](https://vivideo.ai/tools/text-to-video)
 
 # Image to Video
 - [Lumalabs.ai DreamMachine](https://lumalabs.ai/dream-machine)
+- [Vivideo](https://vivideo.ai/tools/image-to-video)
 
 ---
 
