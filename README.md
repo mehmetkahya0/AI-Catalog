@@ -141,6 +141,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Craiyon](https://www.craiyon.com)** 🆓 - Free and easy-to-use generator
 
 #### 🔄 Freemium Options
+- **[Eimu](https://eimu.art)** 🔄 - Online GPT Image 2 & Nano Banana Pro image generator, no API key or relay setup required
 - **[Ideogram 3.0](https://ideogram.ai)** 🆕🔄 - Best text rendering in images (March 2025)
 - **[Reve Image](https://reve.ai)** 🆕🔄 - Strong prompt adherence (March 2025)
 - **[DreamStudio](https://dreamstudio.ai)** 🔄 - Stability AI's official interface
