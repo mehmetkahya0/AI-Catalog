@@ -721,6 +721,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 #### 🚀 Business Planning
 - **[Mixo](https://mixo.io)** 🔄 - AI website builder for startups
 - **[Gamma](https://gamma.app)** 🔄 - AI presentation and document creation
+- **[IdeaHunter](https://ideahunter.today)** 🔄 - AI research for demand-backed startup ideas
 - **[Tome](https://tome.app)** 🔄 - AI-powered storytelling
 - **[Beautiful.ai](https://beautiful.ai)** 🔄 - Smart presentation software
 
