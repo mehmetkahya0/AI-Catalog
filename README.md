@@ -442,6 +442,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Synthesia](https://synthesia.io)** 💰 - AI avatar video generation
 - **[HeyGen](https://heygen.com)** 🔄 - AI avatar videos with lip sync
 - **[Fliki](https://fliki.ai)** 🔄 - Text-to-video with AI voices
+- **[videos.social](https://videos.social/?utm_source=ai-catalog&utm_medium=directory&utm_campaign=listing-wave-d)** 🔄 - Editable faceless video from blogs, PDFs, and prompts
 - **[Descript](https://descript.com)** 🔄 - AI-powered video editing
 - **[Klap](https://klap.app)** 🔄 - Turn videos into viral clips
 - **[OpusClip](https://opus.pro)** 🆕🔄 - Auto short clips from long videos
