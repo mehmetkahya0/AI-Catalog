@@ -756,6 +756,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[IFTTT](https://ifttt.com)** 🔄 - Simple automation platform
 - **[Microsoft Power Automate](https://powerautomate.microsoft.com)** 🔄 - Business process automation
 - **[n8n](https://n8n.io)** 🆓 - Open source workflow automation
+- **[LeadBot 24h](https://planificador7.gumroad.com/l/leadbot-24h)** 💰 - n8n-based AI workflow that qualifies WhatsApp leads 24/7, no paid APIs
 
 ## AI's for SQL
 - Airops
