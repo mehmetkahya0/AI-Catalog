@@ -184,6 +184,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 #### 🛠️ Self-Hosted Options
 - **[AI Runner](https://github.com/Capsize-Games/airunner)** 🆓 - Local AI model runner with GUI
 - **[Jan](https://jan.ai)** 🆓 - Open-source ChatGPT alternative
+- **[Persona](https://github.com/jayamitkatariya/personacli)** 🆓 - Local-first personal workspace with notes, tasks, and grounded AI chat in plain Markdown
 
 ---
 
