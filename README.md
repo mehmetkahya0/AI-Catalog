@@ -455,6 +455,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Deepshot AI](https://deepshot.ai)** 🔄 - Video reshooting tool
 ## 3D
 - Meshy
+- [Luphra](https://www.luphra.com)
 - StudioGPT
 - Pixela AI
 - Get 3D (nvidia)
