@@ -677,6 +677,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 ## Builder
 - [Ai chatbot builder](http://Wizy.chat)
 - [Ai resume builder](http://Kickresume.com)
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker + AI resume builder
 
 ## Landing Page Generator
 - [aipage.dev](https://www.aipage.dev)
