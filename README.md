@@ -646,6 +646,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Manus AI](https://manus.ai)** 🆕🔄 - Cloud-based autonomous system
 
 #### 🆓 Open Source Agents
+- **[Orkas](https://github.com/Orkas-AI/Orkas)** 🆓 - Local-first desktop AI workforce coordinated by a Commander through one chat
 - **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** 🆓 - GPT-4 powered autonomous agent
 - **[BabyAGI](https://github.com/yoheinakajima/babyagi)** 🆓 - Minimalist AI agent framework
 - **[CrewAI](https://github.com/joaomdmoura/crewAI)** 🆕🆓 - Multi-agent orchestration
