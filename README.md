@@ -234,6 +234,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[YouTube Summarizer by Merlin AI](https://www.getmerlin.in/feature/youtube-summary-with-chatgpt)** 🔄 - AI-powered YouTube summaries
 - **[ChatGPT for YouTube](https://chrome.google.com/webstore/detail/chatgpt-for-youtube/ocbklpkcikpidkleacbohkobinlilgbd)** 🆓 - Browser extension
 - **[tl;dv](https://tldv.io)** 🔄 - Meeting and video call summarizer
+- **[getyoutubetranscript.com](https://getyoutubetranscript.com)** 🔄 - Free API & MCP server for YouTube transcripts, video/channel search & playlist data
 
 #### 📄 Document & PDF
 - **[Documind](https://documind.chat)** 🔄 - Chat with PDFs and documents
