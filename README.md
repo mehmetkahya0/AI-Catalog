@@ -154,6 +154,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Magnific AI](https://magnific.ai)** 🆕💰 - AI image upscaling and enhancement
 - **[Pika Labs](https://pika.art)** 🔄 - AI video and image generation
 - **[Skybox Lab](https://skybox.blockadelabs.com)** 🔄 - 360° skybox generation
+- **[RestorePhoto](https://restorephoto.org/)** 🔄 - Restores facial clarity in old and blurry photos
 
 #### 📱 Browser/Extension Tools
 - **[Canva AI](https://canva.com)** 🔄 - Integrated design platform with Dream Lab
