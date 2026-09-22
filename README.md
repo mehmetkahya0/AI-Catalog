@@ -149,6 +149,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Tensor Art](https://tensor.art)** 🔄 - Community-driven AI art platform
 
 #### 🆕 Specialized Tools
+- **[Plykit](https://plykit.ai/kdp/coloring-book-maker)** 🔄 - Generate coloring pages and assemble KDP books with covers and PDF export
 - **[Recraft AI](https://app.recraft.ai)** 🔄 - Vector and brand-focused generation
 - **[Krea AI](https://krea.ai)** 🆕🔄 - Real-time image generation
 - **[Magnific AI](https://magnific.ai)** 🆕💰 - AI image upscaling and enhancement
