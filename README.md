@@ -232,6 +232,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 #### 📺 Video & YouTube
 - **[Eightify](https://eightify.app)** 🔄 - YouTube video summarizer with timestamps
 - **[YouTube Summarizer by Merlin AI](https://www.getmerlin.in/feature/youtube-summary-with-chatgpt)** 🔄 - AI-powered YouTube summaries
+- - **[SummarizAI](https://summarizai.ink)** 🔄 - Chrome extension: YouTube summary, chapters, chat, Study flashcards
 - **[ChatGPT for YouTube](https://chrome.google.com/webstore/detail/chatgpt-for-youtube/ocbklpkcikpidkleacbohkobinlilgbd)** 🆓 - Browser extension
 - **[tl;dv](https://tldv.io)** 🔄 - Meeting and video call summarizer
 
