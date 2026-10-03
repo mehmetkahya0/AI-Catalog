@@ -362,6 +362,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Claude Code Launchpad](https://github.com/noambrand/kivun-terminal)** 🆕🆓 - 2-minute Windows & macOS installer for Claude Code — status bar, folder picker, auto-setup
 - **[OpenAI Codex](https://openai.com/codex)** 💰 - Code generation API
 - **[Aider](https://aider.chat)** 🆕🆓 - Terminal-based pair programming
+- **[YYLO](https://github.com/yylo-dev/yylo)** 🆓 - Command-line orchestrator for coding agents with typed task, validation, and merge boundaries
 
 #### 💻 Code Assistants
 - **[GitHub Copilot](https://github.com/features/copilot)** 💰 - AI pair programmer from GitHub
