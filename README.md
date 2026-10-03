@@ -1,6 +1,6 @@
 # 🤖 Huge AI Catalog V3.0 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> **A comprehensive, curated collection of 300+ AI tools, platforms, and resources across 45+ categories**
+> **A comprehensive, curated collection of 500+ AI tools, platforms, and resources across 40+ categories**
 
 *Your one-stop destination for discovering the best AI tools across all domains - from creative AI to developer tools, from chatbots to specialized applications.*
 
@@ -54,51 +54,60 @@
 - [🎨 Creative AI](#-creative-ai)
   - [Text to Image](#text-to-image-ais)
   - [Video Generator](#video-generator)
+  - [Text to Video](#text-to-video)
+  - [Image to Video](#image-to-video)
   - [Audio Editing](#audio-editing)
+  - [Deep Voice](#deep-voice-text-to-speech--speech-to-speech)
+  - [Photo Editing](#photo-editing)
+  - [Deep Face & Deep Fake](#deep-face--deep-fake)
   - [3D Tools](#3d)
 - [📝 Content & Writing](#-content--writing)
+  - [Summarizer](#summarizer)
+  - [Prompt Generator](#prompt-generator)
   - [Writing](#writing)
   - [Copywriting](#copywriting)
-  - [Summarizer](#summarizer)
-- [💻 Developer Tools](#-developer-tools)
+- **💻 Developer Tools**
   - [Code Assistant](#code-assistant)
   - [Developer Tools](#developer-tools)
   - [Low Code/No Code](#low-code---no-code-tools)
+  - [SQL Tools](#ais-for-sql)
+  - [Builder](#builder)
+  - [Website Builder](#website-builder)
+  - [Landing Page Generator](#landing-page-generator)
 - [🧠 AI Assistants & Chat](#-ai-assistants--chat)
   - [Multi-modal](#multi-modal)
-  - [Large Language Models](#large-language-models-llms)
+  - [Large Language Models](#-large-language-models-llms)
   - [Search Engines & Chatbots](#search-engines--chatbots)
-- [🎓 Education & Learning](#-education--learning)
+  - [ChatGPT Plugins](#chatgpt-plugins)
+  - [Chrome Extensions](#chrome-ai-extensions)
+- **🎓 Education & Learning**
   - [Education Assistants](#education-assistants)
   - [Education Tools](#education-tools)
-- [🏢 Business & Productivity](#-business--productivity)
+- **🏢 Business & Productivity**
   - [Presentation](#presentation)
   - [E-Mail Assistant](#e-mail-assistant)
   - [Start-up Tools](#start-up-tools)
   - [AI Productivity](#ai-productivity)
-- [🔍 Specialized Tools](#-specialized-tools)
   - [AI Detection](#ai-detection)
   - [Data Analysis & BI](#data-analysis--bi)
-  - [SQL Tools](#ais-for-sql)
-  - [Chrome Extensions](#chrome-ai-extensions)
-- [🎮 Entertainment & Fun](#-entertainment--fun)
+- **🎮 Entertainment & Fun**
   - [Gaming](#gaming)
   - [Music](#music)
   - [Fun Tools](#fun-tools)
-- [🔬 Experimental](#-experimental)
+- **🔬 Experimental**
   - [Experiments](#experiments)
-  - [Autonomous AI Agents](#autonomous-ai-agents)
+  - [Autonomous AI Agents](#-autonomous-ai-agents)
 
 ---
 
 ## 🚀 Getting Started
 
-Welcome to the most comprehensive AI tools catalog! This repository contains **500+ carefully curated AI tools** across **30+ categories**. Each tool is tested and verified to ensure quality and relevance.
+Welcome to the most comprehensive AI tools catalog! This repository contains **500+ carefully curated AI tools** across **40+ categories**. Each tool is tested and verified to ensure quality and relevance.
 
 ### 📊 Quick Stats
-- **Total Tools**: 300+
-- **Categories**: 45+
-- **Last Updated**: January 28, 2026
+- **Total Tools**: 500+
+- **Categories**: 40+
+- **Last Updated**: October 3, 2026
 - **Contributors**: Open for PRs!
 - **Next Goal**: ⭐️ 500 stars
 
@@ -869,7 +878,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Lumalabs.ai](https://lumalabs.ai/dream-machine)
 - [Vivideo](https://vivideo.ai/tools/text-to-video)
 
-# Image to Video
+## Image to Video
 - [Lumalabs.ai DreamMachine](https://lumalabs.ai/dream-machine)
 - [Vivideo](https://vivideo.ai/tools/image-to-video)
 
