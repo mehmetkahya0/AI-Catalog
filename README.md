@@ -159,6 +159,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Pika Labs](https://pika.art)** 🔄 - AI video and image generation
 - **[PixBulk](https://pixbulk.com)** 🔄 - Specialized bulk product images for ecommerce catalogs and campaigns
 - **[Skybox Lab](https://skybox.blockadelabs.com)** 🔄 - 360° skybox generation
+- **[RestorePhoto](https://restorephoto.org/)** 🔄 - Restores facial clarity in old and blurry photos
 
 #### 📱 Browser/Extension Tools
 - **[Canva AI](https://canva.com)** 🔄 - Integrated design platform with Dream Lab
