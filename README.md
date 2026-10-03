@@ -685,6 +685,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 ## Photo Editing
 - [Clipdrop](https://clipdrop.co)
 - [insightface.ai](https://insightface.ai)
+- **[PixPurge](https://pixpurge.com)** 🔄 - AI text remover for images: erase text, watermarks, and date stamps automatically.
 
   
 ## Chrome AI Extensions
