@@ -471,6 +471,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Pika 2.0](https://pika.art)** 🆕🔄 - Scene manipulation features
 - **[Vidnoz](https://vidnoz.com)** 🔄 - AI video generator
 - **[Deepshot AI](https://deepshot.ai)** 🔄 - Video reshooting tool
+- **[TubeTube](https://www.tubetube.io)** 🆕🔄 - Lyrics or story to a finished multi-scene video with consistent characters; 16 engines incl. Kling 3, Veo 3.1, Seedance 2
 ## 3D
 - Meshy
 - [Luphra](https://www.luphra.com)
