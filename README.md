@@ -372,6 +372,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 #### � Open Source Tools
 - **[Continue](https://continue.dev)** 🆕🆓 - Open-source VS Code/JetBrains assistant
+- **[agent-qa](https://github.com/vostride/agent-qa)** 🆓 - Self-improving QA agent for natural-language web and mobile tests
 - **[Replit Ghostwriter](https://replit.com)** 🔄 - Collaborative coding with AI
 - **[Phind](https://phind.com)** 🆓 - AI search engine for developers
 - **[AutoRegex](https://autoregex.xyz)** 🆓 - AI-powered regex generator
