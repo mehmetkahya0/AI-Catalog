@@ -122,6 +122,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 > Transform your ideas into stunning visuals with AI-powered image generation
 
 #### 🔥 Premium/Professional
+- **[Lunalisa](https://luna-lisa.art)** 🔄 - Prompt-led workspace for AI images and short-form image-to-video
 - **[Raphael AI](https://raphael.app)** 🆓🔄 - Free unlimited AI image generator for product shots, ads, and brand visuals from text prompts
 - **[Midjourney v7](https://www.midjourney.com/home/)** 🆕💰 - Latest version with text-to-video support (April 2025)
 - **[FLUX 1.1 Pro](https://blackforestlabs.ai)** 🆕💰 - Black Forest Labs' flagship model
@@ -132,8 +133,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Adobe Firefly 3](https://www.adobe.com/sensei/generative-ai/firefly.html)** 🔄 - Adobe's commercial-safe AI generator
 - **[Leonardo.ai](https://leonardo.ai)** 🔄 - Fine-tuned models for different art styles
 - **[RenderFlow AI](https://renderflowai.com)** 🆕🔄 - Multi-model platform with GPT-Image-1, Imagen 4, Flux Pro Ultra, Midjourney, Kling & Veo3
-- **[Serplux](https://serplux.com/premium/agent/blog-image-generator)** 🔄 - Generate images using URL or Content . It also has free trial
-- 
+- **[Serplux](https://serplux.com/premium/agent/blog-image-generator)** 🔄 - Generate blog images from a URL or written content
 
 #### 🆓 Free & Open Source
 - **[Stable Diffusion 3.5](https://stability.ai)** 🆕🆓 - Latest open-source foundation model
@@ -144,6 +144,8 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Craiyon](https://www.craiyon.com)** 🆓 - Free and easy-to-use generator
 
 #### 🔄 Freemium Options
+- **[Fast Image AI](https://fastimage.ai)** 🆓 - Turn photos into Ghibli, Pixar, sketch and other art styles
+- **[Pixonara](https://pixonara.com)** 🔄 - Browser workspace for AI images and short videos from prompts or references
 - **[Eimu](https://eimu.art)** 🔄 - Online GPT Image 2 & Nano Banana Pro image generator, no API key or relay setup required
 - **[Ideogram 3.0](https://ideogram.ai)** 🆕🔄 - Best text rendering in images (March 2025)
 - **[Reve Image](https://reve.ai)** 🆕🔄 - Strong prompt adherence (March 2025)
@@ -153,7 +155,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Tensor Art](https://tensor.art)** 🔄 - Community-driven AI art platform
 
 #### 🆕 Specialized Tools
-- **[ArtImageHub](https://artimagehub.com/old-photo-restoration)** 🔄 - AI old photo restoration — fixes scratches, fading, and water damage on family photos. $4.99 one-time, no subscription.
+- **[ArtImageHub](https://artimagehub.com/old-photo-restoration)** 🔄 - AI old photo restoration that fixes scratches, fading and water damage
 - **[Plykit](https://plykit.ai/kdp/coloring-book-maker)** 🔄 - Generate coloring pages and assemble KDP books with covers and PDF export
 - **[Recraft AI](https://app.recraft.ai)** 🔄 - Vector and brand-focused generation
 - **[Krea AI](https://krea.ai)** 🆕🔄 - Real-time image generation
@@ -241,7 +243,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 #### 📺 Video & YouTube
 - **[Eightify](https://eightify.app)** 🔄 - YouTube video summarizer with timestamps
 - **[YouTube Summarizer by Merlin AI](https://www.getmerlin.in/feature/youtube-summary-with-chatgpt)** 🔄 - AI-powered YouTube summaries
-- - **[SummarizAI](https://summarizai.ink)** 🔄 - Chrome extension: YouTube summary, chapters, chat, Study flashcards
+- **[SummarizAI](https://summarizai.ink)** 🔄 - Chrome extension: YouTube summary, chapters, chat, Study flashcards
 - **[ChatGPT for YouTube](https://chrome.google.com/webstore/detail/chatgpt-for-youtube/ocbklpkcikpidkleacbohkobinlilgbd)** 🆓 - Browser extension
 - **[tl;dv](https://tldv.io)** 🔄 - Meeting and video call summarizer
 - **[getyoutubetranscript.com](https://getyoutubetranscript.com)** 🔄 - Free API & MCP server for YouTube transcripts, video/channel search & playlist data
@@ -310,7 +312,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Asterix Writer](https://asterixwriter.com)** 🔄 - Fiction and story writing
 
 #### 📝 Content Creation
-- **[CreatorSkills](https://creatorskills.co)** 💰 - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
+- **[CreatorSkills](https://creatorskills.co)** 💰 - Marketplace of downloadable AI skills for content creators (Claude & ChatGPT)
 - **[Frase](https://frase.io)** 🔄 - SEO-optimized content writing
 - **[WritingMate](https://writingmate.ai)** 🔄 - AI writing companion
 - **[Neural Newsletters](https://neuralnewsletters.com)** 🔄 - Newsletter generation
@@ -323,7 +325,8 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Detect GPT](https://detectgpt.ericmitchell.ai)** 🆓 - AI content detection
 - **[Glasp](https://glasp.co)** 🆓 - Social highlighting and note-taking
 - **[Penelope AI](https://penelopeai.com)** 🔄 - Writing improvement suggestions
-- **[unslop](https://github.com/MohamedAbdallah-14/unslop)** 🆓 - Removes named AI writing patterns: tricolons, em-dash overuse, hedging stacks, sycophancy openers, and overused vocabulary. CLI and MCP server.
+- **[BS-Detector](https://bsfact.com)** 🔄 - Scores text for bias, framing, logical fallacies and factual accuracy
+- **[unslop](https://github.com/MohamedAbdallah-14/unslop)** 🆓 - Removes common AI writing patterns from text; CLI and MCP server
 
 ## Copywriting
 > AI-powered tools for marketing copy, advertisements, and persuasive content
@@ -398,6 +401,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - Chat2Code
 - Parse
 - Context
+- [BuyWhere](https://buywhere.ai) - Real-time Singapore e-commerce pricing API and MCP server for AI agents
 
 
 
@@ -461,13 +465,15 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Synthesia](https://synthesia.io)** 💰 - AI avatar video generation
 - **[HeyGen](https://heygen.com)** 🔄 - AI avatar videos with lip sync
 - **[Fliki](https://fliki.ai)** 🔄 - Text-to-video with AI voices
-- **[videos.social](https://videos.social/?utm_source=ai-catalog&utm_medium=directory&utm_campaign=listing-wave-d)** 🔄 - Editable faceless video from blogs, PDFs, and prompts
+- **[videos.social](https://videos.social)** 🔄 - Editable faceless video from blogs, PDFs, and prompts
 - **[Descript](https://descript.com)** 🔄 - AI-powered video editing
 - **[Klap](https://klap.app)** 🔄 - Turn videos into viral clips
 - **[OpusClip](https://opus.pro)** 🆕🔄 - Auto short clips from long videos
 - **[shortshort](https://www.shortshort.io)** 🆕🔄 - Turns one long video into vertical 9:16 shorts with captions
-
 - **[Pic2Video AI](https://pic2videoai.com/)** 🔄 - Turns still photos into short animated videos in the browser
+- **[Hotel Lobby AI](https://hotellobbyai.top/)** 🆕🔄 - Two uploaded photos become a cinematic duet clip on a staged hotel lobby
+- **[UGCFast](https://ugcfast.ai)** 💰 - Persona-matched AI UGC video ads for Meta and TikTok from a product URL
+- **[AI Baby Dance](https://aibabydance.com)** 🔄 - Turn baby photos into short AI dance videos
 
 #### 🆕 Emerging Platforms
 - **[Haiper AI](https://haiper.ai)** 🆕🔄 - Fast video generation
@@ -476,7 +482,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Pika 2.0](https://pika.art)** 🆕🔄 - Scene manipulation features
 - **[Vidnoz](https://vidnoz.com)** 🔄 - AI video generator
 - **[Deepshot AI](https://deepshot.ai)** 🔄 - Video reshooting tool
-- **[TubeTube](https://www.tubetube.io)** 🆕🔄 - Lyrics or story to a finished multi-scene video with consistent characters; 16 engines incl. Kling 3, Veo 3.1, Seedance 2
+- **[TubeTube](https://www.tubetube.io)** 🆕🔄 - Lyrics or story to a multi-scene video with consistent characters
 ## 3D
 - Meshy
 - [Luphra](https://www.luphra.com)
@@ -509,8 +515,6 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 ## Search Engines & Chatbot's
 > AI-powered search and conversational interfaces
 
-- **[Hotel Lobby AI](https://hotellobbyai.top/)** 🆕🔄 - Two uploaded photos become a cinematic duet clip on a staged hotel lobby
-
 #### 🔍 AI Search Engines
 - **[Perplexity](https://perplexity.ai)** 🔄 - AI-powered answer engine
 - **[You.com](https://you.com)** 🔄 - AI search with sources
@@ -522,7 +526,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Claude](https://claude.ai)** 🔄 - Anthropic's AI assistant
 - **[Character AI](https://beta.character.ai/)** 🔄 - AI character conversations
 - **[Kissable](https://kissable.app)** 💰 - AI companion with persistent memory, photo/video generation, and community scenarios
-- **[Auferet](https://auferet.com/)** - AI game master for text adventures and tabletop RPGs that remembers your story and reads your uploaded lore
+- **[Auferet](https://auferet.com/)** - AI game master for text adventures and tabletop RPGs with story memory
 - **[Poe](https://poe.com)** 🔄 - Multiple AI models in one platform
 
 #### 🌐 Browser Integration
@@ -549,7 +553,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 ## Fun Tools
 - Piggy Magic
-- [Lumi Tarot](https://createdbyaicreator.cloud/creations/tarot) - Free AI tarot readings with Lumi the cat guide. 78-card deck, 15+ languages, no signup
+- [Lumi Tarot](https://createdbyaicreator.cloud/creations/tarot) - Free AI tarot readings in 15+ languages
 - Dream Interpreter
 - Ambiance
 - ImageColorizer
@@ -557,7 +561,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - Booom.ai
 - Magic Type AI
 - WatchNow AI
-- [Pixel Pet](https://letmethink.cc/app/pixel-pet/) - Turn a personality description into a deterministic ASCII pixel companion in the browser.
+- [Pixel Pet](https://letmethink.cc/app/pixel-pet/) - Turn a personality description into an ASCII pixel companion
   
 ## Gaming
 - CAPTURELAB
@@ -650,7 +654,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Socratic by Google](https://socratic.org)** 🆓 - AI homework helper
 - **[Quizlet](https://quizlet.com)** 🔄 - AI-powered study tools
 - **[Coursera Coach](https://coursera.org)** 🔄 - AI learning assistant
-- **[KidsFunLearnClub](https://kidsfunlearnclub.co)** 🆓 - Free AI education platform for kids 9–14, taught by an 11-year-old certified AI educator
+- **[KidsFunLearnClub](https://kidsfunlearnclub.co)** 🆓 - Free AI education platform for kids aged 9–14
 
 #### 📚 Research & Writing
 - **[Elicit](https://elicit.org)** 🔄 - AI research assistant
@@ -663,13 +667,14 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Speak](https://speak.com)** 🔄 - AI conversation practice
 - **[Langotalk](https://langotalk.org)** 🔄 - AI language exchange
 - **[TutorAI](https://tutorai.me)** 🆓 - Learn anything with AI
-- **[Slate](https://slateup.ai)** 🔄 - AI-powered interactive classroom that generates full courses with slides, narration, and AI classmates for any topic
+- **[Slate](https://slateup.ai)** 🔄 - Interactive AI classroom that generates courses with slides, narration and AI classmates
+- **[StoryRoute](https://storyroute.netlify.app)** 🆓 - Turns any topic or document into a branching, story-driven learning path
 
 #### 📝 Academic Tools
 - **[Grammarly](https://grammarly.com)** 🔄 - AI writing enhancement
 - **[Turnitin](https://turnitin.com)** 💰 - AI plagiarism detection
 - **[Notion AI](https://notion.so/ai)** 💰 - AI note-taking and organization
-- **[NoteRich](https://noterich.com)** 🔄 - AI-powered notes with built-in RAG search. Import documents, natural language query, 41 languages. Free tier.
+- **[NoteRich](https://noterich.com)** 🔄 - AI notes with built-in RAG search over imported documents
 
 ## 🤖 Autonomous AI Agents
 > AI systems that can independently perform tasks and workflows
@@ -714,7 +719,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 ## Builder
 - [Ai chatbot builder](http://Wizy.chat)
 - [Ai resume builder](http://Kickresume.com)
-- [ResumeAI](https://withresumeai.com/) - Free ATS resume checker (3/day anonymous, 10/day free account)
+- [ResumeAI](https://withresumeai.com/)
 
 ## Landing Page Generator
 - [aipage.dev](https://www.aipage.dev)
@@ -775,6 +780,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[HubSpot](https://hubspot.com)** 🔄 - CRM with AI features
 - **[Mailchimp](https://mailchimp.com)** 🔄 - Email marketing with AI
 - **[Canva](https://canva.com)** 🔄 - Design platform with AI tools
+- **[SocialEcho](https://www.socialecho.net)** 🔄 - AI workspace for publishing, engagement and analytics across 11 social platforms
 
 ## AI Productivity
 > AI tools to enhance personal and professional productivity
@@ -894,5 +900,4 @@ Thanks to all our amazing contributors who help make this catalog better every d
 
 Released under [GNU General Public License v3.0](LICENSE) by [@mehmetkahya0](https://github.com/mehmetkahya0).
 
----
 ---
