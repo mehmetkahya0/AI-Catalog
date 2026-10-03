@@ -814,6 +814,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Mailchimp](https://mailchimp.com)** 🔄 - Email marketing with AI
 - **[Canva](https://canva.com)** 🔄 - Design platform with AI tools
 - **[SocialEcho](https://www.socialecho.net)** 🔄 - AI workspace for publishing, engagement and analytics across 11 social platforms
+- **[LogNorm](https://lognorm.com)** 🔄 - Hosted MCP server that hands your SEO/GEO backlog to Claude Code, Codex and Cursor
 
 ## AI Productivity
 > AI tools to enhance personal and professional productivity
