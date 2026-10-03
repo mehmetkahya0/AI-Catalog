@@ -1,0 +1,371 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Catalog</title>
+<meta name="description" content="A curated, searchable catalog of 500+ AI tools across 40+ categories.">
+<meta property="og:title" content="AI Catalog">
+<meta property="og:description" content="A curated, searchable catalog of 500+ AI tools across 40+ categories.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f6f7fb;--surface:#ffffff;--surface-2:#f0f2f8;--border:#e3e6ef;
+  --text:#141826;--muted:#5d6475;--accent:#5b5bf7;--accent-2:#a855f7;
+  --accent-soft:rgba(91,91,247,.1);--shadow:0 1px 2px rgba(20,24,38,.04),0 4px 16px rgba(20,24,38,.06);
+  --free:#0f9d58;--freemium:#2563eb;--paid:#c2410c;--new:#9333ea;--hot:#dc2626;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#0b0d14;--surface:#141824;--surface-2:#1b2030;--border:#262c3d;
+    --text:#e8eaf2;--muted:#9aa1b4;--accent:#8b8bff;--accent-2:#c084fc;
+    --accent-soft:rgba(139,139,255,.14);--shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px rgba(0,0,0,.25);
+    --free:#34d399;--freemium:#60a5fa;--paid:#fb923c;--new:#c084fc;--hot:#f87171;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0b0d14;--surface:#141824;--surface-2:#1b2030;--border:#262c3d;
+  --text:#e8eaf2;--muted:#9aa1b4;--accent:#8b8bff;--accent-2:#c084fc;
+  --accent-soft:rgba(139,139,255,.14);--shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px rgba(0,0,0,.25);
+  --free:#34d399;--freemium:#60a5fa;--paid:#fb923c;--new:#c084fc;--hot:#f87171;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--text);font:15px/1.5 Inter,system-ui,-apple-system,Segoe UI,Roboto,sans-serif;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+button{font:inherit;color:inherit}
+.wrap{max-width:1280px;margin:0 auto;padding:0 20px}
+
+/* header */
+.topbar{position:sticky;top:0;z-index:20;background:color-mix(in srgb,var(--bg) 82%,transparent);backdrop-filter:blur(12px);border-bottom:1px solid var(--border)}
+.topbar .wrap{display:flex;align-items:center;gap:16px;height:60px}
+.logo{display:flex;align-items:center;gap:10px;font-weight:800;letter-spacing:-.02em;font-size:17px;white-space:nowrap}
+.logo-mark{width:30px;height:30px;border-radius:9px;display:grid;place-items:center;background:linear-gradient(135deg,var(--accent),var(--accent-2));color:#fff;font-size:16px}
+.top-actions{margin-left:auto;display:flex;gap:8px;align-items:center}
+.btn{display:inline-flex;align-items:center;gap:6px;height:36px;padding:0 14px;border-radius:10px;border:1px solid var(--border);background:var(--surface);cursor:pointer;font-weight:500;font-size:14px;transition:border-color .15s,background .15s}
+.btn:hover{border-color:var(--accent)}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+.btn.icon{width:36px;padding:0;justify-content:center}
+.btn svg{width:16px;height:16px}
+
+.hero{padding:56px 0 28px;text-align:center}
+.hero h1{font-size:clamp(32px,5vw,54px);line-height:1.08;letter-spacing:-.035em;margin:0 0 14px;font-weight:800}
+.hero h1 span{background:linear-gradient(135deg,var(--accent),var(--accent-2));-webkit-background-clip:text;background-clip:text;color:transparent}
+.hero p{color:var(--muted);font-size:17px;max-width:620px;margin:0 auto 26px}
+.stats{display:flex;justify-content:center;gap:28px;flex-wrap:wrap;margin-bottom:28px}
+.stat b{display:block;font-size:24px;font-weight:800;letter-spacing:-.02em}
+.stat span{color:var(--muted);font-size:13px}
+
+.search{position:relative;max-width:640px;margin:0 auto}
+.search svg{position:absolute;left:16px;top:50%;transform:translateY(-50%);width:18px;height:18px;color:var(--muted)}
+.search input{width:100%;height:52px;border-radius:14px;border:1px solid var(--border);background:var(--surface);color:var(--text);padding:0 54px 0 46px;font:inherit;font-size:16px;box-shadow:var(--shadow);outline:none;transition:border-color .15s,box-shadow .15s}
+.search input:focus{border-color:var(--accent);box-shadow:0 0 0 4px var(--accent-soft)}
+.search kbd{position:absolute;right:14px;top:50%;transform:translateY(-50%);font:12px Inter,sans-serif;color:var(--muted);border:1px solid var(--border);border-radius:6px;padding:2px 7px;background:var(--surface-2)}
+
+/* layout */
+.layout{display:grid;grid-template-columns:250px 1fr;gap:28px;padding:20px 0 60px}
+.layout>section{min-width:0}
+.search input:not(:placeholder-shown)~kbd{display:none}
+.sidebar{position:sticky;top:76px;align-self:start;max-height:calc(100vh - 92px);overflow:auto;padding-right:4px}
+.sidebar h3{font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:0 0 8px 10px;font-weight:600}
+.cat-list{list-style:none;margin:0 0 20px;padding:0}
+.cat-list button{width:100%;display:flex;justify-content:space-between;align-items:center;gap:8px;text-align:left;border:0;background:none;padding:7px 10px;border-radius:8px;cursor:pointer;font-size:14px;color:var(--muted)}
+.cat-list button:hover{background:var(--surface-2);color:var(--text)}
+.cat-list button.active{background:var(--accent-soft);color:var(--accent);font-weight:600}
+.cat-list .n{font-size:12px;opacity:.8;font-variant-numeric:tabular-nums}
+
+.toolbar{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:18px}
+.chip{height:32px;padding:0 12px;border-radius:999px;border:1px solid var(--border);background:var(--surface);cursor:pointer;font-size:13px;font-weight:500;display:inline-flex;align-items:center;gap:6px}
+.chip:hover{border-color:var(--accent)}
+.chip.on{background:var(--text);color:var(--bg);border-color:var(--text)}
+.result-info{margin-left:auto;color:var(--muted);font-size:13px}
+.mobile-cats{display:none;height:36px;border-radius:10px;border:1px solid var(--border);background:var(--surface);color:var(--text);padding:0 10px;font:inherit;font-size:14px;max-width:100%}
+
+.group-title{display:flex;align-items:baseline;gap:10px;margin:30px 0 12px;font-size:20px;font-weight:700;letter-spacing:-.02em}
+.group-title:first-child{margin-top:0}
+.group-title small{color:var(--muted);font-weight:500;font-size:13px}
+.group-desc{color:var(--muted);margin:-6px 0 14px;font-size:14px}
+
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px}
+.card{position:relative;display:flex;flex-direction:column;gap:10px;padding:16px;border-radius:14px;background:var(--surface);border:1px solid var(--border);transition:transform .15s,border-color .15s,box-shadow .15s;min-width:0}
+.card:hover{transform:translateY(-2px);border-color:color-mix(in srgb,var(--accent) 50%,var(--border));box-shadow:var(--shadow)}
+.card-head{display:flex;align-items:center;gap:11px;min-width:0}
+.fav{flex:none;width:38px;height:38px;border-radius:10px;background:var(--surface-2);display:grid;place-items:center;overflow:hidden;font-weight:700;color:var(--accent);font-size:15px;border:1px solid var(--border)}
+.fav{position:relative}
+.fav img{position:absolute;inset:7px;width:22px;height:22px;background:var(--surface-2)}
+.card h4{margin:0;font-size:15px;font-weight:600;letter-spacing:-.01em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.card .host{color:var(--muted);font-size:12px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.card p{margin:0;color:var(--muted);font-size:13.5px;line-height:1.5;flex:1}
+.card p.empty{font-style:italic;opacity:.7}
+.card-foot{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+.badge{font-size:11.5px;font-weight:600;padding:2px 8px;border-radius:999px;background:var(--surface-2);white-space:nowrap}
+.badge.free{color:var(--free);background:color-mix(in srgb,var(--free) 12%,transparent)}
+.badge.freemium{color:var(--freemium);background:color-mix(in srgb,var(--freemium) 12%,transparent)}
+.badge.paid{color:var(--paid);background:color-mix(in srgb,var(--paid) 12%,transparent)}
+.badge.new{color:var(--new);background:color-mix(in srgb,var(--new) 12%,transparent)}
+.badge.hot{color:var(--hot);background:color-mix(in srgb,var(--hot) 12%,transparent)}
+.badge.sub{color:var(--muted);font-weight:500;margin-left:auto;max-width:100%;overflow:hidden;text-overflow:ellipsis}
+.card a.cover{position:absolute;inset:0;border-radius:inherit}
+.card a.cover:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+.state{text-align:center;padding:60px 20px;color:var(--muted)}
+.spinner{width:28px;height:28px;border:3px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 12px}
+@keyframes spin{to{transform:rotate(360deg)}}
+mark{background:color-mix(in srgb,var(--accent) 25%,transparent);color:inherit;border-radius:3px;padding:0 1px}
+
+footer{border-top:1px solid var(--border);padding:28px 0;color:var(--muted);font-size:14px}
+footer .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+footer a{color:var(--accent)}
+.totop{position:fixed;right:20px;bottom:20px;opacity:0;pointer-events:none;transition:opacity .2s;box-shadow:var(--shadow)}
+.totop.show{opacity:1;pointer-events:auto}
+
+@media (max-width:900px){
+  .layout{grid-template-columns:1fr}
+  .sidebar{display:none}
+  .mobile-cats{display:block;flex:1 1 100%}
+  .result-info{margin-left:0}
+}
+@media (max-width:600px){
+  .wrap{padding:0 16px}
+  .hero{padding:36px 0 20px}
+  .top-actions .label{display:none}
+  .search kbd{display:none}
+  .grid{grid-template-columns:1fr}
+  .stats{gap:20px}
+}
+</style>
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap">
+    <a class="logo" href="#"><span class="logo-mark">🤖</span>AI Catalog</a>
+    <div class="top-actions">
+      <a class="btn" href="https://github.com/mehmetkahya0/AI-Catalog/issues/new?template=tool_submission.md" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg><span class="label">Submit a tool</span></a>
+      <a class="btn primary" href="https://github.com/mehmetkahya0/AI-Catalog" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5C5.65.5.5 5.65.5 12c0 5.08 3.29 9.39 7.86 10.91.58.11.79-.25.79-.56v-2c-3.2.7-3.87-1.37-3.87-1.37-.52-1.33-1.28-1.68-1.28-1.68-1.05-.72.08-.7.08-.7 1.16.08 1.77 1.19 1.77 1.19 1.03 1.77 2.7 1.26 3.36.96.1-.75.4-1.26.73-1.55-2.55-.29-5.24-1.28-5.24-5.68 0-1.26.45-2.28 1.19-3.09-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.17 1.18a11 11 0 0 1 5.77 0c2.2-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.83 1.19 3.09 0 4.41-2.69 5.38-5.25 5.67.41.36.78 1.06.78 2.14v3.17c0 .31.21.68.8.56A11.5 11.5 0 0 0 23.5 12C23.5 5.65 18.35.5 12 .5Z"/></svg><span class="label">Star on GitHub</span></a>
+      <button class="btn icon" id="theme" aria-label="Toggle theme">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8Z"/></svg></button>
+    </div>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <h1>Discover the best <span>AI tools</span></h1>
+    <p>A curated, community-driven catalog of AI tools, models and platforms, from image generation to coding agents.</p>
+    <div class="stats">
+      <div class="stat"><b id="s-tools">–</b><span>AI tools</span></div>
+      <div class="stat"><b id="s-cats">–</b><span>categories</span></div>
+      <div class="stat"><b id="s-free">–</b><span>free or freemium</span></div>
+    </div>
+    <label class="search">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="Search tools, e.g. video, coding, Claude…" autocomplete="off" aria-label="Search tools">
+      <kbd>/</kbd>
+    </label>
+  </div>
+</section>
+
+<main class="wrap layout">
+  <aside class="sidebar">
+    <h3>Categories</h3>
+    <ul class="cat-list" id="cats"></ul>
+  </aside>
+  <section>
+    <div class="toolbar">
+      <select class="mobile-cats" id="mcats" aria-label="Category"></select>
+      <button class="chip" data-f="free">🆓 Free</button>
+      <button class="chip" data-f="freemium">🔄 Freemium</button>
+      <button class="chip" data-f="paid">💰 Paid</button>
+      <button class="chip" data-f="new">🆕 New</button>
+      <span class="result-info" id="info"></span>
+    </div>
+    <div id="results"><div class="state"><div class="spinner"></div>Loading catalog…</div></div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>Data comes from the repository's <a href="https://github.com/mehmetkahya0/AI-Catalog/blob/main/README.md">README</a>, so the site updates automatically.</span>
+    <span>GPL-3.0 · by <a href="https://github.com/mehmetkahya0">@mehmetkahya0</a></span>
+  </div>
+</footer>
+<button class="btn icon totop" id="totop" aria-label="Back to top">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="m6 15 6-6 6 6"/></svg></button>
+
+<script>
+(() => {
+  const SOURCES = ['README.md', 'https://raw.githubusercontent.com/mehmetkahya0/AI-Catalog/main/README.md'];
+  const SKIP = /star history|support|table of contents|getting started|contributing|license/i;
+  const $ = s => document.querySelector(s);
+  const esc = s => s.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const clean = s => s.replace(/^[^\p{L}\p{N}]+/u, '').replace(/\s+/g, ' ').trim();
+
+  // theme
+  const root = document.documentElement;
+  try { const t = localStorage.getItem('theme'); if (t) root.dataset.theme = t; } catch {}
+  $('#theme').onclick = () => {
+    const dark = root.dataset.theme ? root.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+    root.dataset.theme = dark ? 'light' : 'dark';
+    try { localStorage.setItem('theme', root.dataset.theme); } catch {}
+  };
+
+  function parse(md) {
+    const tools = [], cats = [];
+    let h2 = null, h3 = null, sub = '', desc = '', skip = true;
+    for (const raw of md.split('\n')) {
+      const line = raw.replace(/\s+$/, '');
+      let m;
+      if ((m = line.match(/^#{1,2}\s+(.+)/))) {
+        h2 = clean(m[1]); h3 = null; sub = ''; desc = '';
+        skip = SKIP.test(h2) || /huge ai catalog/i.test(h2);
+        continue;
+      }
+      if (skip) continue;
+      if ((m = line.match(/^###\s+(.+)/))) {
+        // plain "### Summarizer" headings are categories; emoji-led ones ("### 🔥 Commercial LLMs") are groups
+        h3 = /^\p{L}/u.test(m[1].trim()) ? clean(m[1]) : null;
+        sub = h3 ? '' : clean(m[1]); desc = ''; continue;
+      }
+      if ((m = line.match(/^####\s+(.+)/))) { sub = clean(m[1]); continue; }
+      if ((m = line.match(/^>\s*(.+)/))) { desc = m[1].trim(); continue; }
+      if (!/^\s*-\s+\S/.test(line)) continue;
+      const item = line.replace(/^\s*-\s+/, '');
+      let name, url = '', rest = '';
+      if ((m = item.match(/^\*{0,2}\[([^\]]+)\]\(([^)\s]+)\)\*{0,2}\s*(.*)$/))) [, name, url, rest] = m;
+      else if (!/[\[\]*]/.test(item)) name = item;
+      else continue;
+      name = name.trim();
+      if (!name || name.length > 80) continue;
+      const tags = rest.split(' - ')[0];
+      const dm = rest.match(/(?:^|\s)-\s+(.+)$/);
+      const category = h3 || h2;
+      let cat = cats.find(c => c.name === category);
+      if (!cat) { cat = { name: category, desc: '', count: 0 }; cats.push(cat); }
+      if (desc && !cat.desc) cat.desc = desc;
+      cat.count++;
+      tools.push({
+        name, url, desc: dm ? dm[1].trim() : '', category, sub,
+        free: tags.includes('🆓'), freemium: tags.includes('🔄'), paid: tags.includes('💰'),
+        isNew: tags.includes('🆕'), hot: tags.includes('🔥'),
+      });
+    }
+    return { tools, cats };
+  }
+
+  const state = { cat: 'all', q: '', f: new Set() };
+  let data = { tools: [], cats: [] };
+
+  function host(u) { try { return new URL(u).hostname.replace(/^www\./, ''); } catch { return ''; } }
+  function hl(text, q) {
+    const t = esc(text);
+    if (!q) return t;
+    const re = new RegExp('(' + q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'ig');
+    return t.replace(re, '<mark>$1</mark>');
+  }
+
+  function card(t, q) {
+    const h = host(t.url);
+    const href = t.url || 'https://www.google.com/search?q=' + encodeURIComponent(t.name + ' AI');
+    const fav = esc(t.name[0].toUpperCase()) + (h ? `<img src="https://www.google.com/s2/favicons?domain=${encodeURIComponent(h)}&sz=64" alt="" loading="lazy" onerror="this.remove()">` : '');
+    const b = [];
+    if (t.free) b.push('<span class="badge free">Free</span>');
+    if (t.freemium) b.push('<span class="badge freemium">Freemium</span>');
+    if (t.paid) b.push('<span class="badge paid">Paid</span>');
+    if (t.isNew) b.push('<span class="badge new">New</span>');
+    if (t.hot) b.push('<span class="badge hot">Popular</span>');
+    if (state.cat === 'all') b.push(`<span class="badge sub">${esc(t.category)}</span>`);
+    else if (t.sub) b.push(`<span class="badge sub">${esc(t.sub)}</span>`);
+    return `<article class="card">
+      <div class="card-head"><div class="fav">${fav}</div><div style="min-width:0"><h4>${hl(t.name, q)}</h4><div class="host">${esc(h || 'Search the web')}</div></div></div>
+      <p class="${t.desc ? '' : 'empty'}">${t.desc ? hl(t.desc, q) : 'No description yet.'}</p>
+      <div class="card-foot">${b.join('')}</div>
+      <a class="cover" href="${esc(href)}" target="_blank" rel="noopener" aria-label="Open ${esc(t.name)}"></a>
+    </article>`;
+  }
+
+  function render() {
+    const q = state.q.trim().toLowerCase();
+    const list = data.tools.filter(t =>
+      (state.cat === 'all' || t.category === state.cat) &&
+      (!q || (t.name + ' ' + t.desc + ' ' + t.category + ' ' + t.sub + ' ' + t.url).toLowerCase().includes(q)) &&
+      (!state.f.size || [...state.f].some(f => (f === 'new' ? t.isNew : t[f]))));
+    $('#info').textContent = `${list.length} result${list.length === 1 ? '' : 's'}`;
+    document.querySelectorAll('#cats button').forEach(b => b.classList.toggle('active', b.dataset.cat === state.cat));
+    $('#mcats').value = state.cat;
+    if (!list.length) { $('#results').innerHTML = '<div class="state">No tools match your search. Try another keyword or clear the filters.</div>'; return; }
+    let html = '';
+    if (state.cat === 'all' && !q && !state.f.size) {
+      for (const c of data.cats) {
+        const items = list.filter(t => t.category === c.name);
+        if (!items.length) continue;
+        html += `<h2 class="group-title" id="${encodeURIComponent(c.name)}">${esc(c.name)} <small>${items.length}</small></h2>`;
+        if (c.desc) html += `<p class="group-desc">${esc(c.desc)}</p>`;
+        html += `<div class="grid">${items.map(t => card(t, q)).join('')}</div>`;
+      }
+    } else {
+      const c = data.cats.find(c => c.name === state.cat);
+      if (c) html += `<h2 class="group-title">${esc(c.name)} <small>${list.length}</small></h2>${c.desc ? `<p class="group-desc">${esc(c.desc)}</p>` : ''}`;
+      html += `<div class="grid">${list.map(t => card(t, q)).join('')}</div>`;
+    }
+    $('#results').innerHTML = html;
+  }
+
+  function syncHash() {
+    const p = new URLSearchParams();
+    if (state.cat !== 'all') p.set('c', state.cat);
+    if (state.q) p.set('q', state.q);
+    const h = p.toString();
+    history.replaceState(null, '', h ? '#' + h : location.pathname);
+  }
+
+  function setup() {
+    const total = data.tools.length;
+    const unique = new Set(data.tools.map(t => (t.url || t.name).toLowerCase())).size;
+    $('#s-tools').textContent = unique + '+';
+    $('#s-cats').textContent = data.cats.length;
+    $('#s-free').textContent = data.tools.filter(t => t.free || t.freemium).length;
+    const opts = [{ name: 'all', label: 'All tools', count: total }, ...data.cats.map(c => ({ name: c.name, label: c.name, count: c.count }))];
+    $('#cats').innerHTML = opts.map(o => `<li><button data-cat="${esc(o.name)}"><span>${esc(o.label)}</span><span class="n">${o.count}</span></button></li>`).join('');
+    $('#mcats').innerHTML = opts.map(o => `<option value="${esc(o.name)}">${esc(o.label)} (${o.count})</option>`).join('');
+    $('#cats').onclick = e => { const b = e.target.closest('button'); if (!b) return; state.cat = b.dataset.cat; syncHash(); render(); scrollTo({ top: $('.layout').offsetTop - 70, behavior: 'smooth' }); };
+    $('#mcats').onchange = e => { state.cat = e.target.value; syncHash(); render(); };
+    const p = new URLSearchParams(location.hash.slice(1));
+    if (p.get('c') && data.cats.some(c => c.name === p.get('c'))) state.cat = p.get('c');
+    if (p.get('q')) { state.q = p.get('q'); $('#q').value = state.q; }
+    render();
+  }
+
+  let timer;
+  $('#q').addEventListener('input', e => { clearTimeout(timer); timer = setTimeout(() => { state.q = e.target.value; syncHash(); render(); }, 120); });
+  document.querySelectorAll('.chip').forEach(c => c.onclick = () => {
+    const f = c.dataset.f; state.f.has(f) ? state.f.delete(f) : state.f.add(f);
+    c.classList.toggle('on'); render();
+  });
+  addEventListener('keydown', e => {
+    if (e.key === '/' && document.activeElement !== $('#q')) { e.preventDefault(); $('#q').focus(); }
+    if (e.key === 'Escape' && document.activeElement === $('#q')) { $('#q').value = ''; state.q = ''; syncHash(); render(); }
+  });
+  addEventListener('scroll', () => $('#totop').classList.toggle('show', scrollY > 800), { passive: true });
+  $('#totop').onclick = () => scrollTo({ top: 0, behavior: 'smooth' });
+
+  (async () => {
+    for (const src of SOURCES) {
+      try {
+        const r = await fetch(src, { cache: 'no-cache' });
+        if (!r.ok) continue;
+        const md = await r.text();
+        if (!md.includes('##')) continue;
+        data = parse(md);
+        if (data.tools.length) return setup();
+      } catch {}
+    }
+    $('#results').innerHTML = '<div class="state">Could not load the catalog. <a href="https://github.com/mehmetkahya0/AI-Catalog#readme" style="color:var(--accent)">View it on GitHub</a>.</div>';
+  })();
+})();
+</script>
+</body>
+</html>

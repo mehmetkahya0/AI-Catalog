@@ -2,6 +2,8 @@
 
 > **A comprehensive, curated collection of 500+ AI tools, platforms, and resources across 40+ categories**
 
+🌐 **Browse the catalog online: [mehmetkahya0.github.io/AI-Catalog](https://mehmetkahya0.github.io/AI-Catalog/)** (searchable, filterable)
+
 *Your one-stop destination for discovering the best AI tools across all domains - from creative AI to developer tools, from chatbots to specialized applications.*
 
 *It's one of the first AI-list repo on Github! The first commit was on Jun 30, 2023!*
