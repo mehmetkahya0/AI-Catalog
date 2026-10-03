@@ -446,6 +446,8 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Klap](https://klap.app)** 🔄 - Turn videos into viral clips
 - **[OpusClip](https://opus.pro)** 🆕🔄 - Auto short clips from long videos
 
+- **[Pic2Video AI](https://pic2videoai.com/)** 🔄 - Turns still photos into short animated videos in the browser
+
 #### 🆕 Emerging Platforms
 - **[Haiper AI](https://haiper.ai)** 🆕🔄 - Fast video generation
 - **[Pixverse](https://pixverse.ai)** 🆕🔄 - Character consistency
@@ -483,6 +485,8 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 ## Search Engines & Chatbot's
 > AI-powered search and conversational interfaces
+
+- **[Hotel Lobby AI](https://hotellobbyai.top/)** 🆕🔄 - Two uploaded photos become a cinematic duet clip on a staged hotel lobby
 
 #### 🔍 AI Search Engines
 - **[Perplexity](https://perplexity.ai)** 🔄 - AI-powered answer engine
