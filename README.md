@@ -122,6 +122,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 > Transform your ideas into stunning visuals with AI-powered image generation
 
 #### 🔥 Premium/Professional
+- **[Raphael AI](https://raphael.app)** 🆓🔄 - Free unlimited AI image generator for product shots, ads, and brand visuals from text prompts
 - **[Midjourney v7](https://www.midjourney.com/home/)** 🆕💰 - Latest version with text-to-video support (April 2025)
 - **[FLUX 1.1 Pro](https://blackforestlabs.ai)** 🆕💰 - Black Forest Labs' flagship model
 - **[FLUX 1.1 Ultra](https://blackforestlabs.ai)** 🆕💰 - High-resolution generation mode
