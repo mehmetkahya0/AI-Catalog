@@ -502,6 +502,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Claude](https://claude.ai)** 🔄 - Anthropic's AI assistant
 - **[Character AI](https://beta.character.ai/)** 🔄 - AI character conversations
 - **[Kissable](https://kissable.app)** 💰 - AI companion with persistent memory, photo/video generation, and community scenarios
+- **[Auferet](https://auferet.com/)** - AI game master for text adventures and tabletop RPGs that remembers your story and reads your uploaded lore
 - **[Poe](https://poe.com)** 🔄 - Multiple AI models in one platform
 
 #### 🌐 Browser Integration
