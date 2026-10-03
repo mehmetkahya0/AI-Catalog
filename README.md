@@ -135,7 +135,9 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 #### 🔥 Premium/Professional
 - **[Lunalisa](https://luna-lisa.art)** 🔄 - Prompt-led workspace for AI images and short-form image-to-video
 - **[Raphael AI](https://raphael.app)** 🆓🔄 - Free unlimited AI image generator for product shots, ads, and brand visuals from text prompts
-- **[Midjourney v7](https://www.midjourney.com/home/)** 🆕💰 - Latest version with text-to-video support (April 2025)
+- **[ChatGPT Images 2.0](https://chatgpt.com)** 🆕🔄 - OpenAI's gpt-image-2 with reasoning and 2K output (April 2026)
+- **[Midjourney V8](https://www.midjourney.com)** 🆕💰 - 5x faster generation with native 2K output (2026)
+- **[Midjourney v7](https://www.midjourney.com/home/)** 💰 - Previous version with text-to-video support (April 2025)
 - **[FLUX 1.1 Pro](https://blackforestlabs.ai)** 🆕💰 - Black Forest Labs' flagship model
 - **[FLUX 1.1 Ultra](https://blackforestlabs.ai)** 🆕💰 - High-resolution generation mode
 - **[FLUX Kontext](https://blackforestlabs.ai)** 🆕🔄 - In-context image editing
@@ -191,15 +193,24 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 > Advanced AI systems that can process text, images, audio, and video
 
 #### 🔥 Leading Models
-- **[GPT-5](https://openai.com)** 🆕💰 - OpenAI's most advanced model (August 2025)
+- **[GPT-6 Astra](https://openai.com/index/gpt-6-astra/)** 🆕💰 - OpenAI's frontier model for computer use, coding and science (2026)
+- **[GPT-6.1 Sol](https://chatgpt.com)** 🆕🔄 - Near-Astra intelligence at a fraction of the cost (September 2026)
+- **[Claude Opus 5.5](https://claude.ai)** 🆕💰 - Anthropic's flagship for agentic coding and knowledge work (September 2026)
+- **[Claude Sonnet 5.5](https://claude.ai)** 🆕🔄 - Faster, cheaper everyday Claude model (September 2026)
+- **[Claude Fable 5.1](https://claude.ai)** 🆕💰 - Anthropic's top-tier model for the hardest tasks
+- **[Gemini 4 Argon](https://gemini.google.com)** 🆕💰 - Google's frontier reasoning model (September 2026)
+- **[Gemini 3.8 Flash](https://gemini.google.com)** 🆕🔄 - Google's fast workhorse model for coding and agents (September 2026)
+- **[Grok 4.7](https://grok.com)** 🆕🔄 - xAI's frontier model for coding and agentic tasks (September 2026)
+- **[Meta Muse Spark](https://meta.ai)** 🆕🆓 - Meta's multimodal assistant model (April 2026)
+- **[GPT-5](https://openai.com)** 💰 - OpenAI's previous-generation flagship (August 2025)
 - **[ChatGPT 4o](https://chat.openai.com)** 🔄 - OpenAI's flagship multimodal model
 - **[ChatGPT o3](https://chat.openai.com)** 💰 - Advanced reasoning model
 - **[ChatGPT o1](https://chat.openai.com)** 🔄 - Reasoning-focused model
-- **[Claude Opus 4](https://claude.ai)** 🆕💰 - Anthropic's most capable coding & reasoning model
-- **[Claude Sonnet 4](https://claude.ai)** 🆕🔄 - Balanced performance and speed
-- **[Gemini 2.0 Flash](https://gemini.google.com)** 🆕🔄 - Google's fast multimodal model
+- **[Claude Opus 4](https://claude.ai)** 💰 - Previous-generation Claude coding & reasoning model
+- **[Claude Sonnet 4](https://claude.ai)** 🔄 - Balanced performance and speed
+- **[Gemini 2.0 Flash](https://gemini.google.com)** 🔄 - Google's fast multimodal model
 - **[Gemini 2.5 Pro](https://gemini.google.com)** 🔄 - Enhanced coding capabilities
-- **[Gemini 3 Pro](https://gemini.google.com)** 🆕💰 - Google's latest flagship (December 2025)
+- **[Gemini 3 Pro](https://gemini.google.com)** 💰 - Google's flagship from December 2025
 - **[Perplexity Pro](https://pro.perplexity.ai)** 🔄 - AI-powered research and search assistant
 - **[Microsoft Copilot](https://copilot.microsoft.com)** 🔄 - Microsoft's AI assistant across products
 
@@ -212,19 +223,28 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 ## 🧠 Large Language Models (LLMs)
 
 ### 🔥 Commercial LLMs
-- **[GPT-5](https://openai.com)** 🆕💰 - OpenAI's most advanced model (August 2025)
+- **[GPT-6 Astra](https://openai.com/index/gpt-6-astra/)** 🆕💰 - OpenAI's most capable model (2026)
+- **[GPT-6.1 Sol](https://openai.com)** 🆕💰 - Cost-efficient GPT-6 model for agentic coding (September 2026)
+- **[GPT-6 Luna](https://openai.com)** 🆕💰 - Fast, affordable GPT-6 model (September 2026)
+- **[Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)** 🆕💰 - Anthropic's flagship for complex work (September 2026)
+- **[Claude Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5)** 🆕💰 - Fast, capable mid-tier model (September 2026)
+- **[Gemini 4 Argon](https://deepmind.google/models/)** 🆕💰 - Google's frontier reasoning model, 1M-token output (September 2026)
+- **[Grok 4.7](https://x.ai/news/grok-4-7)** 🆕💰 - xAI's frontier model with 500K context (September 2026)
+- **[GPT-5](https://openai.com)** 💰 - OpenAI's previous-generation flagship (August 2025)
 - **[GPT-4 Turbo](https://openai.com/gpt-4)** 💰 - High-performance GPT-4 variant
-- **[Claude Opus 4](https://claude.ai)** 🆕💰 - Anthropic's flagship for complex tasks
-- **[Claude Sonnet 4](https://claude.ai)** 🆕🔄 - Fast and capable reasoning model
-- **[Gemini 2.5 Pro](https://gemini.google.com)** 🆕🔄 - Google's enhanced coding model
+- **[Claude Opus 4](https://claude.ai)** 💰 - Previous-generation Claude flagship
+- **[Claude Sonnet 4](https://claude.ai)** 🔄 - Fast and capable reasoning model
+- **[Gemini 2.5 Pro](https://gemini.google.com)** 🔄 - Google's enhanced coding model
 - **[Gemini Ultra](https://gemini.google.com)** 💰 - Google's most capable model
 
 ### 🆓 Open Source LLMs  
+- **[DeepSeek V4](https://www.deepseek.com)** 🆕🆓 - Open-weight 1.6T MoE (Pro) and 284B (Flash) with 1M context (April 2026)
+- **[Qwen3.8](https://qwen.ai)** 🆕🆓 - Alibaba's latest model family incl. open Qwen3.8-27B and 2.4T Qwen3.8-Max (2026)
 - **[Llama 4 Scout](https://llama.meta.com)** 🆕🆓 - Meta's 17B MoE model (16 experts)
 - **[Llama 4 Maverick](https://llama.meta.com)** 🆕🆓 - Meta's 17B MoE model (128 experts)
 - **[Llama 3.1](https://llama.meta.com)** 🆓 - Meta's widely-used open model
-- **[DeepSeek v3](https://deepseek.com)** 🆕🆓 - High-performance Chinese open model
-- **[Qwen 2.5](https://qwenlm.github.io)** 🆕🆓 - Alibaba's multilingual model
+- **[DeepSeek v3](https://deepseek.com)** 🆓 - High-performance Chinese open model
+- **[Qwen 2.5](https://qwenlm.github.io)** 🆓 - Alibaba's multilingual model
 - **[Mistral Large 2](https://mistral.ai)** 🆕🔄 - Mistral's flagship model
 - **[Mixtral 8x22B](https://mistral.ai)** 🆕🆓 - Large mixture of experts
 - **[Code Llama](https://github.com/facebookresearch/codellama)** 🆓 - Specialized for code generation
@@ -462,9 +482,11 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 > AI-powered video creation and editing tools
 
 #### 🔥 Professional Video Tools
+- **[Gemini Omni](https://gemini.google.com)** 🆕🔄 - Google's any-to-any model, starting with video generation (2026)
+- **[Seedance 2.5](https://seed.bytedance.com)** 🆕🔄 - ByteDance's model for 30-second multi-reference videos (July 2026)
 - **[Sora 2](https://openai.com/sora)** 🆕💰 - OpenAI's advanced video model (September 2025)
-- **[Runway Gen-4](https://runwayml.com)** 🆕💰 - Motion Brush & advanced camera control
-- **[Kling AI 2.1](https://klingai.com)** 🆕🔄 - 1080P, up to 3 minutes video
+- **[Runway Gen-4.5](https://runwayml.com)** 🆕💰 - Runway's latest model with stronger physics and motion
+- **[Kling 3.0](https://klingai.com)** 🆕🔄 - Native 4K, multi-shot video with integrated audio (February 2026)
 - **[Google Veo 3.1](https://deepmind.google/technologies/veo/)** 🆕💰 - 4K output with native audio
 - **[Minimax AI](https://hailuoai.video)** 🆕🔄 - Text/image to video with free tier
 - **[Luma Dream Machine](https://lumalabs.ai/dream-machine)** 🔄 - High-quality video generation
