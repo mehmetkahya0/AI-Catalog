@@ -503,7 +503,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Klap](https://klap.app)** 🔄 - Turn videos into viral clips
 - **[OpusClip](https://opus.pro)** 🆕🔄 - Auto short clips from long videos
 - **[shortshort](https://www.shortshort.io)** 🆕🔄 - Turns one long video into vertical 9:16 shorts with captions
-- **[ScaleReach](https://www.scalereach.ai)** 🔄 - Turns long videos into 9:16 clips with AI captions and face-tracking crop
+- **[ScaleReach](https://www.scalereach.ai)** 💰 - Turns long videos into 9:16 clips with AI captions and face-tracking crop
 - **[Pic2Video AI](https://pic2videoai.com/)** 🔄 - Turns still photos into short animated videos in the browser
 - **[Hotel Lobby AI](https://hotellobbyai.top/)** 🆕🔄 - Two uploaded photos become a cinematic duet clip on a staged hotel lobby
 - **[UGCFast](https://ugcfast.ai)** 💰 - Persona-matched AI UGC video ads for Meta and TikTok from a product URL
