@@ -281,6 +281,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 #### 📄 Document & PDF
 - **[Documind](https://documind.chat)** 🔄 - Chat with PDFs and documents
+- **[Practical Web Tools](https://practicalwebtools.com/)** 🆓 - 1,400+ browser tools incl. AI chat (works with local models), AI document OCR, AI background removal, PDF editors — all client-side
 - **[Upword](https://www.upword.ai/)** 🔄 - Research and reading companion
 - **[Quino](https://quino.ai)** 🔄 - Academic paper summarizer
 
