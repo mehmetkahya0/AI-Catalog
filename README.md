@@ -517,6 +517,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Pika 2.0](https://pika.art)** 🆕🔄 - Scene manipulation features
 - **[Vidnoz](https://vidnoz.com)** 🔄 - AI video generator
 - **[Deepshot AI](https://deepshot.ai)** 🔄 - Video reshooting tool
+- **[SeedanceCheap](https://seedancecheap.com/)** 💰 - Plan and request 30-second Seedance 2.5 videos via an independent web studio and API.
 - **[TubeTube](https://www.tubetube.io)** 🆕🔄 - Lyrics or story to a multi-scene video with consistent characters
 ## 3D
 - Meshy
