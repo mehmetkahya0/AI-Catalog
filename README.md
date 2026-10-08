@@ -278,6 +278,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[ChatGPT for YouTube](https://chrome.google.com/webstore/detail/chatgpt-for-youtube/ocbklpkcikpidkleacbohkobinlilgbd)** 🆓 - Browser extension
 - **[tl;dv](https://tldv.io)** 🔄 - Meeting and video call summarizer
 - **[getyoutubetranscript.com](https://getyoutubetranscript.com)** 🔄 - Free API & MCP server for YouTube transcripts, video/channel search & playlist data
+- **[ORANO](https://oranoai.com)** 🔄 - Turns saved Reels, TikToks and YouTube videos into summaries and step-by-step plans
 
 #### 📄 Document & PDF
 - **[Documind](https://documind.chat)** 🔄 - Chat with PDFs and documents
