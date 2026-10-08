@@ -342,6 +342,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[KoboldAI](https://github.com/henk717/KoboldAI)** 🆓 - Open-source story writing AI
 - **[Writesparkle.ai](https://writesparkle.ai)** 🔄 - Creative writing assistant
 - **[Asterix Writer](https://asterixwriter.com)** 🔄 - Fiction and story writing
+- **[ImagineYourBook](https://www.imagineyourbook.com/)** 💰 - Plans, drafts, and rewrites full-length books in your voice, with EPUB and Word export
 
 #### 📝 Content Creation
 - **[CreatorSkills](https://creatorskills.co)** 💰 - Marketplace of downloadable AI skills for content creators (Claude & ChatGPT)
