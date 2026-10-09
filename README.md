@@ -718,6 +718,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[OpenAI Operator](https://openai.com/operator)** 🆕💰 - Web-based autonomous task agent
 - **[Anthropic Computer Use](https://anthropic.com)** 🆕💰 - GUI-based computer control
 - **[Manus AI](https://manus.ai)** 🆕🔄 - Cloud-based autonomous system
+- **[Drevon](https://www.drevon.dev)** 🆓 - Mac app that turns Claude Code or Codex into an end-to-end GTM operator from a single prompt
 
 #### 🆓 Open Source Agents
 - **[Orkas](https://github.com/Orkas-AI/Orkas)** 🆓 - Local-first desktop AI workforce coordinated by a Commander through one chat
