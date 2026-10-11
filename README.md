@@ -817,6 +817,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Canva](https://canva.com)** 🔄 - Design platform with AI tools
 - **[SocialEcho](https://www.socialecho.net)** 🔄 - AI workspace for publishing, engagement and analytics across 11 social platforms
 - **[LogNorm](https://lognorm.com)** 🔄 - Hosted MCP server that hands your SEO/GEO backlog to Claude Code, Codex and Cursor
+- **[Kamply](https://kamplyapp.com)** 💰 - Mac marketing crew building branded posts, reels, ads and decks on your Claude Code or Codex plan
 
 ## AI Productivity
 > AI tools to enhance personal and professional productivity
