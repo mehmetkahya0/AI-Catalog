@@ -494,6 +494,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[cv.cm/v](https://cv.cm/v)** 🔄 - Queue-free Seedance 2.0 text & image to video generation
 - **[RenderFlow AI](https://renderflowai.com)** 🆕🔄 - Multi-model platform with Kling, Veo3, Midjourney & more for AI video generation
 - **[Vivideo](https://vivideo.ai)** 🆕🔄 - Multi-model text-to-video & image-to-video with synced audio
+- - **[Sora2 Hub](https://sora2hub.org)** 🔄 - Credit-based AI image & video generator with Veo 3.1, Kling and Seedance in one place
 
 #### 🎬 Content Creation
 - **[Synthesia](https://synthesia.io)** 💰 - AI avatar video generation
@@ -755,6 +756,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Ai chatbot builder](http://Wizy.chat)
 - [Ai resume builder](http://Kickresume.com)
 - [ResumeAI](https://withresumeai.com/)
+- - [Massvai](https://massvai.com) - AI full-stack Next.js app builder
 
 ## Landing Page Generator
 - [aipage.dev](https://www.aipage.dev)
