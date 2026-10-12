@@ -42,7 +42,7 @@
 <div align="center">
   <strong>⭐ If you find this catalog helpful, please consider giving it a star! ⭐</strong>
   <br><br>
-  <i>Last updated: October 3, 2026 | Next goal: 500 stars 🎯</i>
+  <i>Last updated: October 12, 2026 | Next goal: 500 stars 🎯</i>
   <br><br>
   <i>🤖 Thanks to Claude Sonnet 4 for write .sh files! </i>
 </div>
@@ -109,7 +109,7 @@ Welcome to the most comprehensive AI tools catalog! This repository contains **5
 ### 📊 Quick Stats
 - **Total Tools**: 500+
 - **Categories**: 40+
-- **Last Updated**: October 3, 2026
+- **Last Updated**: October 12, 2026
 - **Contributors**: Open for PRs!
 - **Next Goal**: ⭐️ 500 stars
 
@@ -277,7 +277,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[SummarizAI](https://summarizai.ink)** 🔄 - Chrome extension: YouTube summary, chapters, chat, Study flashcards
 - **[ChatGPT for YouTube](https://chrome.google.com/webstore/detail/chatgpt-for-youtube/ocbklpkcikpidkleacbohkobinlilgbd)** 🆓 - Browser extension
 - **[tl;dv](https://tldv.io)** 🔄 - Meeting and video call summarizer
-- **[getyoutubetranscript.com](https://getyoutubetranscript.com)** 🔄 - Free API & MCP server for YouTube transcripts, video/channel search & playlist data
+- **[getyoutubetranscript.com](https://getyoutubetranscript.com)** 🔄 - Free API and MCP server for YouTube transcripts, search and playlist data
 - **[ORANO](https://oranoai.com)** 🔄 - Turns saved Reels, TikToks and YouTube videos into summaries and step-by-step plans
 
 #### 📄 Document & PDF
@@ -519,7 +519,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Pika 2.0](https://pika.art)** 🆕🔄 - Scene manipulation features
 - **[Vidnoz](https://vidnoz.com)** 🔄 - AI video generator
 - **[Deepshot AI](https://deepshot.ai)** 🔄 - Video reshooting tool
-- **[SeedanceCheap](https://seedancecheap.com/)** 💰 - Plan 15s Seedance 2.0 or 30s Seedance 2.5 videos in an independent studio and API.
+- **[SeedanceCheap](https://seedancecheap.com/)** 💰 - Independent studio and API for Seedance 2.0 and 2.5 video generation
 - **[TubeTube](https://www.tubetube.io)** 🆕🔄 - Lyrics or story to a multi-scene video with consistent characters
 ## 3D
 - Meshy
@@ -721,7 +721,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[OpenAI Operator](https://openai.com/operator)** 🆕💰 - Web-based autonomous task agent
 - **[Anthropic Computer Use](https://anthropic.com)** 🆕💰 - GUI-based computer control
 - **[Manus AI](https://manus.ai)** 🆕🔄 - Cloud-based autonomous system
-- **[Drevon](https://www.drevon.dev)** 🆓 - Mac app that turns Claude Code or Codex into an end-to-end GTM operator from a single prompt
+- **[Drevon](https://www.drevon.dev)** 🆓 - Mac app that turns Claude Code or Codex into a go-to-market operator
 
 #### 🆓 Open Source Agents
 - **[Orkas](https://github.com/Orkas-AI/Orkas)** 🆓 - Local-first desktop AI workforce coordinated by a Commander through one chat
@@ -786,7 +786,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[DataGPT](https://datagpt.com)** 💰 - Conversational data analysis
 - **[Tableau Ask Data](https://tableau.com)** 💰 - Natural language data queries
 - **[Microsoft Copilot for Excel](https://microsoft.com)** 💰 - AI-powered spreadsheet analysis
-- **[Equibles](https://equibles.com)** 🔄 - Cited US stock data from SEC filings and earnings calls for ChatGPT and Claude over MCP
+- **[Equibles](https://equibles.com)** 🔄 - MCP server with cited US stock data from SEC filings for ChatGPT and Claude
 
 #### 🤖 Analytics Assistants
 - **[MonkeyLearn](https://monkeylearn.com)** 🔄 - No-code text analysis
@@ -821,8 +821,8 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Mailchimp](https://mailchimp.com)** 🔄 - Email marketing with AI
 - **[Canva](https://canva.com)** 🔄 - Design platform with AI tools
 - **[SocialEcho](https://www.socialecho.net)** 🔄 - AI workspace for publishing, engagement and analytics across 11 social platforms
-- **[LogNorm](https://lognorm.com)** 🔄 - Hosted MCP server that hands your SEO/GEO backlog to Claude Code, Codex and Cursor
-- **[Kamply](https://kamplyapp.com)** 💰 - Mac marketing crew building branded posts, reels, ads and decks on your Claude Code or Codex plan
+- **[LogNorm](https://lognorm.com)** 🔄 - Hosted MCP server that sends your SEO/GEO backlog to Claude Code, Codex and Cursor
+- **[Kamply](https://kamplyapp.com)** 💰 - Mac marketing crew that builds posts, reels, ads and decks with Claude Code or Codex
 
 ## AI Productivity
 > AI tools to enhance personal and professional productivity
