@@ -175,6 +175,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Magnific AI](https://magnific.ai)** 🆕💰 - AI image upscaling and enhancement
 - **[Pika Labs](https://pika.art)** 🔄 - AI video and image generation
 - **[PixBulk](https://pixbulk.com)** 🔄 - Specialized bulk product images for ecommerce catalogs and campaigns
+- **[PixVibe](https://pixvibe.ai)** 🔄 - Browser-based AI background removal and upscaling, plus compress, convert and crop
 - **[Skybox Lab](https://skybox.blockadelabs.com)** 🔄 - 360° skybox generation
 - **[RestorePhoto](https://restorephoto.org/)** 🔄 - Restores facial clarity in old and blurry photos
 - **[UpRes](https://upres.ai)** 🆕🔄 - AI image and video upscaling to 4K/8K with 14 models, REST API, and CLI
