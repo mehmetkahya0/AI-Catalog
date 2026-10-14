@@ -693,6 +693,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Quizlet](https://quizlet.com)** 🔄 - AI-powered study tools
 - **[Coursera Coach](https://coursera.org)** 🔄 - AI learning assistant
 - **[KidsFunLearnClub](https://kidsfunlearnclub.co)** 🆓 - Free AI education platform for kids aged 9–14
+- **[Learn Magic](https://learnmagic.ai)** 🆓 - Free plain-English guide to building with AI and Claude Code, for non-programmers
 
 #### 📚 Research & Writing
 - **[Elicit](https://elicit.org)** 🔄 - AI research assistant
