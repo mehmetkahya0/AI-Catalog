@@ -42,7 +42,7 @@
 <div align="center">
   <strong>⭐ If you find this catalog helpful, please consider giving it a star! ⭐</strong>
   <br><br>
-  <i>Last updated: October 12, 2026 | Next goal: 500 stars 🎯</i>
+  <i>Last updated: October 14, 2026 | Next goal: 500 stars 🎯</i>
   <br><br>
   <i>🤖 Thanks to Claude Sonnet 4 for write .sh files! </i>
 </div>
@@ -109,7 +109,7 @@ Welcome to the most comprehensive AI tools catalog! This repository contains **5
 ### 📊 Quick Stats
 - **Total Tools**: 500+
 - **Categories**: 40+
-- **Last Updated**: October 12, 2026
+- **Last Updated**: October 14, 2026
 - **Contributors**: Open for PRs!
 - **Next Goal**: ⭐️ 500 stars
 
@@ -694,7 +694,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Quizlet](https://quizlet.com)** 🔄 - AI-powered study tools
 - **[Coursera Coach](https://coursera.org)** 🔄 - AI learning assistant
 - **[KidsFunLearnClub](https://kidsfunlearnclub.co)** 🆓 - Free AI education platform for kids aged 9–14
-- **[Learn Magic](https://learnmagic.ai)** 🆓 - Beginner guide to building with Claude Code, for non-programmers (building needs Claude Pro)
+- **[Learn Magic](https://learnmagic.ai)** 🆓 - Beginner course on building with Claude Code, for non-programmers
 
 #### 📚 Research & Writing
 - **[Elicit](https://elicit.org)** 🔄 - AI research assistant
