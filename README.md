@@ -179,6 +179,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Skybox Lab](https://skybox.blockadelabs.com)** 🔄 - 360° skybox generation
 - **[RestorePhoto](https://restorephoto.org/)** 🔄 - Restores facial clarity in old and blurry photos
 - **[UpRes](https://upres.ai)** 🆕🔄 - AI image and video upscaling to 4K/8K with 14 models, REST API, and CLI
+- **[FontVibe](https://fontvibe.ai)** 🔄 - Text effect and lettering designs from a brief: logos, posters, thumbnails, 126+ styles
 
 #### 📱 Browser/Extension Tools
 - **[Canva AI](https://canva.com)** 🔄 - Integrated design platform with Dream Lab
