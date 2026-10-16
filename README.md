@@ -351,6 +351,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Frase](https://frase.io)** 🔄 - SEO-optimized content writing
 - **[WritingMate](https://writingmate.ai)** 🔄 - AI writing companion
 - **[Neural Newsletters](https://neuralnewsletters.com)** 🔄 - Newsletter generation
+- **[AltoRank](https://altorank.co)** 🔄 - Open-source SEO content software: keyword research and sourced article drafts
 
 #### 🔧 Development & Technical Writing  
 - **[Text Generation Web UI](https://github.com/oobabooga/text-generation-webui)** 🆓 - Local text generation interface
