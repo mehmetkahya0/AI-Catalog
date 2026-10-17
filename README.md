@@ -437,6 +437,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - Parse
 - Context
 - [BuyWhere](https://buywhere.ai) - Real-time Singapore e-commerce pricing API and MCP server for AI agents
+- **[CurlShot](https://curlshot.com)** 🔄 - Screenshot API with an MCP server so AI agents can capture pages as images or PDF
 
 
 
