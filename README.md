@@ -42,7 +42,7 @@
 <div align="center">
   <strong>⭐ If you find this catalog helpful, please consider giving it a star! ⭐</strong>
   <br><br>
-  <i>Last updated: October 14, 2026 | Next goal: 500 stars 🎯</i>
+  <i>Last updated: October 19, 2026 | Next goal: 500 stars 🎯</i>
   <br><br>
   <i>🤖 Thanks to Claude Sonnet 4 for write .sh files! </i>
 </div>
@@ -109,7 +109,7 @@ Welcome to the most comprehensive AI tools catalog! This repository contains **5
 ### 📊 Quick Stats
 - **Total Tools**: 500+
 - **Categories**: 40+
-- **Last Updated**: October 14, 2026
+- **Last Updated**: October 19, 2026
 - **Contributors**: Open for PRs!
 - **Next Goal**: ⭐️ 500 stars
 
@@ -852,7 +852,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[IFTTT](https://ifttt.com)** 🔄 - Simple automation platform
 - **[Microsoft Power Automate](https://powerautomate.microsoft.com)** 🔄 - Business process automation
 - **[n8n](https://n8n.io)** 🆓 - Open source workflow automation
-- **[Aident Loadout](https://aident.ai)** 🔄 - Remote MCP server that connects Claude Code, Codex and Cursor to your apps and 400+ Skills
+- **[Aident Loadout](https://aident.ai)** 🔄 - Remote MCP server connecting Claude Code, Codex and Cursor to your apps
 
 ## AI's for SQL
 - Airops
