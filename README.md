@@ -484,6 +484,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Krisp](https://krisp.ai)** 🔄 - AI noise cancellation
 - **[Descript](https://descript.com)** 🔄 - AI-powered audio editing
 - **[Cleanvoice](https://cleanvoice.ai)** 🔄 - Remove filler words automatically
+- **[VocalSeparator](https://vocalseparator.com/)** 🔄 - Separate vocals and stems, export WAV files, and practice with loops, tempo and pitch controls
 
 ## Video Generator
 > AI-powered video creation and editing tools
