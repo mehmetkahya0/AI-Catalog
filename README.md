@@ -828,6 +828,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[SocialEcho](https://www.socialecho.net)** 🔄 - AI workspace for publishing, engagement and analytics across 11 social platforms
 - **[LogNorm](https://lognorm.com)** 🔄 - Hosted MCP server that sends your SEO/GEO backlog to Claude Code, Codex and Cursor
 - **[Kamply](https://kamplyapp.com)** 💰 - Mac marketing crew that builds posts, reels, ads and decks with Claude Code or Codex
+- **[Pulse](https://pulsecorp.co)** 💰 - AI-moderated market research platform that runs customer interviews at scale
 
 ## AI Productivity
 > AI tools to enhance personal and professional productivity
