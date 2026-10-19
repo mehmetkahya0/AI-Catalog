@@ -850,6 +850,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[IFTTT](https://ifttt.com)** 🔄 - Simple automation platform
 - **[Microsoft Power Automate](https://powerautomate.microsoft.com)** 🔄 - Business process automation
 - **[n8n](https://n8n.io)** 🆓 - Open source workflow automation
+- **[Aident Loadout](https://aident.ai)** 🔄 - Remote MCP server that connects Claude Code, Codex and Cursor to your apps and 400+ Skills
 
 ## AI's for SQL
 - Airops
