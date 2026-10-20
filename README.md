@@ -704,6 +704,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Scholarcy](https://scholarcy.com)** 🔄 - Research paper summarizer
 - **[Consensus](https://consensus.app)** 🔄 - AI-powered research engine
 - **[Paperpal](https://paperpal.com)** 🔄 - AI writing assistant for academics
+- **[Onhand](https://useonhand.com)** 🆓 - Open-source extension that highlights answers on the webpage or PDF you're reading
 
 #### 🧠 Language Learning
 - **[Duolingo Max](https://duolingo.com)** 💰 - AI-powered language learning
