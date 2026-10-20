@@ -698,6 +698,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Coursera Coach](https://coursera.org)** 🔄 - AI learning assistant
 - **[KidsFunLearnClub](https://kidsfunlearnclub.co)** 🆓 - Free AI education platform for kids aged 9–14
 - **[Learn Magic](https://learnmagic.ai)** 🆓 - Beginner course on building with Claude Code, for non-programmers
+- **[NoteGoblin](https://notegoblin-app.vercel.app)** 🔄 - AI study app that turns your own notes or lecture recordings into flashcards and quizzes
 
 #### 📚 Research & Writing
 - **[Elicit](https://elicit.org)** 🔄 - AI research assistant
