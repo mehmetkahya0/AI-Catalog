@@ -839,6 +839,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Remio](https://remio.ai/)** 🔄 - Local-first AI knowledge base for personal context retrieval
 - **[Todoist](https://todoist.com)** 🔄 - Task management with AI assistance
 - **[Motion](https://usemotion.com)** 💰 - AI calendar and task planner
+- **[NeverApply](https://neverapply.co)** 🔄 - AI job-search agent: matches jobs, tailors resumes, and applies with your approval.
 - **[Reclaim.ai](https://reclaim.ai)** 🔄 - AI calendar scheduling
 
 #### 📧 Communication
