@@ -147,6 +147,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Leonardo.ai](https://leonardo.ai)** 🔄 - Fine-tuned models for different art styles
 - **[RenderFlow AI](https://renderflowai.com)** 🆕🔄 - Multi-model platform with GPT-Image-1, Imagen 4, Flux Pro Ultra, Midjourney, Kling & Veo3
 - **[Serplux](https://serplux.com/premium/agent/blog-image-generator)** 🔄 - Generate blog images from a URL or written content
+- **[Seedream 5.5](https://seedream5-5.net/)** 🔄 - AI image generator and editor with reference-photo guidance and plain-language edits
 
 #### 🆓 Free & Open Source
 - **[Stable Diffusion 3.5](https://stability.ai)** 🆕🆓 - Latest open-source foundation model
