@@ -500,6 +500,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[cv.cm/v](https://cv.cm/v)** 🔄 - Queue-free Seedance 2.0 text & image to video generation
 - **[RenderFlow AI](https://renderflowai.com)** 🆕🔄 - Multi-model platform with Kling, Veo3, Midjourney & more for AI video generation
 - **[Vivideo](https://vivideo.ai)** 🆕🔄 - Multi-model text-to-video & image-to-video with synced audio
+- **[Pixwit](https://pixwit.ai)** 🔄 - Multi-model text-to-video, image-to-video and image generation with free tier
 
 #### 🎬 Content Creation
 - **[Synthesia](https://synthesia.io)** 💰 - AI avatar video generation
