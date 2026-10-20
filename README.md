@@ -846,6 +846,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Grammarly](https://grammarly.com)** 🔄 - AI writing assistant
 - **[Calendly](https://calendly.com)** 🔄 - Smart scheduling with AI
 - **[Loom](https://loom.com)** 🔄 - Video messaging with AI features
+- **[PlaceCall](https://voygr.tech/placecall/)** 🔄 - AI agent that phones US businesses and returns the outcome and transcript
 
 #### 🔄 Automation
 - **[Zapier](https://zapier.com)** 🔄 - Workflow automation
