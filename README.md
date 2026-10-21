@@ -42,7 +42,7 @@
 <div align="center">
   <strong>⭐ If you find this catalog helpful, please consider giving it a star! ⭐</strong>
   <br><br>
-  <i>Last updated: October 19, 2026 | Next goal: 500 stars 🎯</i>
+  <i>Last updated: October 21, 2026 | Next goal: 500 stars 🎯</i>
   <br><br>
   <i>🤖 Thanks to Claude Sonnet 4 for write .sh files! </i>
 </div>
@@ -109,7 +109,7 @@ Welcome to the most comprehensive AI tools catalog! This repository contains **5
 ### 📊 Quick Stats
 - **Total Tools**: 500+
 - **Categories**: 40+
-- **Last Updated**: October 19, 2026
+- **Last Updated**: October 21, 2026
 - **Contributors**: Open for PRs!
 - **Next Goal**: ⭐️ 500 stars
 
@@ -485,7 +485,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Krisp](https://krisp.ai)** 🔄 - AI noise cancellation
 - **[Descript](https://descript.com)** 🔄 - AI-powered audio editing
 - **[Cleanvoice](https://cleanvoice.ai)** 🔄 - Remove filler words automatically
-- **[VocalSeparator](https://vocalseparator.com/)** 🔄 - Separate vocals and stems, export WAV files, and practice with loops, tempo and pitch controls
+- **[VocalSeparator](https://vocalseparator.com/)** 🔄 - Separate vocals and stems, export WAV, and practice with loops, tempo and pitch
 
 ## Video Generator
 > AI-powered video creation and editing tools
@@ -502,7 +502,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[cv.cm/v](https://cv.cm/v)** 🔄 - Queue-free Seedance 2.0 text & image to video generation
 - **[RenderFlow AI](https://renderflowai.com)** 🆕🔄 - Multi-model platform with Kling, Veo3, Midjourney & more for AI video generation
 - **[Vivideo](https://vivideo.ai)** 🆕🔄 - Multi-model text-to-video & image-to-video with synced audio
-- **[Pixwit](https://pixwit.ai)** 🔄 - Multi-model text-to-video, image-to-video and image generation with free tier
+- **[Pixwit](https://pixwit.ai)** 🔄 - Multi-model text-to-video, image-to-video and image generation
 
 #### 🎬 Content Creation
 - **[Synthesia](https://synthesia.io)** 💰 - AI avatar video generation
@@ -518,7 +518,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Hotel Lobby AI](https://hotellobbyai.top/)** 🆕🔄 - Two uploaded photos become a cinematic duet clip on a staged hotel lobby
 - **[UGCFast](https://ugcfast.ai)** 💰 - Persona-matched AI UGC video ads for Meta and TikTok from a product URL
 - **[AI Baby Dance](https://aibabydance.com)** 🔄 - Turn baby photos into short AI dance videos
-- **[pitchboom.io](https://pitchboom.io)** 🆕💰 - Turns a product URL or short brief into motion-design video ads for every feed
+- **[pitchboom.io](https://pitchboom.io)** 🆕💰 - Turns a product URL or brief into motion-design video ads
 
 #### 🆕 Emerging Platforms
 - **[Haiper AI](https://haiper.ai)** 🆕🔄 - Fast video generation
@@ -700,16 +700,17 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Socratic by Google](https://socratic.org)** 🆓 - AI homework helper
 - **[Quizlet](https://quizlet.com)** 🔄 - AI-powered study tools
 - **[Coursera Coach](https://coursera.org)** 🔄 - AI learning assistant
+- **[Ask Poppy](https://askpoppy.ai)** 🔄 - Voice AI tutor that asks questions and gives hints instead of answers
 - **[KidsFunLearnClub](https://kidsfunlearnclub.co)** 🆓 - Free AI education platform for kids aged 9–14
 - **[Learn Magic](https://learnmagic.ai)** 🆓 - Beginner course on building with Claude Code, for non-programmers
-- **[NoteGoblin](https://notegoblin-app.vercel.app)** 🔄 - AI study app that turns your own notes or lecture recordings into flashcards and quizzes
+- **[NoteGoblin](https://notegoblin-app.vercel.app)** 🔄 - AI study app that turns notes or lectures into flashcards and quizzes
 
 #### 📚 Research & Writing
 - **[Elicit](https://elicit.org)** 🔄 - AI research assistant
 - **[Scholarcy](https://scholarcy.com)** 🔄 - Research paper summarizer
 - **[Consensus](https://consensus.app)** 🔄 - AI-powered research engine
 - **[Paperpal](https://paperpal.com)** 🔄 - AI writing assistant for academics
-- **[Onhand](https://useonhand.com)** 🆓 - Open-source extension that highlights answers on the webpage or PDF you're reading
+- **[Onhand](https://useonhand.com)** 🆓 - Open-source extension that highlights answers on the page or PDF you read
 
 #### 🧠 Language Learning
 - **[Duolingo Max](https://duolingo.com)** 💰 - AI-powered language learning
