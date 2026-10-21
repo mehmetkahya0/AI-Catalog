@@ -619,6 +619,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - Voyager
 - GPT games
 - Chess
+- **[ScanChess](https://scanchess.com)** 🔄 - Chess OCR: turn board photos into FEN, scoresheets into PGN
 - Siege GPT
 - Human Or Not
 - Ludo
