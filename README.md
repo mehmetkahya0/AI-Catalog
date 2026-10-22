@@ -319,6 +319,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Midjourney Prompt Generator](https://huggingface.co/spaces/doevent/prompt-generator)** 🆓 - AI-powered prompt creation
 - **[Catbird.ai](https://catbird.ai)** 🔄 - Multi-model prompt testing
 - **[Journey Mixer](https://journeymixer.com)** 🆓 - Mix and match prompt elements
+- **[Ideogram 4.5 Prompt Builder](https://ideogram45.qqbridge.workers.dev/)** 🆓🆕 - Free prompt builder for Ideogram 4.5: exact in-image text, brand colors, edits
 
 #### 🤖 ChatGPT & Language Model Prompts
 - **[ChatGPT Prompt Hub](https://www.prompthub.us)** 🆓 - Community-driven prompts
