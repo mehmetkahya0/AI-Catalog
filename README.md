@@ -518,6 +518,9 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Hotel Lobby AI](https://hotellobbyai.top/)** 🆕🔄 - Two uploaded photos become a cinematic duet clip on a staged hotel lobby
 - **[UGCFast](https://ugcfast.ai)** 💰 - Persona-matched AI UGC video ads for Meta and TikTok from a product URL
 - **[AI Baby Dance](https://aibabydance.com)** 🔄 - Turn baby photos into short AI dance videos
+- **[KDA Firestarter AI Dance](https://kdafirestarterai.dev)** 🆕💰 - One photo → 13s 21:9 solo AI dance; unofficial, not affiliated with Riot/K/DA
+- **[A2O LITE NEON AI Dance](https://a2oliteai.org)** 🆕💰 - Two photos → 15s neon duo AI dance with reference soundtrack
+- **[dime dime baby ai](https://dimedimebabyai.dev)** 🆕💰 - One photo → ~5s 9:16 AI dance (Quince Classic or Party Groove)
 - **[pitchboom.io](https://pitchboom.io)** 🆕💰 - Turns a product URL or brief into motion-design video ads
 
 #### 🆕 Emerging Platforms
