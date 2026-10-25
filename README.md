@@ -500,6 +500,9 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Google Veo 3.1](https://deepmind.google/technologies/veo/)** 🆕💰 - 4K output with native audio
 - **[Minimax AI](https://hailuoai.video)** 🆕🔄 - Text/image to video with free tier
 - **[GrokVideo Studio](https://grokvideogenerator.dev)** 🆓🔄 - Independent text/image-to-video via Grok Imagine API (not official xAI/X); free trial credits
+- **[Alors On Danse Video Maker](https://alorsondansevideo.com)** — Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok). `Paid`
+- **[Bad Times AI](https://badtimesai.dev)** — Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99). `Paid`
+- **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** — Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99). `Paid`
 - **[Luma Dream Machine](https://lumalabs.ai/dream-machine)** 🔄 - High-quality video generation
 - **[cv.cm/v](https://cv.cm/v)** 🔄 - Queue-free Seedance 2.0 text & image to video generation
 - **[RenderFlow AI](https://renderflowai.com)** 🆕🔄 - Multi-model platform with Kling, Veo3, Midjourney & more for AI video generation
