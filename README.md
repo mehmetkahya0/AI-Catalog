@@ -529,6 +529,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Deepshot AI](https://deepshot.ai)** 🔄 - Video reshooting tool
 - **[SeedanceCheap](https://seedancecheap.com/)** 💰 - Independent studio and API for Seedance 2.0 and 2.5 video generation
 - **[TubeTube](https://www.tubetube.io)** 🆕🔄 - Lyrics or story to a multi-scene video with consistent characters
+- **[Wan 3.0 Reverse Prompt Builder](https://wan30.qqbridge.workers.dev/)** 🆕 - Turn a short video into a Wan 3.0-style video prompt: shot table, numbered shots with time ranges, and a continuity line.
 ## 3D
 - Meshy
 - [Luphra](https://www.luphra.com)
