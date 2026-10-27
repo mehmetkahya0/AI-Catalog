@@ -772,6 +772,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Ai resume builder](http://Kickresume.com)
 - [ResumeAI](https://withresumeai.com/)
 - **[CareJobs.Now](https://carejobs.now)** 🆓 - AI job search matching US healthcare workers to open hospital jobs
+- **[ArtiGram](https://artigram.cafeboon.com)** 🆓 - Publish AI-made HTML, React or SVG as live pages, with a remote MCP server
 
 ## Landing Page Generator
 - [aipage.dev](https://www.aipage.dev)
