@@ -441,6 +441,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - Context
 - [BuyWhere](https://buywhere.ai) - Real-time Singapore e-commerce pricing API and MCP server for AI agents
 - **[Latchkey](https://latchkey.dev)** 💰 - Self-healing GitHub Actions runners with AI diagnosis
+- **[BetterToken](https://bettertoken.ai)** 💰 - OpenRouter-style LLM API gateway: one key for Claude, GPT, DeepSeek, Qwen, Kimi and GLM via OpenAI- and Anthropic-compatible endpoints, pay-as-you-go
 
 
 
