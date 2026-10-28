@@ -301,6 +301,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Loopin AI](https://www.loopinhq.com/)** 🔄 - Meeting summarizer and workspace
 - **[Zoom IQ](https://support.zoom.us/hc/en-us/articles/5233815128461-Getting-started-with-Zoom-IQ-for-Sales)** 💰 - Zoom's AI assistant
 - **[One AI](https://www.oneai.com)** 🔄 - Business text analysis
+- **[SwiftCall](https://swiftcall.org/ai-agents)** 💰 - Phone, booking and follow-up AI agents for small businesses
 
 #### 📊 Specialized Tools
 - **[Dataspot](https://Dataspot.ai)** 🔄 - Data analysis summaries
