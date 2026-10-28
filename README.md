@@ -521,7 +521,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Hotel Lobby AI](https://hotellobbyai.top/)** 🆕🔄 - Two uploaded photos become a cinematic duet clip on a staged hotel lobby
 - **[UGCFast](https://ugcfast.ai)** 💰 - Persona-matched AI UGC video ads for Meta and TikTok from a product URL
 - **[AI Baby Dance](https://aibabydance.com)** 🔄 - Turn baby photos into short AI dance videos
-- **[pitchboom.io](https://pitchboom.io)** 🆕💰 - Turns a product URL or brief into motion-design video ads
+- **[pitchboom.io](https://pitchboom.io)** 🆕🔄 - Turns a product URL or brief into motion-design video ads
 
 #### 🆕 Emerging Platforms
 - **[Haiper AI](https://haiper.ai)** 🆕🔄 - Fast video generation
