@@ -837,6 +837,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[LogNorm](https://lognorm.com)** 🔄 - Hosted MCP server that sends your SEO/GEO backlog to Claude Code, Codex and Cursor
 - **[Kamply](https://kamplyapp.com)** 💰 - Mac marketing crew that builds posts, reels, ads and decks with Claude Code or Codex
 - **[Pulse](https://pulsecorp.co)** 💰 - AI-moderated market research platform that runs customer interviews at scale
+- **[BulkPublish](https://www.bulkpublish.com)** 🔄 - Social media scheduler for 15 platforms with AI captions, a REST API and an MCP server
 
 ## AI Productivity
 > AI tools to enhance personal and professional productivity
