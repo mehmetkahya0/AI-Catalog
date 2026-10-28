@@ -447,6 +447,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[deed.page](https://deed.page)** 🔄 - Remote MCP server and HTTP API that let AI agents publish HTML to a permanent URL
 - **[UI Verify](https://uiverify.ai)** 🔄 - Visual regression testing: an AI judge triages each UI diff and coding agents review it via MCP
 - **[BetterToken](https://bettertoken.ai)** 💰 - OpenRouter-style LLM API gateway: one key for Claude, GPT, DeepSeek, Qwen, Kimi and GLM via OpenAI- and Anthropic-compatible endpoints, pay-as-you-go
+- **[Scalekit](https://scalekit.com)** 🔄 - AI agent integration platform: 600+ connectors, 35,000+ tools, per-user OAuth
 
 
 
