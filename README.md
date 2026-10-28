@@ -445,6 +445,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [BuyWhere](https://buywhere.ai) - Real-time Singapore e-commerce pricing API and MCP server for AI agents
 - **[Latchkey](https://latchkey.dev)** 💰 - Self-healing GitHub Actions runners with AI diagnosis
 - **[deed.page](https://deed.page)** 🔄 - Remote MCP server and HTTP API that let AI agents publish HTML to a permanent URL
+- **[UI Verify](https://uiverify.ai)** 🔄 - Visual regression testing: an AI judge triages each UI diff and coding agents review it via MCP
 
 
 
