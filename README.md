@@ -537,6 +537,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Deepshot AI](https://deepshot.ai)** 🔄 - Video reshooting tool
 - **[SeedanceCheap](https://seedancecheap.com/)** 💰 - Independent Seedance 2.5 video studio and API
 - **[TubeTube](https://www.tubetube.io)** 🆕🔄 - Lyrics or story to a multi-scene video with consistent characters
+- **[ClipPrompt](https://clipprompt.kill-bill.de5.net/)** 🔄 🆕 - Turn a short video into a structured video-generation prompt with a shot table.
 ## 3D
 - Meshy
 - [Luphra](https://www.luphra.com)
