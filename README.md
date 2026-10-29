@@ -538,6 +538,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Deepshot AI](https://deepshot.ai)** 🔄 - Video reshooting tool
 - **[SeedanceCheap](https://seedancecheap.com/)** 💰 - Independent Seedance 2.5 video studio and API
 - **[TubeTube](https://www.tubetube.io)** 🆕🔄 - Lyrics or story to a multi-scene video with consistent characters
+- **[RefVid](https://refvid.com)** 🆕🔄 - 1–5 reference photos keep a character's face or a product's label the same in every clip
 ## 3D
 - Meshy
 - [Luphra](https://www.luphra.com)
