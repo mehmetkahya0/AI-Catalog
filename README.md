@@ -42,7 +42,7 @@
 <div align="center">
   <strong>⭐ If you find this catalog helpful, please consider giving it a star! ⭐</strong>
   <br><br>
-  <i>Last updated: October 28, 2026 | Next goal: 500 stars 🎯</i>
+  <i>Last updated: October 29, 2026 | Next goal: 500 stars 🎯</i>
   <br><br>
   <i>🤖 Thanks to Claude Sonnet 4 for write .sh files! </i>
 </div>
@@ -109,7 +109,7 @@ Welcome to the most comprehensive AI tools catalog! This repository contains **5
 ### 📊 Quick Stats
 - **Total Tools**: 500+
 - **Categories**: 40+
-- **Last Updated**: October 28, 2026
+- **Last Updated**: October 29, 2026
 - **Contributors**: Open for PRs!
 - **Next Goal**: ⭐️ 500 stars
 
@@ -301,7 +301,6 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Loopin AI](https://www.loopinhq.com/)** 🔄 - Meeting summarizer and workspace
 - **[Zoom IQ](https://support.zoom.us/hc/en-us/articles/5233815128461-Getting-started-with-Zoom-IQ-for-Sales)** 💰 - Zoom's AI assistant
 - **[One AI](https://www.oneai.com)** 🔄 - Business text analysis
-- **[SwiftCall](https://swiftcall.org/ai-agents)** 💰 - Phone, booking and follow-up AI agents for small businesses
 
 #### 📊 Specialized Tools
 - **[Dataspot](https://Dataspot.ai)** 🔄 - Data analysis summaries
@@ -538,7 +537,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Deepshot AI](https://deepshot.ai)** 🔄 - Video reshooting tool
 - **[SeedanceCheap](https://seedancecheap.com/)** 💰 - Independent Seedance 2.5 video studio and API
 - **[TubeTube](https://www.tubetube.io)** 🆕🔄 - Lyrics or story to a multi-scene video with consistent characters
-- **[RefVid](https://refvid.com)** 🆕🔄 - 1–5 reference photos keep a character's face or a product's label the same in every clip
+- **[RefVid](https://refvid.com)** 🆕🔄 - Reference photos keep a face or product label consistent across clips
 ## 3D
 - Meshy
 - [Luphra](https://www.luphra.com)
@@ -870,6 +869,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Calendly](https://calendly.com)** 🔄 - Smart scheduling with AI
 - **[Loom](https://loom.com)** 🔄 - Video messaging with AI features
 - **[PlaceCall](https://voygr.tech/placecall/)** 🔄 - AI agent that phones US businesses and returns the outcome and transcript
+- **[SwiftCall](https://swiftcall.org/ai-agents)** 💰 - Phone, booking and follow-up AI agents for small businesses
 
 #### 🔄 Automation
 - **[Zapier](https://zapier.com)** 🔄 - Workflow automation
