@@ -669,6 +669,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Boomy](https://boomy.com)** 🔄 - Create and release songs
 - **[WavTool](https://wavtool.com)** 🔄 - AI-powered DAW
 - **[TuneFlow](https://tuneflow.com)** 🔄 - AI music production
+- **[Tera Studio](https://terastudio.co)** 🔄 - Sing about a minute, then hear any song in your own voice
 
 
 ## Presentation
