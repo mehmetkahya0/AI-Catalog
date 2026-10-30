@@ -403,6 +403,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 #### 🔥 AI-Native Code Editors
 - **[Cursor](https://cursor.sh)** 🆕💰 - AI-first VS Code fork with deep automation
+- **[Volt](https://github.com/LeulAria/volt)** 🆕🆓 - Open-source VS Code-core editor driving Claude Code, Codex and Ollama models over ACP
 - **[Windsurf](https://codeium.com/windsurf)** 🆕🔄 - Cascade AI assistant with one-click deploy
 - **[Zed](https://zed.dev)** 🆕🔄 - High-performance editor with AI features
 
