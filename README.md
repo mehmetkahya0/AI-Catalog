@@ -921,6 +921,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - fast.ai
 - Jagoda
 - linnk
+- **[Derivative Calculator AI](https://derivativecalculatorai.com/)** 🆓 - Calculus solver for derivatives, integrals and limits with AI step explanations
 
 ## Text to Video
 - Synthesia
