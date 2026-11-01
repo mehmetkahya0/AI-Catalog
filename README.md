@@ -416,6 +416,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Aider](https://aider.chat)** 🆕🆓 - Terminal-based pair programming
 - **[YYLO](https://github.com/yylo-dev/yylo)** 🆓 - Command-line orchestrator for coding agents with typed task, validation, and merge boundaries
 - **[Sqwakie](https://sqwakie.si)** 🆕🔄 - Live dashboard for team Claude Code and Codex agents that talk over MCP
+- **[Mercury CLI](https://github.com/Whq02/MercuryCLI)** 🆕🆓 - Terminal coding agent: parallel sessions, git-worktree crewmates, 22 providers or local models
 
 #### 💻 Code Assistants
 - **[GitHub Copilot](https://github.com/features/copilot)** 💰 - AI pair programmer from GitHub
