@@ -350,6 +350,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Writesparkle.ai](https://writesparkle.ai)** 🔄 - Creative writing assistant
 - **[Asterix Writer](https://asterixwriter.com)** 🔄 - Fiction and story writing
 - **[ImagineYourBook](https://www.imagineyourbook.com/)** 💰 - Plans, drafts, and rewrites full-length books in your voice, with EPUB and Word export
+- **[CoverNice](https://covernice.com)** 🔄 - KDP-safe book covers: five directions, real spine width, print-ready wrap PDF
 
 #### 📝 Content Creation
 - **[CreatorSkills](https://creatorskills.co)** 💰 - Marketplace of downloadable AI skills for content creators (Claude & ChatGPT)
