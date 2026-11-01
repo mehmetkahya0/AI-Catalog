@@ -187,6 +187,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 #### 📱 Browser/Extension Tools
 - **[Canva AI](https://canva.com)** 🔄 - Integrated design platform with Dream Lab
 - **[Adobe Photoshop Generative Fill](https://adobe.com)** 💰 - AI features in Photoshop
+- **[Breatic](https://github.com/orime-org/breatic)** 🔄 - Real-time collaborative AI documents and canvases for creative teams
 - **[Microsoft Designer](https://designer.microsoft.com)** 🔄 - AI-powered design tool
 - **[Fotor AI](https://www.fotor.com/features/ai-image-generator/)** 🔄 - Online photo editor with AI
 
