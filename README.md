@@ -449,6 +449,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[UI Verify](https://uiverify.ai)** 🔄 - Visual regression testing with an AI judge that triages UI diffs
 - **[BetterToken](https://bettertoken.ai)** 💰 - LLM API gateway: one key for Claude, GPT, DeepSeek, Qwen, Kimi and GLM
 - **[Scalekit](https://scalekit.com)** 🔄 - AI agent integration platform: 600+ connectors, 35,000+ tools, per-user OAuth
+- **[Model Salt](https://modelsalt.com)** 🆓 - MCP server that gives a model outside random choices so one prompt gives varied answers
 
 
 
