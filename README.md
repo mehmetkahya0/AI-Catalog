@@ -758,6 +758,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[CrewAI](https://github.com/joaomdmoura/crewAI)** 🆕🆓 - Multi-agent orchestration
 - **[LangChain Agents](https://langchain.com)** 🆓 - LLM agent development framework
 - **[AgentGPT](https://agentgpt.reworkd.ai)** 🆓 - Browser-based autonomous agent
+- **[AnyModelBot](https://github.com/modelflare-ai/AnyModelBot)** 🆕🆓 - Open-source desktop assistant, first out-of-the-box DeepSeek Super Agent
 
 #### 🛠️ Agent Frameworks
 - **[LangGraph](https://langchain.com)** 🆕🆓 - Stateful agent workflows
