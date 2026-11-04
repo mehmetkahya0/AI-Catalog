@@ -802,6 +802,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Originality.ai](https://originality.ai)** 💰 - AI content and plagiarism detector
 - **[Copyleaks](https://copyleaks.com)** 🔄 - AI content detection platform
 - **[Writer AI Detector](https://writer.com/ai-content-detector/)** 🆓 - Free AI content detector
+- **[Coda One](https://www.codaone.ai/)** 🔄 - Free unlimited AI detector, no signup; free daily uses on the writing tools
 
 #### 📊 Advanced Analysis
 - **[Turnitin](https://turnitin.com)** 💰 - Academic integrity solutions
