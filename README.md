@@ -467,6 +467,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - MarsAi
 - Gooey.AI
 - GPTagent
+- **[IdeaMade](https://ideamade.ai/)** 🔄 - Build web apps with AI, editable product blueprints, live previews, and version history.
 - Tiledesl
 - softr Studio
 - Build AI
