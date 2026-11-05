@@ -750,6 +750,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Manus AI](https://manus.ai)** 🆕🔄 - Cloud-based autonomous system
 - **[Drevon](https://www.drevon.dev)** 🆓 - Mac app that turns Claude Code or Codex into a go-to-market operator
 - **[Deacon](https://heydeacon.com)** 🆕🔄 - AI support agent for websites that answers from your own docs
+- **[SPIRITT](https://spiritt.ai)** 💰 - AI agent with its own cloud computer that codes, deploys apps and runs sales, ops and admin work
 
 #### 🆓 Open Source Agents
 - **[Orkas](https://github.com/Orkas-AI/Orkas)** 🆓 - Local-first desktop AI workforce coordinated by a Commander through one chat
