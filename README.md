@@ -497,6 +497,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Adobe Podcast](https://podcast.adobe.com)** 🆓 - AI audio enhancement
 - **[Krisp](https://krisp.ai)** 🔄 - AI noise cancellation
 - **[Descript](https://descript.com)** 🔄 - AI-powered audio editing
+- **[Transcribe Video: To The Text](https://video2text.ttt.so)** 🆕🔄 - iOS video/YouTube/Vimeo/live-voice transcription with speaker split & Summarize
 - **[Cleanvoice](https://cleanvoice.ai)** 🔄 - Remove filler words automatically
 - **[VocalSeparator](https://vocalseparator.com/)** 🔄 - Separate vocals and stems, export WAV, and practice with loops, tempo and pitch
 
