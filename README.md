@@ -190,6 +190,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Breatic](https://github.com/orime-org/breatic)** 🔄 - Real-time collaborative AI documents and canvases for creative teams
 - **[Microsoft Designer](https://designer.microsoft.com)** 🔄 - AI-powered design tool
 - **[Fotor AI](https://www.fotor.com/features/ai-image-generator/)** 🔄 - Online photo editor with AI
+- **[Image Color Picker AI](https://imagecolorpickerai.com)** 🆓 - Free browser image color picker: click any pixel to copy HEX, RGB, and HSL, no sign-up
 
 ---
 
