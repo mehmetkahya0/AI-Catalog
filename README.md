@@ -454,6 +454,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[BetterToken](https://bettertoken.ai)** 💰 - LLM API gateway: one key for Claude, GPT, DeepSeek, Qwen, Kimi and GLM
 - **[Scalekit](https://scalekit.com)** 🔄 - AI agent integration platform: 600+ connectors, 35,000+ tools, per-user OAuth
 - **[Model Salt](https://modelsalt.com)** 🆓 - MCP server that gives a model outside random choices so one prompt gives varied answers
+- **[looot](https://looot.ai)** 💰 - Pay-per-call business data API and MCP server for AI agents
 
 
 
