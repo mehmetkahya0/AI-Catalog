@@ -835,6 +835,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Tableau Ask Data](https://tableau.com)** 💰 - Natural language data queries
 - **[Microsoft Copilot for Excel](https://microsoft.com)** 💰 - AI-powered spreadsheet analysis
 - **[Equibles](https://equibles.com)** 🔄 - MCP server with cited US stock data from SEC filings for ChatGPT and Claude
+- **[DisconfirmAI](https://disconfirmai.com/en)** 🔄 - Investment research and reading platform built around disconfirmation: find evidence that could overturn a thesis before locking it in
 
 #### 🤖 Analytics Assistants
 - **[MonkeyLearn](https://monkeylearn.com)** 🔄 - No-code text analysis
