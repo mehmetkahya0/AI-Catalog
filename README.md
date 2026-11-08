@@ -174,6 +174,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[APPLORE](https://applore.app/ai-app-icon-generator)** 🔄 - AI app icon generator for iOS and Android using App Store icons as style references
 - **[Cutout.Free](https://cutout.free/)** 🆓 - Free browser background remover that exports transparent PNG, no account needed
 - **[Stayput Background Remover](https://stayput.dev/tools/remove-background)** 🆓 - Open-source in-browser background remover; photos are not uploaded, saves a transparent PNG
+- **[AI Image to Image](https://aimagetoimage.com)** 🆓🔄 - Free AI image-to-image editor: upload a photo, describe the edit, download with no signup or watermark
 - **[Plykit](https://plykit.ai/kdp/coloring-book-maker)** 🔄 - Generate coloring pages and assemble KDP books with covers and PDF export
 - **[Recraft AI](https://app.recraft.ai)** 🔄 - Vector and brand-focused generation
 - **[Krea AI](https://krea.ai)** 🆕🔄 - Real-time image generation
