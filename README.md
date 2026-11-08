@@ -42,7 +42,7 @@
 <div align="center">
   <strong>⭐ If you find this catalog helpful, please consider giving it a star! ⭐</strong>
   <br><br>
-  <i>Last updated: November 1, 2026 | Next goal: 500 stars 🎯</i>
+  <i>Last updated: November 8, 2026 | Next goal: 500 stars 🎯</i>
   <br><br>
   <i>🤖 Thanks to Claude Sonnet 4 for write .sh files! </i>
 </div>
@@ -109,7 +109,7 @@ Welcome to the most comprehensive AI tools catalog! This repository contains **5
 ### 📊 Quick Stats
 - **Total Tools**: 500+
 - **Categories**: 40+
-- **Last Updated**: November 1, 2026
+- **Last Updated**: November 8, 2026
 - **Contributors**: Open for PRs!
 - **Next Goal**: ⭐️ 500 stars
 
@@ -174,7 +174,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[APPLORE](https://applore.app/ai-app-icon-generator)** 🔄 - AI app icon generator for iOS and Android using App Store icons as style references
 - **[Cutout.Free](https://cutout.free/)** 🆓 - Free browser background remover that exports transparent PNG, no account needed
 - **[Stayput Background Remover](https://stayput.dev/tools/remove-background)** 🆓 - Open-source in-browser background remover; photos are not uploaded, saves a transparent PNG
-- **[AI Image to Image](https://aimagetoimage.com)** 🆓🔄 - Free AI image-to-image editor: upload a photo, describe the edit, download with no signup or watermark
+- **[AI Image to Image](https://aimagetoimage.com)** 🔄 - AI image-to-image editor: upload a photo, describe the edit, download with no watermark
 - **[Plykit](https://plykit.ai/kdp/coloring-book-maker)** 🔄 - Generate coloring pages and assemble KDP books with covers and PDF export
 - **[Recraft AI](https://app.recraft.ai)** 🔄 - Vector and brand-focused generation
 - **[Krea AI](https://krea.ai)** 🆕🔄 - Real-time image generation
@@ -528,7 +528,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[RenderFlow AI](https://renderflowai.com)** 🆕🔄 - Multi-model platform with Kling, Veo3, Midjourney & more for AI video generation
 - **[Vivideo](https://vivideo.ai)** 🆕🔄 - Multi-model text-to-video & image-to-video with synced audio
 - **[Pixwit](https://pixwit.ai)** 🔄 - Multi-model text-to-video, image-to-video and image generation
-- **[Seedance Now](https://seedancenow.com)** 🔄 - Independent multi-model text & image to video studio (Seedance 2.5, Kling 4.0, Wan 3.0), up to 30s 1080p
+- **[Seedance Now](https://seedancenow.com)** 🔄 - Independent multi-model text and image to video studio with 1080p output
 
 #### 🎬 Content Creation
 - **[Synthesia](https://synthesia.io)** 💰 - AI avatar video generation
@@ -785,7 +785,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 ## Photo Editing
 - [Clipdrop](https://clipdrop.co)
-- **[HumanizePhoto](https://humanizephoto.com/create-realistic-ai-images?utm_source=github.com)** 🔄 - Refine plastic skin and artificial lighting in existing AI-generated photos.
+- **[HumanizePhoto](https://humanizephoto.com/create-realistic-ai-images)** 🔄 - Refine plastic skin and artificial lighting in existing AI-generated photos
 - [insightface.ai](https://insightface.ai)
 - **[PixPurge](https://pixpurge.com)** 🔄 - AI text remover for images: erase text, watermarks, and date stamps automatically.
 - **[Klaruvo](https://www.powersoftware.app/en-US/product/detail/klaruvo)** 🔄 - Local offline AI image editor: watermark & object removal, cutout, upscaling
@@ -838,7 +838,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Tableau Ask Data](https://tableau.com)** 💰 - Natural language data queries
 - **[Microsoft Copilot for Excel](https://microsoft.com)** 💰 - AI-powered spreadsheet analysis
 - **[Equibles](https://equibles.com)** 🔄 - MCP server with cited US stock data from SEC filings for ChatGPT and Claude
-- **[DisconfirmAI](https://disconfirmai.com/en)** 🔄 - Investment research and reading platform built around disconfirmation: find evidence that could overturn a thesis before locking it in
+- **[DisconfirmAI](https://disconfirmai.com/en)** 🔄 - Investment research platform that surfaces evidence that could overturn your thesis
 
 #### 🤖 Analytics Assistants
 - **[MonkeyLearn](https://monkeylearn.com)** 🔄 - No-code text analysis
@@ -887,7 +887,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Todoist](https://todoist.com)** 🔄 - Task management with AI assistance
 - **[Motion](https://usemotion.com)** 💰 - AI calendar and task planner
 - **[NeverApply](https://neverapply.co)** 🔄 - AI job-search agent: matches jobs, tailors resumes, and applies with your approval.
-- **[CookLLM](https://cookllm.com/en/jobs/match)** 💰 - AI job matcher: emails you new AI jobs from 1,300+ AI companies and hiring posts on X and LinkedIn, scored against your resume.
+- **[CookLLM](https://cookllm.com/en/jobs/match)** 💰 - AI job matcher: emails new AI jobs from 1,300+ companies, scored against your resume
 - **[Reclaim.ai](https://reclaim.ai)** 🔄 - AI calendar scheduling
 
 #### 📧 Communication
