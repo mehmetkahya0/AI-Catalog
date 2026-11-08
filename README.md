@@ -584,6 +584,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Spline 3D](https://spline.design)
 - [LeiaPix](https://convert.leiapix.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia)
 - Alpha3D
+- **[objekto.io](https://objekto.io/en)** 🆕🔄 - Words, a photo or a sketch to a multi-part 3D-printable design, then printed and delivered
 
 ## Search Engines & Chatbot's
 > AI-powered search and conversational interfaces
