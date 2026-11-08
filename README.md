@@ -463,6 +463,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Keenable](https://keenable.ai)** 🔄 - Web search and page-fetch API and MCP server for AI agents, with a keyless free tier
 - **[UberLLM](https://uberllm.dev)** 💰 - One OpenAI/Anthropic-compatible API key for text, image, video, music and speech models
 - **[Atlas Cloud](https://www.atlascloud.ai)** 💰 - AI API gateway: one key for LLM, image, video and audio models
+- **[looot](https://looot.ai)** 💰 - Pay-per-call business data API and MCP server for AI agents
 
 
 
