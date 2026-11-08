@@ -866,6 +866,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Todoist](https://todoist.com)** 🔄 - Task management with AI assistance
 - **[Motion](https://usemotion.com)** 💰 - AI calendar and task planner
 - **[NeverApply](https://neverapply.co)** 🔄 - AI job-search agent: matches jobs, tailors resumes, and applies with your approval.
+- **[CookLLM](https://cookllm.com/en/jobs/match)** 💰 - AI job matcher: emails you new AI jobs from 1,300+ AI companies and hiring posts on X and LinkedIn, scored against your resume.
 - **[Reclaim.ai](https://reclaim.ai)** 🔄 - AI calendar scheduling
 
 #### 📧 Communication
