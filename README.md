@@ -519,6 +519,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[RenderFlow AI](https://renderflowai.com)** 🆕🔄 - Multi-model platform with Kling, Veo3, Midjourney & more for AI video generation
 - **[Vivideo](https://vivideo.ai)** 🆕🔄 - Multi-model text-to-video & image-to-video with synced audio
 - **[Pixwit](https://pixwit.ai)** 🔄 - Multi-model text-to-video, image-to-video and image generation
+- **[Seedance Now](https://seedancenow.com)** 🔄 - Independent multi-model text & image to video studio (Seedance 2.5, Kling 4.0, Wan 3.0), up to 30s 1080p
 
 #### 🎬 Content Creation
 - **[Synthesia](https://synthesia.io)** 💰 - AI avatar video generation
