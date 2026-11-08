@@ -781,6 +781,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [insightface.ai](https://insightface.ai)
 - **[PixPurge](https://pixpurge.com)** 🔄 - AI text remover for images: erase text, watermarks, and date stamps automatically.
 - **[Klaruvo](https://www.powersoftware.app/en-US/product/detail/klaruvo)** 🔄 - Local offline AI image editor: watermark & object removal, cutout, upscaling
+- **[RoomLab.app](https://roomlab.app)** 🔄 - Virtual staging, decluttering and restyling for room and property photos
 
   
 ## Chrome AI Extensions
