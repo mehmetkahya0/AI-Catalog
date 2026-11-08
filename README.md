@@ -430,6 +430,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Supermaven](https://supermaven.com)** 🆕🔄 - Fast autocomplete with 300k context
 - **[Tabnine](https://tabnine.com)** 🔄 - AI assistant for software developers
 - **[Amazon Q Developer](https://aws.amazon.com/q/developer/)** 🆕🔄 - AWS coding companion
+- **[Imagera Code](https://imagera.ai/code)** 💰 - Terminal AI coding agent with Claude, GPT, Gemini and hundreds more models on one plan
 
 #### � Open Source Tools
 - **[Continue](https://continue.dev)** 🆕🆓 - Open-source VS Code/JetBrains assistant
@@ -529,6 +530,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Vivideo](https://vivideo.ai)** 🆕🔄 - Multi-model text-to-video & image-to-video with synced audio
 - **[Pixwit](https://pixwit.ai)** 🔄 - Multi-model text-to-video, image-to-video and image generation
 - **[Seedance Now](https://seedancenow.com)** 🔄 - Independent multi-model text and image to video studio with 1080p output
+- **[Imagera](https://imagera.ai)** 💰 - Multi-model AI video and image studio where Character IDs keep one face or product consistent across shots
 
 #### 🎬 Content Creation
 - **[Synthesia](https://synthesia.io)** 💰 - AI avatar video generation
