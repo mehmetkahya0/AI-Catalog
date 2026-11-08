@@ -726,6 +726,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[KidsFunLearnClub](https://kidsfunlearnclub.co)** 🆓 - Free AI education platform for kids aged 9–14
 - **[Learn Magic](https://learnmagic.ai)** 🆓 - Beginner course on building with Claude Code, for non-programmers
 - **[NoteGoblin](https://notegoblin-app.vercel.app)** 🔄 - AI study app that turns notes or lectures into flashcards and quizzes
+- **[soclever](https://soclever.io)** 🔄 - AI tutor that turns any topic into a short course with lessons, quizzes, comics and podcasts
 
 #### 📚 Research & Writing
 - **[Elicit](https://elicit.org)** 🔄 - AI research assistant
