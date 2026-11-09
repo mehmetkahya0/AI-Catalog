@@ -464,8 +464,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[UberLLM](https://uberllm.dev)** 💰 - One OpenAI/Anthropic-compatible API key for text, image, video, music and speech models
 - **[Atlas Cloud](https://www.atlascloud.ai)** 💰 - AI API gateway: one key for LLM, image, video and audio models
 - **[looot](https://looot.ai)** 💰 - Pay-per-call business data API and MCP server for AI agents
-
-
+- **[OneTag AI](https://onetagai.com)** 🔄 - Add AI to any static site with one script tag, no backend
 
 ## Low Code - no code Tools
 - Magicform
