@@ -545,6 +545,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[UGCFast](https://ugcfast.ai)** 💰 - Persona-matched AI UGC video ads for Meta and TikTok from a product URL
 - **[AI Baby Dance](https://aibabydance.com)** 🔄 - Turn baby photos into short AI dance videos
 - **[pitchboom.io](https://pitchboom.io)** 🆕🔄 - Turns a product URL or brief into motion-design video ads
+- **[Twistavo](https://twistavo.com)** 💰 - AI character swap: replace a person in a video from 1 to 4 photos
 
 #### 🆕 Emerging Platforms
 - **[Haiper AI](https://haiper.ai)** 🆕🔄 - Fast video generation
