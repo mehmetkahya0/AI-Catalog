@@ -653,6 +653,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - Ludo
 - Hidden Door
 - AI puzzles
+- **[Couscous: Secret Word](https://couscous.ai)** 🆕🔄 - Yes-or-no word-guessing game; a language model judges every question
  
 ## Experiments
 - Auto GPT
