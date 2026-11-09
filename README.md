@@ -42,7 +42,7 @@
 <div align="center">
   <strong>⭐ If you find this catalog helpful, please consider giving it a star! ⭐</strong>
   <br><br>
-  <i>Last updated: November 8, 2026 | Next goal: 500 stars 🎯</i>
+  <i>Last updated: November 9, 2026 | Next goal: 500 stars 🎯</i>
   <br><br>
   <i>🤖 Thanks to Claude Sonnet 4 for write .sh files! </i>
 </div>
@@ -109,7 +109,7 @@ Welcome to the most comprehensive AI tools catalog! This repository contains **5
 ### 📊 Quick Stats
 - **Total Tools**: 500+
 - **Categories**: 40+
-- **Last Updated**: November 8, 2026
+- **Last Updated**: November 9, 2026
 - **Contributors**: Open for PRs!
 - **Next Goal**: ⭐️ 500 stars
 
@@ -133,6 +133,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 > Transform your ideas into stunning visuals with AI-powered image generation
 
 #### 🔥 Premium/Professional
+- **[PicYep](https://picyep.com)** 🔄 - AI photo generator for realistic headshots, portraits, selfies and social photos
 - **[Lunalisa](https://luna-lisa.art)** 🔄 - Prompt-led workspace for AI images and short-form image-to-video
 - **[Raphael AI](https://raphael.app)** 🆓🔄 - Free unlimited AI image generator for product shots, ads, and brand visuals from text prompts
 - **[ChatGPT Images 2.0](https://chatgpt.com)** 🆕🔄 - OpenAI's gpt-image-2 with reasoning and 2K output (April 2026)
@@ -529,7 +530,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Vivideo](https://vivideo.ai)** 🆕🔄 - Multi-model text-to-video & image-to-video with synced audio
 - **[Pixwit](https://pixwit.ai)** 🔄 - Multi-model text-to-video, image-to-video and image generation
 - **[Seedance Now](https://seedancenow.com)** 🔄 - Independent multi-model text and image to video studio with 1080p output
-- **[Imagera](https://imagera.ai)** 💰 - Multi-model AI video and image studio where Character IDs keep one face or product consistent across shots
+- **[Imagera](https://imagera.ai)** 💰 - Multi-model AI video and image studio with Character IDs for consistent faces and products
 
 #### 🎬 Content Creation
 - **[Synthesia](https://synthesia.io)** 💰 - AI avatar video generation
@@ -778,7 +779,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[LangChain Agents](https://langchain.com)** 🆓 - LLM agent development framework
 - **[AgentGPT](https://agentgpt.reworkd.ai)** 🆓 - Browser-based autonomous agent
 - **[AnyModelBot](https://github.com/modelflare-ai/AnyModelBot)** 🆕🆓 - Open-source desktop assistant, first out-of-the-box DeepSeek Super Agent
-- **[kwant](https://github.com/alexsergivan/kwant)** 🆕🆓 - Self-hosted team of AI bots in one Rust binary: spaces, @mention handoffs, routines, approvals; Mac/Linux/Windows/VPS
+- **[kwant](https://github.com/alexsergivan/kwant)** 🆕🆓 - Self-hosted team of AI bots in one Rust binary with @mention handoffs, routines and approvals
 
 #### 🛠️ Agent Frameworks
 - **[LangGraph](https://langchain.com)** 🆕🆓 - Stateful agent workflows
