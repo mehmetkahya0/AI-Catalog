@@ -467,6 +467,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Atlas Cloud](https://www.atlascloud.ai)** 💰 - AI API gateway: one key for LLM, image, video and audio models
 - **[looot](https://looot.ai)** 💰 - Pay-per-call business data API and MCP server for AI agents
 - **[OneTag AI](https://onetagai.com)** 🔄 - Add AI to any static site with one script tag, no backend
+- **[Imagera LLM API](https://imagera.ai/llm-api)** 💰 - One OpenAI-compatible API for 320+ language models from 48 labs, billed per token
 
 ## Low Code - no code Tools
 - Magicform
