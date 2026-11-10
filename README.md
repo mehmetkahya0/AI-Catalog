@@ -467,6 +467,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Atlas Cloud](https://www.atlascloud.ai)** 💰 - AI API gateway: one key for LLM, image, video and audio models
 - **[looot](https://looot.ai)** 💰 - Pay-per-call business data API and MCP server for AI agents
 - **[OneTag AI](https://onetagai.com)** 🔄 - Add AI to any static site with one script tag, no backend
+- **[HopBase](https://hop-base.com)** 💰 - AI API gateway: one base URL for Claude, GPT, Gemini, DeepSeek plus image and video models
 
 ## Low Code - no code Tools
 - Magicform
