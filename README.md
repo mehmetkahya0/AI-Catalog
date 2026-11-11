@@ -321,6 +321,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Public Prompts](https://publicprompts.art)** 🆓 - Free collection of prompts
 - **[PromptDrive.ai](https://promptdrive.ai)** 🔄 - Prompt management and optimization
 - **[PromptInterface.ai](https://promptinterface.ai)** 🔄 - Interactive prompt builder
+- **[Prompt Generator](https://trypromptgenerator.com)** 🔄 - Writes prompts for ChatGPT, Claude, Midjourney, Veo and other AI tools. Free daily allowance, no sign-up.
 
 #### 🎨 Image Generation Prompts
 - **[AI Image Lab](https://aiimagelab.art)** 🆓 - Free AI image generator with curated prompt library across 8 categories. 4K output
