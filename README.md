@@ -42,7 +42,7 @@
 <div align="center">
   <strong>⭐ If you find this catalog helpful, please consider giving it a star! ⭐</strong>
   <br><br>
-  <i>Last updated: November 9, 2026 | Next goal: 500 stars 🎯</i>
+  <i>Last updated: November 11, 2026 | Next goal: 500 stars 🎯</i>
   <br><br>
   <i>🤖 Thanks to Claude Sonnet 4 for write .sh files! </i>
 </div>
@@ -109,7 +109,7 @@ Welcome to the most comprehensive AI tools catalog! This repository contains **5
 ### 📊 Quick Stats
 - **Total Tools**: 500+
 - **Categories**: 40+
-- **Last Updated**: November 9, 2026
+- **Last Updated**: November 11, 2026
 - **Contributors**: Open for PRs!
 - **Next Goal**: ⭐️ 500 stars
 
@@ -321,7 +321,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Public Prompts](https://publicprompts.art)** 🆓 - Free collection of prompts
 - **[PromptDrive.ai](https://promptdrive.ai)** 🔄 - Prompt management and optimization
 - **[PromptInterface.ai](https://promptinterface.ai)** 🔄 - Interactive prompt builder
-- **[Prompt Generator](https://trypromptgenerator.com)** 🔄 - Writes prompts for ChatGPT, Claude, Midjourney, Veo and other AI tools. Free daily allowance, no sign-up.
+- **[Prompt Generator](https://trypromptgenerator.com)** 🔄 - Writes prompts for ChatGPT, Claude, Midjourney, Veo and more; free daily allowance, no sign-up
 
 #### 🎨 Image Generation Prompts
 - **[AI Image Lab](https://aiimagelab.art)** 🆓 - Free AI image generator with curated prompt library across 8 categories. 4K output
