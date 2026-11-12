@@ -978,6 +978,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Vidu](https://mp.weixin.qq.com/s/xAEYGIoJ0EzhszfmXno3UA)
 - [Lumalabs.ai](https://lumalabs.ai/dream-machine)
 - [Vivideo](https://vivideo.ai/tools/text-to-video)
+- [AI Rap Video](https://rapaivideo.net) - Turns two selfies into a lip-synced rap music video with AI lyrics and beat
 
 ## Image to Video
 - [Lumalabs.ai DreamMachine](https://lumalabs.ai/dream-machine)
