@@ -533,6 +533,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Pixwit](https://pixwit.ai)** 🔄 - Multi-model text-to-video, image-to-video and image generation
 - **[Seedance Now](https://seedancenow.com)** 🔄 - Independent multi-model text and image to video studio with 1080p output
 - **[Imagera](https://imagera.ai)** 💰 - Multi-model AI video and image studio with Character IDs for consistent faces and products
+- **[H3 MiniMax](https://h3minimax.com/)** 🔄 - Turn a text prompt or a photo into a short AI video with the MiniMax H3 model
 
 #### 🎬 Content Creation
 - **[Synthesia](https://synthesia.io)** 💰 - AI avatar video generation
