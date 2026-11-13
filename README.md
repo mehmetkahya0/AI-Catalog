@@ -42,7 +42,7 @@
 <div align="center">
   <strong>⭐ If you find this catalog helpful, please consider giving it a star! ⭐</strong>
   <br><br>
-  <i>Last updated: November 11, 2026 | Next goal: 500 stars 🎯</i>
+  <i>Last updated: November 13, 2026 | Next goal: 500 stars 🎯</i>
   <br><br>
   <i>🤖 Thanks to Claude Sonnet 4 for write .sh files! </i>
 </div>
@@ -109,7 +109,7 @@ Welcome to the most comprehensive AI tools catalog! This repository contains **5
 ### 📊 Quick Stats
 - **Total Tools**: 500+
 - **Categories**: 40+
-- **Last Updated**: November 11, 2026
+- **Last Updated**: November 13, 2026
 - **Contributors**: Open for PRs!
 - **Next Goal**: ⭐️ 500 stars
 
@@ -983,7 +983,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Vidu](https://mp.weixin.qq.com/s/xAEYGIoJ0EzhszfmXno3UA)
 - [Lumalabs.ai](https://lumalabs.ai/dream-machine)
 - [Vivideo](https://vivideo.ai/tools/text-to-video)
-- [AI Rap Video](https://rapaivideo.net) - Turns two selfies into a lip-synced rap music video with AI lyrics and beat
+- **[AI Rap Video](https://rapaivideo.net)** 🔄 - Turns two selfies into a lip-synced rap music video with AI lyrics and beat
 
 ## Image to Video
 - [Lumalabs.ai DreamMachine](https://lumalabs.ai/dream-machine)
