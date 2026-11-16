@@ -468,6 +468,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Atlas Cloud](https://www.atlascloud.ai)** 💰 - AI API gateway: one key for LLM, image, video and audio models
 - **[looot](https://looot.ai)** 💰 - Pay-per-call business data API and MCP server for AI agents
 - **[OneTag AI](https://onetagai.com)** 🔄 - Add AI to any static site with one script tag, no backend
+- **[HiAPI](https://hiapi.ai)** 💰 - Pay-as-you-go API key for image, video, audio and text models; OpenAI-compatible and async task APIs
 - **[HopBase](https://hop-base.com)** 💰 - AI API gateway: one base URL for Claude, GPT, Gemini, DeepSeek plus image and video models
 - **[CloudGPU](https://cloudgpu.app)** 💰 - Per-minute RTX 4090/5090 GPU rental, OpenAI-compatible model API and MCP server
 - **[Vectoree](https://vectoree.ai)** 💰 - Hosted backend for coding agents with one OpenAI-compatible project key, auth, Postgres and storage
