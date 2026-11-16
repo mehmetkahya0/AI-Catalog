@@ -613,6 +613,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Kissable](https://kissable.app)** 💰 - AI companion with persistent memory, photo/video generation, and community scenarios
 - **[Auferet](https://auferet.com/)** - AI game master for text adventures and tabletop RPGs with story memory
 - **[Poe](https://poe.com)** 🔄 - Multiple AI models in one platform
+- **[Adoree](https://adoree.ai/?utm_source=github-mehmetkahya0&utm_medium=directory&utm_campaign=launch_nov2026)** 🔄 - AI relationship assistant helping couples say what they mean and find a constructive next step
 
 #### 🌐 Browser Integration
 - **[Brave Search](https://search.brave.com)** 🆓 - Privacy-focused search with AI
