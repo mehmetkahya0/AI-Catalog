@@ -919,6 +919,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Microsoft Power Automate](https://powerautomate.microsoft.com)** 🔄 - Business process automation
 - **[n8n](https://n8n.io)** 🆓 - Open source workflow automation
 - **[Aident Loadout](https://aident.ai)** 🔄 - Remote MCP server connecting Claude Code, Codex and Cursor to your apps
+- [HumanPen](https://humanpen.net/) - Document-level AI academic & research writing platform: Humanize (DOCX/PPTX/TXT), Translate (12 languages, PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT), Condense (DOCX), Citation Format Correction (12 styles), and Research Projects (100 signup credits; commercial credit-based pricing).
 
 ## AI's for SQL
 - Airops
