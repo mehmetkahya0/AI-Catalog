@@ -347,7 +347,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[ChatGPT](https://chat.openai.com)** 🔄 - Versatile AI writing assistant
 - **[Dearovo](https://www.dearovo.com/)** 🔄 - AI relationship message writer with context, tone, and length controls.
 - **[Humanize-Text](https://github.com/lynote-ai/humanize-text)** 🆓 - Open-source multi-stage text rewriting toolkit
-- **[HumanPen](https://humanpen.net/)** 🔄 - Rewrites, translates, condenses, and reformats citations in documents.
+- **[HumanPen](https://humanpen.net/)** 💰 - Rewrites, translates, condenses, and reformats citations in documents.
 - **[Notion AI](https://notion.so/ai)** 💰 - Integrated writing tools in Notion
 - **[Grammarly](https://grammarly.com)** 🔄 - Grammar, style, and tone suggestions
 - **[Merlin AI](https://merlin.foyer.work)** 🔄 - Browser extension for AI writing
