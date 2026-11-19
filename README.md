@@ -666,6 +666,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - Human Or Not
 - Ludo
 - Hidden Door
+- [RespawnStack](https://respawnstack.com)
 - AI puzzles
 - **[Couscous: Secret Word](https://couscous.ai)** 🆕🔄 - Yes-or-no word-guessing game; a language model judges every question
  
