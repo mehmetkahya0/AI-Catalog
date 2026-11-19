@@ -42,7 +42,7 @@
 <div align="center">
   <strong>⭐ If you find this catalog helpful, please consider giving it a star! ⭐</strong>
   <br><br>
-  <i>Last updated: November 17, 2026 | Next goal: 500 stars 🎯</i>
+  <i>Last updated: November 19, 2026 | Next goal: 500 stars 🎯</i>
   <br><br>
   <i>🤖 Thanks to Claude Sonnet 4 for write .sh files! </i>
 </div>
@@ -109,7 +109,7 @@ Welcome to the most comprehensive AI tools catalog! This repository contains **5
 ### 📊 Quick Stats
 - **Total Tools**: 500+
 - **Categories**: 40+
-- **Last Updated**: November 17, 2026
+- **Last Updated**: November 19, 2026
 - **Contributors**: Open for PRs!
 - **Next Goal**: ⭐️ 500 stars
 
@@ -766,7 +766,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Duolingo Max](https://duolingo.com)** 💰 - AI-powered language learning
 - **[Speak](https://speak.com)** 🔄 - AI conversation practice
 - **[Langotalk](https://langotalk.org)** 🔄 - AI language exchange
-- **[Kahoyo](https://kahoyo.com/?ref=ai-catalog)** 🔄 - IELTS Speaking mock exam with an AI examiner that speaks; Part 1 free
+- **[Kahoyo](https://kahoyo.com)** 🔄 - IELTS Speaking mock exam with an AI examiner that speaks; Part 1 free
 - **[TutorAI](https://tutorai.me)** 🆓 - Learn anything with AI
 - **[Slate](https://slateup.ai)** 🔄 - Interactive AI classroom that generates courses with slides, narration and AI classmates
 - **[StoryRoute](https://storyroute.netlify.app)** 🆓 - Turns any topic or document into a branching, story-driven learning path
@@ -861,6 +861,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Tableau Ask Data](https://tableau.com)** 💰 - Natural language data queries
 - **[Microsoft Copilot for Excel](https://microsoft.com)** 💰 - AI-powered spreadsheet analysis
 - **[Equibles](https://equibles.com)** 🔄 - MCP server with cited US stock data from SEC filings for ChatGPT and Claude
+- **[CorpusIQ](https://corpusiq.io)** 🔄 - MCP server that lets Claude, ChatGPT and Cursor answer from 40+ business tools like Stripe
 - **[DisconfirmAI](https://disconfirmai.com/en)** 🔄 - Investment research platform that surfaces evidence that could overturn your thesis
 - **[Fair Value Calculator](https://www.fairvalue-calculator.com/)** 🔄 - Fair value for 40,000+ stocks from 26 valuation models, AI chat and hosted MCP
 
