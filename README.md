@@ -766,6 +766,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Duolingo Max](https://duolingo.com)** 💰 - AI-powered language learning
 - **[Speak](https://speak.com)** 🔄 - AI conversation practice
 - **[Langotalk](https://langotalk.org)** 🔄 - AI language exchange
+- **[Kahoyo](https://kahoyo.com/?ref=ai-catalog)** 🔄 - IELTS Speaking mock exam with an AI examiner that speaks; Part 1 free
 - **[TutorAI](https://tutorai.me)** 🆓 - Learn anything with AI
 - **[Slate](https://slateup.ai)** 🔄 - Interactive AI classroom that generates courses with slides, narration and AI classmates
 - **[StoryRoute](https://storyroute.netlify.app)** 🆓 - Turns any topic or document into a branching, story-driven learning path
