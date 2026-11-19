@@ -513,6 +513,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Riffusion](https://riffusion.com)** 🆓 - AI music generation from text
 - **[AIVA](https://aiva.ai)** 🔄 - AI music composition
 - **[MuseGen](https://musegen.org)** 🆕 - AI music creation platform and audio edit tools
+- **[BeatMusic](https://beatmusic.ai)** 🔄 - AI music generator that turns a text idea or lyrics into full songs with vocals
 
 #### 🔧 Audio Enhancement
 - **[Adobe Podcast](https://podcast.adobe.com)** 🆓 - AI audio enhancement
@@ -561,6 +562,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Twistavo](https://twistavo.com)** 💰 - AI character swap: replace a person in a video from 1 to 4 photos
 - **[HoneyVid](https://honeyvid.ai)** 🆕💰 - Put anyone from one photo into a viral video, or generate with Kling, Veo and Seedance
 - **[Angry Dance](https://angrydance.com)** 🆕💰 - Turn one photo into 9:16 AI pet dance, meme, and two-step scene clips without watermarks
+- **[BeatMV](https://beatmv.ai)** 🔄 - AI music video generator that turns any song into a beat-synced music video
 
 #### 🆕 Emerging Platforms
 - **[Haiper AI](https://haiper.ai)** 🆕🔄 - Fast video generation
