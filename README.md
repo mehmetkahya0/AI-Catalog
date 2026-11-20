@@ -726,6 +726,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - Unbounce
 - CodeWP
 - Framer
+- **[Ginta](https://ginta.app)** 🔄 - AI website builder for small businesses, with forms, bookings and a shop
 
 ## ChatGPT Plugins
 - Expedia
