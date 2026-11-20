@@ -352,6 +352,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Grammarly](https://grammarly.com)** 🔄 - Grammar, style, and tone suggestions
 - **[Merlin AI](https://merlin.foyer.work)** 🔄 - Browser extension for AI writing
 - **[Ritemark](https://ritemark.app)** 🆓 - Markdown editor where Claude Code or Codex edit the files in your folder
+- **[GuruTrans](https://gurutrans.app/)** 🔄 - AI translation tools for languages, old English styles, and Morse code
 
 #### 🖋️ Creative Writing
 - **[KoboldAI](https://github.com/henk717/KoboldAI)** 🆓 - Open-source story writing AI
