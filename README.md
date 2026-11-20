@@ -274,6 +274,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Yi-1.5](https://huggingface.co/01-ai)** 🆕🆓 - 01.AI's bilingual model
 - **[Vicuna](https://vicuna.lmsys.org)** 🆓 - UC Berkeley's ChatGPT alternative
 - **[WizardLM 2](https://github.com/nlpxucan/WizardLM)** 🆕🆓 - Improved instruction-following
+- **[CAEL](https://github.com/Vovala14/CAEL)** 🆕🆓 - Non-neural chat and reasoning assistant on CPU; ARC grid solver
 
 ---
 
