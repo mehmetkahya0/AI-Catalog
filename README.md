@@ -562,6 +562,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Twistavo](https://twistavo.com)** 💰 - AI character swap: replace a person in a video from 1 to 4 photos
 - **[HoneyVid](https://honeyvid.ai)** 🆕💰 - Put anyone from one photo into a viral video, or generate with Kling, Veo and Seedance
 - **[Angry Dance](https://angrydance.com)** 🆕💰 - Turn one photo into 9:16 AI pet dance, meme, and two-step scene clips without watermarks
+- **[PawMambo](https://pawmambo.com/)** 🔄 - Dog photo and dance-reference clip to AI video; 20 one-time signup credits
 - **[BeatMV](https://beatmv.ai)** 🔄 - AI music video generator that turns any song into a beat-synced music video
 
 #### 🆕 Emerging Platforms
