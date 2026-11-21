@@ -797,6 +797,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[AgentGPT](https://agentgpt.reworkd.ai)** 🆓 - Browser-based autonomous agent
 - **[AnyModelBot](https://github.com/modelflare-ai/AnyModelBot)** 🆕🆓 - Open-source desktop assistant, first out-of-the-box DeepSeek Super Agent
 - **[kwant](https://github.com/alexsergivan/kwant)** 🆕🆓 - Self-hosted team of AI bots in one Rust binary with @mention handoffs, routines and approvals
+- **[5dive](https://github.com/5dive-ai/5dive)** 🆓 - Self-hosted AI team that runs Claude Code, Codex and other agents on your own server
 
 #### 🛠️ Agent Frameworks
 - **[LangGraph](https://langchain.com)** 🆕🆓 - Stateful agent workflows
