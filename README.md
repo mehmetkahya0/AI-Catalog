@@ -915,6 +915,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 #### ⚡ Personal Assistants
 - **[Notion AI](https://notion.so/ai)** 💰 - AI-powered note-taking and organization
 - **[Remio](https://remio.ai/)** 🔄 - Local-first AI knowledge base for personal context retrieval
+- **[AFFiNE](https://affine.pro)** 🔄 - Open-source, local-first knowledge base with AI for docs, whiteboards and databases
 - **[Todoist](https://todoist.com)** 🔄 - Task management with AI assistance
 - **[Motion](https://usemotion.com)** 💰 - AI calendar and task planner
 - **[NeverApply](https://neverapply.co)** 🔄 - AI job-search agent: matches jobs, tailors resumes, and applies with your approval.
