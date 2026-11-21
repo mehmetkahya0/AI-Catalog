@@ -730,6 +730,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - CodeWP
 - Framer
 - **[PolyDraft](https://polydraft.ai)** 🔄 - AI website builder that researches, writes and builds a complete site from a business brief
+- **[Ginta](https://ginta.app)** 🔄 - AI website builder for small businesses, with forms, bookings and a shop
 
 ## ChatGPT Plugins
 - Expedia
