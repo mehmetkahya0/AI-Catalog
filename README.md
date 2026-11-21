@@ -621,6 +621,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Auferet](https://auferet.com/)** - AI game master for text adventures and tabletop RPGs with story memory
 - **[Poe](https://poe.com)** 🔄 - Multiple AI models in one platform
 - **[Adoree](https://adoree.ai)** 🔄 - AI relationship assistant that helps couples say what they mean and find next steps
+- **[Quock](https://apps.apple.com/app/quock/id6785608333)** 🆓 - Open-source iPhone app to chat with Ollama Cloud models using your ollama.com account
 
 #### 🌐 Browser Integration
 - **[Brave Search](https://search.brave.com)** 🆓 - Privacy-focused search with AI
