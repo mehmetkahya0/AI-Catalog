@@ -42,7 +42,7 @@
 <div align="center">
   <strong>⭐ If you find this catalog helpful, please consider giving it a star! ⭐</strong>
   <br><br>
-  <i>Last updated: November 19, 2026 | Next goal: 500 stars 🎯</i>
+  <i>Last updated: November 21, 2026 | Next goal: 500 stars 🎯</i>
   <br><br>
   <i>🤖 Thanks to Claude Sonnet 4 for write .sh files! </i>
 </div>
@@ -109,7 +109,7 @@ Welcome to the most comprehensive AI tools catalog! This repository contains **5
 ### 📊 Quick Stats
 - **Total Tools**: 500+
 - **Categories**: 40+
-- **Last Updated**: November 19, 2026
+- **Last Updated**: November 21, 2026
 - **Contributors**: Open for PRs!
 - **Next Goal**: ⭐️ 500 stars
 
@@ -473,6 +473,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[looot](https://looot.ai)** 💰 - Pay-per-call business data API and MCP server for AI agents
 - **[OneTag AI](https://onetagai.com)** 🔄 - Add AI to any static site with one script tag, no backend
 - **[HiAPI](https://hiapi.ai)** 💰 - Pay-as-you-go API for image, video, audio and text models; OpenAI-compatible
+- **[Wiro AI](https://wiro.ai)** 💰 - One API for 1,000+ image, video, audio and LLM models, plus workflows, agents and MCP
 - **[HopBase](https://hop-base.com)** 💰 - AI API gateway: one base URL for Claude, GPT, Gemini, DeepSeek plus image and video models
 - **[CloudGPU](https://cloudgpu.app)** 💰 - Per-minute RTX 4090/5090 GPU rental, OpenAI-compatible model API and MCP server
 - **[Vectoree](https://vectoree.ai)** 💰 - Hosted backend for coding agents with one OpenAI-compatible project key, auth, Postgres and storage
@@ -509,7 +510,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Murf](https://murf.ai)** 🔄 - AI voice generator for content
 - **[Speechify](https://speechify.com)** 🔄 - Text-to-speech with natural voices
 - **[Resemble AI](https://resemble.ai)** 💰 - Custom voice cloning
-- **[Voiceshard](https://voiceshard.com)** 🔄 - Free AI text to speech: create and listen with no signup, sign in free to download.
+- **[Voiceshard](https://voiceshard.com)** 🔄 - Free AI text to speech: create and listen with no signup, sign in free to download
 
 #### 🎵 Music Generation
 - **[Suno AI](https://suno.ai)** 🆕 - AI music and song generation
