@@ -509,6 +509,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Murf](https://murf.ai)** 🔄 - AI voice generator for content
 - **[Speechify](https://speechify.com)** 🔄 - Text-to-speech with natural voices
 - **[Resemble AI](https://resemble.ai)** 💰 - Custom voice cloning
+- **[Voiceshard](https://voiceshard.com)** 🔄 - Free AI text to speech: create and listen with no signup, sign in free to download.
 
 #### 🎵 Music Generation
 - **[Suno AI](https://suno.ai)** 🆕 - AI music and song generation
