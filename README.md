@@ -473,6 +473,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[looot](https://looot.ai)** 💰 - Pay-per-call business data API and MCP server for AI agents
 - **[OneTag AI](https://onetagai.com)** 🔄 - Add AI to any static site with one script tag, no backend
 - **[HiAPI](https://hiapi.ai)** 💰 - Pay-as-you-go API for image, video, audio and text models; OpenAI-compatible
+- **[Runheed](https://runheed.com/?ref=ai-catalog)** 💰 - Error tracking your coding agent reads over MCP: stack traces, breadcrumbs, resolve with the fix
 - **[Wiro AI](https://wiro.ai)** 💰 - One API for 1,000+ image, video, audio and LLM models, plus workflows, agents and MCP
 - **[HopBase](https://hop-base.com)** 💰 - AI API gateway: one base URL for Claude, GPT, Gemini, DeepSeek plus image and video models
 - **[CloudGPU](https://cloudgpu.app)** 💰 - Per-minute RTX 4090/5090 GPU rental, OpenAI-compatible model API and MCP server
