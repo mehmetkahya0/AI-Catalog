@@ -511,6 +511,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Speechify](https://speechify.com)** 🔄 - Text-to-speech with natural voices
 - **[Resemble AI](https://resemble.ai)** 💰 - Custom voice cloning
 - **[Voiceshard](https://voiceshard.com)** 🔄 - Free AI text to speech: create and listen with no signup, sign in free to download
+- **[VoiceScribe](https://greatwork.company/tools/voicescribe?ref=ai-catalog)** 💰 - Transcribes audio files to text in 99 languages, paid per file
 
 #### 🎵 Music Generation
 - **[Suno AI](https://suno.ai)** 🆕 - AI music and song generation
