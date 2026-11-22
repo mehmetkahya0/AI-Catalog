@@ -173,6 +173,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 #### 🆕 Specialized Tools
 - **[ArtImageHub](https://artimagehub.com/old-photo-restoration)** 🔄 - AI old photo restoration that fixes scratches, fading and water damage
+- **[RevivePhoto](https://greatwork.company/tools/revivephoto?ref=ai-catalog)** 💰 - Restores and colorizes old photos: fixes scratches, tears and fading, paid per photo
 - **[APPLORE](https://applore.app/ai-app-icon-generator)** 🔄 - AI app icon generator for iOS and Android using App Store icons as style references
 - **[Cutout.Free](https://cutout.free/)** 🆓 - Free browser background remover that exports transparent PNG, no account needed
 - **[Stayput Background Remover](https://stayput.dev/tools/remove-background)** 🆓 - Open-source in-browser background remover; photos are not uploaded, saves a transparent PNG
