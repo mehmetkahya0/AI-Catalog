@@ -547,6 +547,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Seedance Now](https://seedancenow.com)** 🔄 - Independent multi-model text and image to video studio with 1080p output
 - **[Imagera](https://imagera.ai)** 💰 - Multi-model AI video and image studio with Character IDs for consistent faces and products
 - **[H3 MiniMax](https://h3minimax.com/)** 🔄 - Turn a text prompt or a photo into a short AI video with the MiniMax H3 model
+- **[Vidmoat](https://www.vidmoat.com)** 🔄 - Hosted AI video editor: edit by chat on a real timeline, render MP4
 
 #### 🎬 Content Creation
 - **[Synthesia](https://synthesia.io)** 💰 - AI avatar video generation
