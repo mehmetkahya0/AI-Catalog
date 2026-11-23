@@ -42,7 +42,7 @@
 <div align="center">
   <strong>⭐ If you find this catalog helpful, please consider giving it a star! ⭐</strong>
   <br><br>
-  <i>Last updated: November 21, 2026 | Next goal: 500 stars 🎯</i>
+  <i>Last updated: November 23, 2026 | Next goal: 500 stars 🎯</i>
   <br><br>
   <i>🤖 Thanks to Claude Sonnet 4 for write .sh files! </i>
 </div>
@@ -109,7 +109,7 @@ Welcome to the most comprehensive AI tools catalog! This repository contains **5
 ### 📊 Quick Stats
 - **Total Tools**: 500+
 - **Categories**: 40+
-- **Last Updated**: November 21, 2026
+- **Last Updated**: November 23, 2026
 - **Contributors**: Open for PRs!
 - **Next Goal**: ⭐️ 500 stars
 
@@ -468,7 +468,8 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Scalekit](https://scalekit.com)** 🔄 - AI agent integration platform: 600+ connectors, 35,000+ tools, per-user OAuth
 - **[Model Salt](https://modelsalt.com)** 🆓 - MCP server that gives a model outside random choices so one prompt gives varied answers
 - **[Keenable](https://keenable.ai)** 🔄 - Web search and page-fetch API and MCP server for AI agents, with a keyless free tier
-- **[UberLLM](https://uberllm.dev)** 💰 - One OpenAI/Anthropic-compatible API key for text, image, video, music and speech models
+- **[MartLLM](https://martllm.com)** 💰 - One OpenAI/Anthropic-compatible API key for text, image, video, music and speech models
+- **[Runheed](https://runheed.com)** 💰 - Error tracking your coding agent reads over MCP: stack traces, breadcrumbs, resolve with the fix
 - **[Atlas Cloud](https://www.atlascloud.ai)** 💰 - AI API gateway: one key for LLM, image, video and audio models
 - **[looot](https://looot.ai)** 💰 - Pay-per-call business data API and MCP server for AI agents
 - **[OneTag AI](https://onetagai.com)** 🔄 - Add AI to any static site with one script tag, no backend
@@ -505,6 +506,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 ## Audio Editing
 > AI-powered audio processing, generation, and enhancement tools
 
+- **[VoiceScribe](https://greatwork.company/tools/voicescribe)** 💰 - Transcribes audio files to text in 99 languages, paid per file
 #### 🎙️ Voice & Speech
 - **[ElevenLabs](https://elevenlabs.io)** 🔄 - Advanced AI voice synthesis
 - **[Murf](https://murf.ai)** 🔄 - AI voice generator for content
@@ -531,6 +533,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 ## Video Generator
 > AI-powered video creation and editing tools
 
+- **[Vidmoat](https://www.vidmoat.com)** 🔄 - Hosted AI video editor: edit by chat on a real timeline, render MP4
 #### 🔥 Professional Video Tools
 - **[Gemini Omni](https://gemini.google.com)** 🆕🔄 - Google's any-to-any model, starting with video generation (2026)
 - **[Seedance 2.5](https://seed.bytedance.com)** 🆕🔄 - ByteDance's model for 30-second multi-reference videos (July 2026)
@@ -820,6 +823,9 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[HumanizePhoto](https://humanizephoto.com/create-realistic-ai-images)** 🔄 - Refine plastic skin and artificial lighting in existing AI-generated photos
 - [insightface.ai](https://insightface.ai)
 - **[PixPurge](https://pixpurge.com)** 🔄 - AI text remover for images: erase text, watermarks, and date stamps automatically.
+- **[ClearBG](https://greatwork.company/tools/clearbg)** 💰 - Removes a photo background and returns a transparent PNG, paid per image
+- **[RevivePhoto](https://greatwork.company/tools/revivephoto)** 💰 - Restores and colorizes old photos: fixes scratches, tears and fading, paid per photo
+- **[Reletter](https://aiedittextinimage.com/)** 🔄 - Detects and replaces text in screenshots, menus and product photos
 - **[Klaruvo](https://www.powersoftware.app/en-US/product/detail/klaruvo)** 🔄 - Local offline AI image editor: watermark & object removal, cutout, upscaling
 - **[RoomLab.app](https://roomlab.app)** 🔄 - Virtual staging, decluttering and restyling for room and property photos
 - **[October](https://www.october-ai.com)** 🔄 - iPhone app: a guided walk through a home becomes listing photos and a walkthrough video
@@ -831,6 +837,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf/related)
 - [ChatGPT for YouTube](https://chrome.google.com/webstore/detail/chatgpt-for-youtube/ocbklpkcikpidkleacbohkobinlilgbd)
 - [Engage AI](https://chrome.google.com/webstore/detail/engage-ai-openai-gpt-for/nelhhkchoapcbpcgpmmiahfkcdhgecaf/related)
+- **[ChatSequel](https://chromewebstore.google.com/detail/cdkihfdcmchokmfbpeglffiiknmmjdcj)** 🆓 - Auto-continues ChatGPT replies after a set delay, with per-tab controls
 
 ## Deep Face & Deep Fake
 - [insightface.ai](https://insightface.ai)
