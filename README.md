@@ -631,6 +631,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Poe](https://poe.com)** 🔄 - Multiple AI models in one platform
 - **[Adoree](https://adoree.ai)** 🔄 - AI relationship assistant that helps couples say what they mean and find next steps
 - **[Quock](https://apps.apple.com/app/quock/id6785608333)** 🆓 - Open-source iPhone app to chat with Ollama Cloud models using your ollama.com account
+- **[Muse老大的小点](https://www.16688.com.cn/shop/S165977)** 💰 - Reseller store for ChatGPT/Claude/Gemini subscriptions, top-ups and activation keys. Also: [链动小铺店](https://wzyp.cn/shop/BQ4CP1P2)
 
 #### 🌐 Browser Integration
 - **[Brave Search](https://search.brave.com)** 🆓 - Privacy-focused search with AI
