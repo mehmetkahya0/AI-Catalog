@@ -913,6 +913,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Pulse](https://pulsecorp.co)** 💰 - AI-moderated market research platform that runs customer interviews at scale
 - **[BulkPublish](https://www.bulkpublish.com)** 🔄 - Social media scheduler for 15 platforms with AI captions and an MCP server
 - **[Wavegrain](https://wavegrain.com)** 🆕 - TikTok slideshows and Instagram carousels for a brand, made, scheduled and posted
+- **[Transformer.gg](https://transformer.gg/?utm_source=ai-catalog&utm_medium=referral&utm_campaign=backlinks&utm_content=listing)** 🔄 - Book sponsored posts from X creators from a dashboard or your AI agent via MCP, CLI or API
 
 ## AI Productivity
 > AI tools to enhance personal and professional productivity
