@@ -474,6 +474,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Vectoree](https://vectoree.ai)** 💰 - Hosted backend for coding agents with one OpenAI-compatible project key, auth, Postgres and storage
 - **[Agentik](https://www.agentik.cc)** 💰 - One MCP connection to 3,500+ paid tools for AI agents, price shown before each call
 - **[SightRadar Face Recognition API MCP](https://sightradar.com/mcp)** 💰 - Face recognition API and MCP server: index photos, find a person from one selfie, compare faces
+- **[Taskhold](https://taskhold.com/?ref=ai-catalog)** 💰 - A task list shared with your coding agents over MCP: steps, live progress, blocked questions
 
 ## Low Code - no code Tools
 - Magicform
