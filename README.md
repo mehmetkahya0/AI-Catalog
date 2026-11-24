@@ -298,6 +298,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Documind](https://documind.chat)** 🔄 - Chat with PDFs and documents
 - **[Upword](https://www.upword.ai/)** 🔄 - Research and reading companion
 - **[Quino](https://quino.ai)** 🔄 - Academic paper summarizer
+- **[PDF Summarizer](https://bestlatestapps.com/ai/pdf-summarizer/)** 🆓 - Summarizes PDFs in the browser, with an optional on-device AI model; no upload
 
 #### 🌐 Web & General Content
 - **[Recall](https://www.getrecall.ai/)** 🔄 - Summarize anything, forget nothing
