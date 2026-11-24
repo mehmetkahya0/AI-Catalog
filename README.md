@@ -481,6 +481,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Agentik](https://www.agentik.cc)** 💰 - One MCP connection to 3,500+ paid tools for AI agents, price shown before each call
 - **[SightRadar Face Recognition API MCP](https://sightradar.com/mcp)** 💰 - Face recognition API and MCP server: index photos, find a person from one selfie, compare faces
 - **[CallForMe](https://callforme.tel)** 💰 - MCP server and API that lets AI agents phone businesses, wait on hold and return a transcript
+- **[Saqr](https://usesaqr.com)** 💰 - Security testing for live apps built with Lovable, Bolt or Cursor, with a fix prompt per finding
 
 ## Low Code - no code Tools
 - Magicform
