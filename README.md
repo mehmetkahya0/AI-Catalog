@@ -42,7 +42,7 @@
 <div align="center">
   <strong>⭐ If you find this catalog helpful, please consider giving it a star! ⭐</strong>
   <br><br>
-  <i>Last updated: November 23, 2026 | Next goal: 500 stars 🎯</i>
+  <i>Last updated: November 25, 2026 | Next goal: 500 stars 🎯</i>
   <br><br>
   <i>🤖 Thanks to Claude Sonnet 4 for write .sh files! </i>
 </div>
@@ -109,7 +109,7 @@ Welcome to the most comprehensive AI tools catalog! This repository contains **5
 ### 📊 Quick Stats
 - **Total Tools**: 500+
 - **Categories**: 40+
-- **Last Updated**: November 23, 2026
+- **Last Updated**: November 25, 2026
 - **Contributors**: Open for PRs!
 - **Next Goal**: ⭐️ 500 stars
 
@@ -473,6 +473,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Keenable](https://keenable.ai)** 🔄 - Web search and page-fetch API and MCP server for AI agents, with a keyless free tier
 - **[MartLLM](https://martllm.com)** 💰 - One OpenAI/Anthropic-compatible API key for text, image, video, music and speech models
 - **[Runheed](https://runheed.com)** 💰 - Error tracking your coding agent reads over MCP: stack traces, breadcrumbs, resolve with the fix
+- **[Anansi Haven](https://anansi-haven.anansidata.workers.dev/)** 🔄 - Remote MCP server giving AI agents persistent memory, rooms, messages and tool search
 - **[Atlas Cloud](https://www.atlascloud.ai)** 💰 - AI API gateway: one key for LLM, image, video and audio models
 - **[looot](https://looot.ai)** 💰 - Pay-per-call business data API and MCP server for AI agents
 - **[OneTag AI](https://onetagai.com)** 🔄 - Add AI to any static site with one script tag, no backend
@@ -485,7 +486,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[SightRadar Face Recognition API MCP](https://sightradar.com/mcp)** 💰 - Face recognition API and MCP server: index photos, find a person from one selfie, compare faces
 - **[CallForMe](https://callforme.tel)** 💰 - MCP server and API that lets AI agents phone businesses, wait on hold and return a transcript
 - **[Apidly Cloud](https://apidly.com)** 💰 - Managed GPU servers for AI with ComfyUI, Ollama and vLLM templates, API and CLI
-- **[Taskhold](https://taskhold.com/?ref=ai-catalog)** 💰 - A task list shared with your coding agents over MCP: steps, live progress, blocked questions
+- **[Taskhold](https://taskhold.com)** 💰 - A task list shared with your coding agents over MCP: steps, live progress, blocked questions
 - **[Saqr](https://usesaqr.com)** 💰 - Security testing for live apps built with Lovable, Bolt or Cursor, with a fix prompt per finding
 
 ## Low Code - no code Tools
@@ -513,6 +514,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 > AI-powered audio processing, generation, and enhancement tools
 
 - **[VoiceScribe](https://greatwork.company/tools/voicescribe)** 💰 - Transcribes audio files to text in 99 languages, paid per file
+- **[FastScribe](https://fastscribe.org/)** 🔄 - Transcribes recordings and public videos into editable text and timestamped subtitles
 #### 🎙️ Voice & Speech
 - **[ElevenLabs](https://elevenlabs.io)** 🔄 - Advanced AI voice synthesis
 - **[Murf](https://murf.ai)** 🔄 - AI voice generator for content
