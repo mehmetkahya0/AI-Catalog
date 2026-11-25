@@ -484,6 +484,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[CallForMe](https://callforme.tel)** 💰 - MCP server and API that lets AI agents phone businesses, wait on hold and return a transcript
 - **[Apidly Cloud](https://apidly.com)** 💰 - Managed GPU servers for AI with ComfyUI, Ollama and vLLM templates, API and CLI
 - **[Taskhold](https://taskhold.com/?ref=ai-catalog)** 💰 - A task list shared with your coding agents over MCP: steps, live progress, blocked questions
+- **[Saqr](https://usesaqr.com)** 💰 - Security testing for live apps built with Lovable, Bolt or Cursor, with a fix prompt per finding
 
 ## Low Code - no code Tools
 - Magicform
