@@ -230,6 +230,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 #### 🛠️ Self-Hosted Options
 - **[AI Runner](https://github.com/Capsize-Games/airunner)** 🆓 - Local AI model runner with GUI
 - **[Jan](https://jan.ai)** 🆓 - Open-source ChatGPT alternative
+- **[Pomelu](https://royan.se/pomelu/)** 🆓 - Open-source Android and iOS app to chat with your self-hosted Hermes Agent
 - **[Trina AX](https://github.com/trina-app/trina-ax)** 🔄 - Self-hosted team AI workspace that runs Claude Code and Codex for a whole company
 
 ---
