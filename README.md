@@ -925,6 +925,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 > AI tools to enhance personal and professional productivity
 
 #### ⚡ Personal Assistants
+- **[No Stairs Please](https://nostairsplease.com/mcp)** 🆕🆓 - MCP server and directory for independent bands to search 3,400+ under-400-capacity live music venues
 - **[Notion AI](https://notion.so/ai)** 💰 - AI-powered note-taking and organization
 - **[Remio](https://remio.ai/)** 🔄 - Local-first AI knowledge base for personal context retrieval
 - **[AFFiNE](https://affine.pro)** 🔄 - Open-source, local-first knowledge base with AI for docs, whiteboards and databases
