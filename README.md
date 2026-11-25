@@ -572,6 +572,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Angry Dance](https://angrydance.com)** 🆕💰 - Turn one photo into 9:16 AI pet dance, meme, and two-step scene clips without watermarks
 - **[PawMambo](https://pawmambo.com/)** 🔄 - Dog photo and dance-reference clip to AI video; 20 one-time signup credits
 - **[BeatMV](https://beatmv.ai)** 🔄 - AI music video generator that turns any song into a beat-synced music video
+- **[iArt](https://www.iart.ai)** 🔄 - Creates motion graphics from prompts and refines them through chat
 
 #### 🆕 Emerging Platforms
 - **[Haiper AI](https://haiper.ai)** 🆕🔄 - Fast video generation
