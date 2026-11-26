@@ -582,6 +582,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[PawMambo](https://pawmambo.com/)** 🔄 - Dog photo and dance-reference clip to AI video; 20 one-time signup credits
 - **[BeatMV](https://beatmv.ai)** 🔄 - AI music video generator that turns any song into a beat-synced music video
 - **[iArt](https://www.iart.ai)** 🔄 - Creates motion graphics from prompts and refines them through chat
+- **[SubtitleGenerator](https://subtitlegenerator.app)** 🔄 - Subtitle one video up to 10 minutes free, no signup. Your video stays on your device.
 
 #### 🆕 Emerging Platforms
 - **[Haiper AI](https://haiper.ai)** 🆕🔄 - Fast video generation
