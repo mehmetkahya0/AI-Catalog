@@ -894,6 +894,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[CorpusIQ](https://corpusiq.io)** 🔄 - MCP server that lets Claude, ChatGPT and Cursor answer from 40+ business tools like Stripe
 - **[DisconfirmAI](https://disconfirmai.com/en)** 🔄 - Investment research platform that surfaces evidence that could overturn your thesis
 - **[Fair Value Calculator](https://www.fairvalue-calculator.com/)** 🔄 - Fair value for 40,000+ stocks from 26 valuation models, AI chat and hosted MCP
+- **[AlphaSift](https://github.com/ZhuLinsen/alphasift)** 🆕🆓 - Open-source multi-market quant stock screener, Walk-Forward evaluator & 14-tool MCP
 
 #### 🤖 Analytics Assistants
 - **[MonkeyLearn](https://monkeylearn.com)** 🔄 - No-code text analysis
