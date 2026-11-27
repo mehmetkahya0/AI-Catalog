@@ -1027,6 +1027,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - Krizmi
 - Mentor.AI
 - [OpenAI's SORA](https://openai.com/sora)
+- [AshuTeacher](https://ashuteacher.vercel.app) - Free AI-powered learning PWA & Android app with an interactive voice blackboard tutor in 24+ languages, exam paper solver, adaptive quizzes, and a Project, Thesis & Research Studio.
 - [Google's Veo](https://deepmind.google/technologies/veo/)
 - [Vidu](https://mp.weixin.qq.com/s/xAEYGIoJ0EzhszfmXno3UA)
 - [Lumalabs.ai](https://lumalabs.ai/dream-machine)
