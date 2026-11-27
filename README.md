@@ -934,6 +934,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[LogNorm](https://lognorm.com)** 🔄 - Hosted MCP server that sends your SEO/GEO backlog to Claude Code, Codex and Cursor
 - **[Kamply](https://kamplyapp.com)** 💰 - Mac marketing crew that builds posts, reels, ads and decks with Claude Code or Codex
 - **[Pulse](https://pulsecorp.co)** 💰 - AI-moderated market research platform that runs customer interviews at scale
+- **[QuestionPunk](https://www.questionpunk.com)** 🔄 - Surveys and AI-moderated voice and chat interviews that ask follow-up questions
 - **[Qonvert Marketing AI](https://qonvert.ai/services/google-ads)** 💰 - Review Google Ads campaign data and approve proposed changes. Connect via MCP.
 - **[BulkPublish](https://www.bulkpublish.com)** 🔄 - Social media scheduler for 15 platforms with AI captions and an MCP server
 - **[Wavegrain](https://wavegrain.com)** 🆕 - TikTok slideshows and Instagram carousels for a brand, made, scheduled and posted
