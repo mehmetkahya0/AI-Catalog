@@ -190,6 +190,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[FontVibe](https://fontvibe.ai)** 🔄 - Text effect and lettering designs for logos, posters and thumbnails
 - **[ThumbnailSnap](https://thumbnailsnap.com/youtube-thumbnail-maker)** 🆕🔄 - AI YouTube, Shorts and TikTok thumbnails with an editable text layer
 - **[ArchitecturesAI](https://architecturesai.com)** 🔄 - AI architecture renders from prompts, sketches, floor plans or photos; 1 free render
+- **[The Tattoo Generator](https://thetattoogenerator.com)** 🔄 - Tattoo design references in about a minute. First preview free, no subscription.
 
 #### 📱 Browser/Extension Tools
 - **[Canva AI](https://canva.com)** 🔄 - Integrated design platform with Dream Lab
