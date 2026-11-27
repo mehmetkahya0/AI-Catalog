@@ -42,7 +42,7 @@
 <div align="center">
   <strong>⭐ If you find this catalog helpful, please consider giving it a star! ⭐</strong>
   <br><br>
-  <i>Last updated: November 25, 2026 | Next goal: 500 stars 🎯</i>
+  <i>Last updated: November 27, 2026 | Next goal: 500 stars 🎯</i>
   <br><br>
   <i>🤖 Thanks to Claude Sonnet 4 for write .sh files! </i>
 </div>
@@ -109,7 +109,7 @@ Welcome to the most comprehensive AI tools catalog! This repository contains **5
 ### 📊 Quick Stats
 - **Total Tools**: 500+
 - **Categories**: 40+
-- **Last Updated**: November 25, 2026
+- **Last Updated**: November 27, 2026
 - **Contributors**: Open for PRs!
 - **Next Goal**: ⭐️ 500 stars
 
@@ -583,7 +583,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[PawMambo](https://pawmambo.com/)** 🔄 - Dog photo and dance-reference clip to AI video; 20 one-time signup credits
 - **[BeatMV](https://beatmv.ai)** 🔄 - AI music video generator that turns any song into a beat-synced music video
 - **[iArt](https://www.iart.ai)** 🔄 - Creates motion graphics from prompts and refines them through chat
-- **[SubtitleGenerator](https://subtitlegenerator.app)** 🔄 - Subtitle one video up to 10 minutes free, no signup. Your video stays on your device.
+- **[SubtitleGenerator](https://subtitlegenerator.app)** 🔄 - Subtitle one video up to 10 minutes free, no signup. Your video stays on your device
 
 #### 🆕 Emerging Platforms
 - **[Haiper AI](https://haiper.ai)** 🆕🔄 - Fast video generation
@@ -934,7 +934,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[LogNorm](https://lognorm.com)** 🔄 - Hosted MCP server that sends your SEO/GEO backlog to Claude Code, Codex and Cursor
 - **[Kamply](https://kamplyapp.com)** 💰 - Mac marketing crew that builds posts, reels, ads and decks with Claude Code or Codex
 - **[Pulse](https://pulsecorp.co)** 💰 - AI-moderated market research platform that runs customer interviews at scale
-- **[Qonvert Marketing AI](https://qonvert.ai/services/google-ads?utm_source=ai_catalog&utm_medium=directory&utm_campaign=google_ads_mcp)** 💰 - Review Google Ads campaign data and approve proposed changes. Connect via MCP.
+- **[Qonvert Marketing AI](https://qonvert.ai/services/google-ads)** 💰 - Review Google Ads campaign data and approve proposed changes. Connect via MCP.
 - **[BulkPublish](https://www.bulkpublish.com)** 🔄 - Social media scheduler for 15 platforms with AI captions and an MCP server
 - **[Wavegrain](https://wavegrain.com)** 🆕 - TikTok slideshows and Instagram carousels for a brand, made, scheduled and posted
 
@@ -1028,7 +1028,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - Krizmi
 - Mentor.AI
 - [OpenAI's SORA](https://openai.com/sora)
-- [AshuTeacher](https://ashuteacher.vercel.app) - Free AI-powered learning PWA & Android app with an interactive voice blackboard tutor in 24+ languages, exam paper solver, adaptive quizzes, and a Project, Thesis & Research Studio.
+- **[AshuTeacher](https://ashuteacher.vercel.app)** 🆓 - Free AI tutor with voice blackboard in 24+ languages, exam solver and adaptive quizzes
 - [Google's Veo](https://deepmind.google/technologies/veo/)
 - [Vidu](https://mp.weixin.qq.com/s/xAEYGIoJ0EzhszfmXno3UA)
 - [Lumalabs.ai](https://lumalabs.ai/dream-machine)
