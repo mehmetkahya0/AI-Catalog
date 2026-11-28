@@ -489,6 +489,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Apidly Cloud](https://apidly.com)** 💰 - Managed GPU servers for AI with ComfyUI, Ollama and vLLM templates, API and CLI
 - **[Taskhold](https://taskhold.com)** 💰 - A task list shared with your coding agents over MCP: steps, live progress, blocked questions
 - **[Saqr](https://usesaqr.com)** 💰 - Security testing for live apps built with Lovable, Bolt or Cursor, with a fix prompt per finding
+- **[LogBrew](https://logbrew.co)** 🔄 - Error tracking, logs and traces that your coding agent reads over MCP, with a generous free tier
 
 ## Low Code - no code Tools
 - Magicform
