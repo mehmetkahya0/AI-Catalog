@@ -433,6 +433,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[YYLO](https://github.com/yylo-dev/yylo)** 🆓 - Command-line orchestrator for coding agents with typed task, validation, and merge boundaries
 - **[Sqwakie](https://sqwakie.si)** 🆕🔄 - Live dashboard for team Claude Code and Codex agents that talk over MCP
 - **[Mercury CLI](https://github.com/Whq02/MercuryCLI)** 🆕🆓 - Terminal coding agent: parallel sessions, git-worktree crewmates, 22 providers or local models
+- **[Friday](https://github.com/splashxmoon/friday-code)** 🆕🆓 - Desktop app running 20+ coding CLIs on one task board; tasks hand off when one hits its limit
 
 #### 💻 Code Assistants
 - **[GitHub Copilot](https://github.com/features/copilot)** 💰 - AI pair programmer from GitHub
