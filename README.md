@@ -959,6 +959,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Loom](https://loom.com)** 🔄 - Video messaging with AI features
 - **[PlaceCall](https://voygr.tech/placecall/)** 🔄 - AI agent that phones US businesses and returns the outcome and transcript
 - **[SwiftCall](https://swiftcall.org/ai-agents)** 💰 - Phone, booking and follow-up AI agents for small businesses
+- **[Genaya](https://www.genaya.com)** 💰 - AI receptionist for calls, texts and chats, plus scheduling, CRM and invoices in one app
 
 #### 🔄 Automation
 - **[Zapier](https://zapier.com)** 🔄 - Workflow automation
