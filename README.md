@@ -227,6 +227,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Gemini 3 Pro](https://gemini.google.com)** 💰 - Google's flagship from December 2025
 - **[Perplexity Pro](https://pro.perplexity.ai)** 🔄 - AI-powered research and search assistant
 - **[Microsoft Copilot](https://copilot.microsoft.com)** 🔄 - Microsoft's AI assistant across products
+- **[Whizi](https://whizi.io)** 💰 - Chat with GPT, Claude, Gemini, Grok, DeepSeek and 280+ models in one app
 
 #### 🛠️ Self-Hosted Options
 - **[AI Runner](https://github.com/Capsize-Games/airunner)** 🆓 - Local AI model runner with GUI
