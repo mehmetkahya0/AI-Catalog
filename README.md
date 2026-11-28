@@ -516,6 +516,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 - **[VoiceScribe](https://greatwork.company/tools/voicescribe)** 💰 - Transcribes audio files to text in 99 languages, paid per file
 - **[FastScribe](https://fastscribe.org/)** 🔄 - Transcribes recordings and public videos into editable text and timestamped subtitles
+- **[TimedSubs](https://timedsubs.com/en)** 🔄 - Aligns a script with a voiceover to create timed subtitles for SRT and VTT export
 #### 🎙️ Voice & Speech
 - **[ElevenLabs](https://elevenlabs.io)** 🔄 - Advanced AI voice synthesis
 - **[Murf](https://murf.ai)** 🔄 - AI voice generator for content
